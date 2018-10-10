@@ -22,6 +22,13 @@
         android:persistent="true"/>
 
     <SwitchPreference
+        android:key="pref_desktop_show_labels"
+        android:title="@string/show_labels_title"
+        android:summary="@string/desktop_show_labels_summary"
+        android:defaultValue="true"
+        android:persistent="true" />
+
+    <SwitchPreference
         android:dependency="pref_show_quickspace"
         android:key="pref_quickspace_np"
         android:summary="@string/quickspace_now_playing_summary"
