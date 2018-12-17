@@ -1087,6 +1087,10 @@ public class Launcher extends StatefulActivity<LauncherState> implements Launche
         if (!mDeferOverlayCallbacks) {
             mOverlayManager.onActivityPaused(this);
         }
+
+        if (mQuickSpace != null) {
+            mQuickSpace.onPause();
+        }
     }
 
     class LauncherOverlayCallbacksImpl implements LauncherOverlayCallbacks {
