@@ -59,6 +59,9 @@ public class SettingsAppDrawer extends FragmentActivity
     private static final int DELAY_HIGHLIGHT_DURATION_MILLIS = 600;
     public static final String SAVE_HIGHLIGHTED_KEY = "android:preference_highlighted";
 
+    private static final String SUGGESTIONS_KEY = "pref_suggestions";
+    protected static final String DPS_PACKAGE = "com.google.android.as";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -172,6 +175,9 @@ public class SettingsAppDrawer extends FragmentActivity
                         }
                     });
                     return true;
+                case SUGGESTIONS_KEY:
+                    // Show if Device Personalization Services is present.
+                    return isDPSEnabled(getContext());
             }
             return true;
         }
@@ -188,6 +194,14 @@ public class SettingsAppDrawer extends FragmentActivity
                 } else {
                     requestAccessibilityFocus(getListView());
                 }
+            }
+        }
+
+        public static boolean isDPSEnabled(Context context) {
+            try {
+                return context.getPackageManager().getApplicationInfo(DPS_PACKAGE, 0).enabled;
+            } catch (PackageManager.NameNotFoundException e) {
+                return false;
             }
         }
 
