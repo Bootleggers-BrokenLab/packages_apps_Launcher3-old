@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da43372e_3fc3d0d6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-28T01:26:26Z",
+      "side": 1,
+      "message": "This is missing a follow-up commit to hide it when Google Personalization Services isn\u0027t installed. Apparently it\u0027s a gapps-only feature.",
+      "revId": "cc58d8370f57c05170133a9319b936c5ec4e833c",
+      "serverId": "b201f258-81ea-42cf-b4a3-fbb1a19f7482"
+    }
+  ]
+}
