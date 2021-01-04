@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "51e640df_30d2e065",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-01-04T04:43:45Z",
+      "side": 1,
+      "message": "change #57 was required and after merging it, it\u0027s ready to go\nhttp://review.bootleggersrom.xyz/c/Bootleggers-BrokenLab/packages_apps_Launcher3/+/57/2",
+      "revId": "e4c0726aaf0fa3d3bf5aa2940b016a52336ef449",
+      "serverId": "b201f258-81ea-42cf-b4a3-fbb1a19f7482"
+    }
+  ]
+}
