@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M7 5c-1.108 0-2 0.892-2 2v34c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892
+2-2v-34c0-1.108-0.892-2-2-2h-34zm17 4.5586a4.1326 4.1326 0 0 1 4.1328 4.1328
+4.1326 4.1326 0 0 1 -4.1328 4.1328 4.1326 4.1326 0 0 1 -4.1328 -4.1328 4.1326
+4.1326 0 0 1 4.1328 -4.1328zm0 11.205c2.2894 0 4.1328 1.9843 4.1328
+4.4512v8.7734c0 2.4669-1.8434 4.4531-4.1328
+4.4531s-4.1328-1.9863-4.1328-4.4531v-8.7734c0-2.4669 1.8434-4.4512
+4.1328-4.4512z" />
+</vector>

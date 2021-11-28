@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <group>
+        <path
+            android:strokeColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M 24 2 C 36.1502644963 2 46 11.8497355037 46 24 C 46 36.1502644963 36.1502644963 46 24 46 C 11.8497355037 46 2 36.1502644963 2 24 C 2 11.8497355037 11.8497355037 2 24 2 Z" />
+        <path
+            android:fillColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M21 26.8v6.4h-1v24h8v-24h-1v-8l-1.4-4z" />
+        <path
+            android:fillColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M4.2 24v5.3l-2.2 2.1v24.6h8v-24.6l-2.2-2.1v-5.3z" />
+        <path
+            android:fillColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M12.569 13.179-0.5686 6.7207-1 1v23h8v-23l-1-1-0.7-2 0.2-2-0.2-2 0.7-2z" />
+        <path
+            android:fillColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M30.667 18.6v3.6l-1.6667
+3.2v23.2h5v-23.2l-1.6667-3.2v-3.6l-0.41666-2-0.41667-2-0.41667 2z" />
+        <path
+            android:fillColor="#fff"
+            android:strokeWidth="8"
+            android:pathData="M35 28v5.5h1.5v1h-1.5v25.5h8v-25.5h-1.5v-1h1.5v-5.5z" />
+    </group>
+</vector>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2Zm0,38.71L19,24,24,7.29,29,24Z" />
+    <path
+        android:strokeColor="#fff"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="10"
+        android:pathData="M 19.01 24 L 28.99 24" />
+</vector>

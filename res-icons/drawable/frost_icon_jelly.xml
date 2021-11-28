@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 8.2441 22 0 0 0 8.2441-22 8.2441 22 0
+0 0-8.2441-22zm0 44a22 22 0 0 0 22-22 22 22 0 0 0-20.883-21.945 15.699 22 0 0 1
+14.582 21.945 15.699 22 0 0 1-15.699 22z" />
+</vector>

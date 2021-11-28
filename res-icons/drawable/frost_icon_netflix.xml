@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M7 5c-1.108 0-2 0.892-2 2v34c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892
+2-2v-34c0-1.108-0.892-2-2-2h-34zm7.4648 5.1426h5.9648l7.1406
+14.334v-14.334h5.9648v26.311
+1.4043h-5.9648l-7.1406-14.336v14.336h-5.9648v-27.715z" />
+</vector>

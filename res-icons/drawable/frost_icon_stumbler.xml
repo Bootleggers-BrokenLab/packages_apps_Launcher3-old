@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:strokeColor="#fff"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M7.1832 14.116a19.487 14.166 0 0 1 16.877-7.0831 19.487 14.166 0 0 1 16.877
+7.0831" />
+    <path
+        android:strokeColor="#fff"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M14.474 20.75a11 7.5 0 0 1 9.5263-3.75 11 7.5 0 0 1 9.5263 3.75" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M24 25a7 7 0 0 0-7 7 7 7 0 0 0 1.2559 3.998l5.7441 8.002 5.7402-8h-0.005859a7 7
+0 0 0 1.2656-4 7 7 0 0 0-7-7zm0 4.666a2.3333 2.3333 0 0 1 2.334 2.334 2.3333
+2.3333 0 0 1-2.334 2.334 2.3333 2.3333 0 0 1-2.334-2.334 2.3333 2.3333 0 0 1
+2.334-2.334z" />
+</vector>

@@ -1,0 +1,4202 @@
+<resources>
+<icons>
+    <!-- 1010! Klooni -->
+    <icon package="io.github.lonamiwebs.klooni" drawable="@drawable/frost_icon_tentenklooni" />
+
+    <!-- 1List -->
+    <icon package="com.lolo.io.onelist" drawable="@drawable/frost_icon_onelist" />
+
+    <!-- 2048 -->
+    <icon package="com.uberspot.a2048" drawable="@drawable/frost_icon_a2048" />
+
+    <!-- 2050 -->
+    <icon package="org.mattvchandler.a2050" drawable="@drawable/frost_icon_a2050" />
+
+    <!-- 5th Edition Spellbook -->
+    <icon package="com.spellsdd5" drawable="@drawable/frost_icon_spellbook" />
+
+    <!-- 7Speaking -->
+    <icon package="com.sevenspeaking" drawable="@drawable/frost_icon_speaking" />
+
+    <!-- 9gag -->
+    <icon package="com.ninegag.android.app" drawable="@drawable/frost_icon_gag" />
+
+    <!-- Aard 2 -->
+    <icon package="itkach.aard2" drawable="@drawable/frost_icon_aard" />
+
+    <!-- AcDisplay -->
+    <icon package="com.achep.acdisplay" drawable="@drawable/frost_icon_acdisplay" />
+
+    <!-- ACM -->
+    <icon package="com.narvii.amino.manager" drawable="@drawable/frost_icon_acm" />
+
+    <!-- ActionDash -->
+    <icon package="com.actiondash.playstore" drawable="@drawable/frost_icon_actiondash" />
+
+    <!-- Action Launcher -->
+    <icon package="com.actionlauncher.playstore" drawable="@drawable/frost_icon_actionlauncher" />
+
+    <!-- ActiveBuilding -->
+    <icon package="com.activebuilding.residents" drawable="@drawable/frost_icon_activebuilding" />
+
+    <!-- Activity Launcher -->
+    <icon package="de.szalkowski.activitylauncher" drawable="@drawable/frost_icon_android" />
+
+    <!-- ActivityWatch -->
+    <icon package="net.activitywatch.android" drawable="@drawable/frost_icon_activitywatch" />
+
+    <!-- Actual -->
+    <icon package="com.shiftreset.actual" drawable="@drawable/frost_icon_actual" />
+
+    <!-- AdAway -->
+    <icon package="org.adaway" drawable="@drawable/frost_icon_adaway" />
+
+    <!-- ADB Manager -->
+    <icon package="com.matoski.adbm" drawable="@drawable/frost_icon_adbmanager" />
+
+    <!-- ADM -->
+    <icon package="com.dv.adm" drawable="@drawable/frost_icon_adm" />
+
+    <!-- Adobe Acrobat -->
+    <icon package="com.adobe.reader" drawable="@drawable/frost_icon_acrobat" />
+
+    <!-- Adobe Creative Cloud -->
+    <icon package="com.adobe.cc" drawable="@drawable/frost_icon_adobecreativecloud" />
+
+    <!-- Adobe Fill & Sign -->
+    <icon package="com.adobe.fas" drawable="@drawable/frost_icon_adobefillsign" />
+
+    <!-- Adobe Lightroom -->
+    <icon package="com.adobe.lrmobile" drawable="@drawable/frost_icon_adobelightroom" />
+
+    <!-- Adobe Photoshop Express -->
+    <icon package="com.adobe.psmobile" drawable="@drawable/frost_icon_adobephotoshop" />
+
+    <!-- Adobe Rush -->
+    <icon package="com.adobe.premiererush.videoeditor" drawable="@drawable/frost_icon_adoberush" />
+
+    <!-- Adobe Scan -->
+    <icon package="com.adobe.scan.android" drawable="@drawable/frost_icon_adobescan" />
+
+    <!-- Adobe XD -->
+    <icon package="com.adobe.sparklerandroid" drawable="@drawable/frost_icon_adobexd" />
+
+    <!-- Aegis -->
+    <icon package="com.beemdevelopment.aegis" drawable="@drawable/frost_icon_aegis" />
+
+    <!-- AfWall -->
+    <icon package="dev.ukanth.ufirewall" drawable="@drawable/frost_icon_afwall" />
+
+    <!-- Agenda Lite -->
+    <icon package="com.franco.agenda.free" drawable="@drawable/frost_icon_agendalite" />
+
+    <!-- AIDS -->
+    <icon package="com.nick80835.add" drawable="@drawable/frost_icon_aids" />
+
+    <!-- AIMP -->
+    <icon package="com.aimp.player" drawable="@drawable/frost_icon_aimp" />
+
+    <!-- AIMSICD -->
+    <icon package="com.SecUpwN.AIMSICD" drawable="@drawable/frost_icon_aimsicd" />
+
+    <!-- Airbnb -->
+    <icon package="com.airbnb.android" drawable="@drawable/frost_icon_airbnb" />
+
+    <!-- Airtable -->
+    <icon package="com.formagrid.airtable" drawable="@drawable/frost_icon_airtable" />
+
+    <!-- Airyware Tuner -->
+    <icon package="airyware.tuner" drawable="@drawable/frost_icon_airywaretuner" />
+
+    <!-- Alarmio -->
+    <icon package="me.jfenn.alarmio" drawable="@drawable/frost_icon_alarmio" />
+
+    <!-- Alarm Klock -->
+    <icon package="com.angrydoughnuts.android.alarmclock" drawable="@drawable/frost_icon_alarmklock" />
+
+    <!-- ALDI life Musik -->
+    <icon package="com.rhapsody.alditalk" drawable="@drawable/frost_icon_napster" />
+
+    <!-- ALDI TALK -->
+    <icon package="de.eplus.mappecc.client.android.alditalk" drawable="@drawable/frost_icon_alditalk" />
+
+    <!-- AliExpress -->
+    <icon package="com.alibaba.aliexpresshd" drawable="@drawable/frost_icon_aliexpress" />
+
+    <!-- Alipay -->
+    <icon package="com.eg.android.AlipayGphone" drawable="@drawable/frost_icon_alipay" />
+
+    <!-- Alliant -->
+    <icon package="org.alliant.mobile" drawable="@drawable/frost_icon_alliant" />
+
+    <!-- Altcoin Prices -->
+    <icon package="eu.uwot.fabio.altcoinprices" drawable="@drawable/frost_icon_altcoinprices" />
+
+    <!-- Amaze -->
+    <icon package="com.amaze.filemanager" drawable="@drawable/frost_icon_amaze" />
+
+    <!-- Amazon Shopping -->
+    <icon package="com.amazon.mShop.android.shopping" drawable="@drawable/frost_icon_amazonshopping" />
+
+    <!-- AMdroid -->
+    <icon package="com.amdroidalarmclock.amdroid" drawable="@drawable/frost_icon_amdroid" />
+
+    <!-- Ameixa -->
+    <icon package="org.xphnx.ameixa" drawable="@drawable/frost_icon_themes" />
+
+    <!-- Ameixa Monochrome -->
+    <icon package="org.xphnx.ameixamonochrome" drawable="@drawable/frost_icon_themes" />
+
+    <!-- Among Us -->
+    <icon package="com.innersloth.spacemafia" drawable="@drawable/frost_icon_amongus" />
+
+    <!-- Ampere -->
+    <icon package="com.gombosdev.ampere" drawable="@drawable/frost_icon_ampere" />
+
+    <!-- AN2Linux -->
+    <icon package="kiwi.root.an2linuxclient" drawable="@drawable/frost_icon_an2linux" />
+
+    <!-- Anchor -->
+    <icon package="fm.anchor.android" drawable="@drawable/frost_icon_anchor" />
+
+    <!-- And Bible -->
+    <icon package="net.bible.android.activity" drawable="@drawable/frost_icon_bible" />
+
+    <!-- andOTP -->
+    <icon package="org.shadowice.flocke.andotp" drawable="@drawable/frost_icon_andotp" />
+
+    <!-- Android Customization -->
+    <icon package="com.android.customization" drawable="@drawable/frost_icon_androidcustomization" />
+
+    <!-- Android Keyboard -->
+    <icon package="com.android.inputmethod.latin" drawable="@drawable/frost_icon_aospkeyboard" />
+
+    <!-- Android Permissions -->
+    <icon package="in.arjsna.permissionchecker" drawable="@drawable/frost_icon_permissionchecker" />
+
+    <!-- AndroidRun -->
+    <icon package="fr.asterope" drawable="@drawable/frost_icon_androidrun" />
+
+    <!-- androidVNC -->
+    <icon package="android.androidVNC" drawable="@drawable/frost_icon_androidvnc" />
+
+    <!-- Andronix -->
+    <icon package="studio.com.techriz.andronix" drawable="@drawable/frost_icon_andronix" />
+
+    <!-- AndStatus -->
+    <icon package="org.andstatus.app" drawable="@drawable/frost_icon_andstatus" />
+
+    <!-- AnExplorer Pro -->
+    <icon package="dev.dworks.apps.anexplorer.pro" drawable="@drawable/frost_icon_anexplorer" />
+
+    <!-- AnkiDroid -->
+    <icon package="com.ichi2.anki" drawable="@drawable/frost_icon_ankidroid" />
+
+    <!-- AnonAddy -->
+    <icon package="host.stjin.anonaddy" drawable="@drawable/frost_icon_anonaddy" />
+
+    <!-- AntennaPod -->
+    <icon package="de.danoeh.antennapod" drawable="@drawable/frost_icon_antennapod" />
+
+    <!-- Antimine -->
+    <icon package="dev.lucanlm.antimine" drawable="@drawable/frost_icon_antimine" />
+
+    <!-- Antox -->
+    <icon package="chat.tox.antox" drawable="@drawable/frost_icon_antox" />
+
+    <!-- Anuto TD -->
+    <icon package="ch.logixisland.anuto" drawable="@drawable/frost_icon_anutotd" />
+
+    <!-- AnyDesk -->
+    <icon package="com.anydesk.anydeskandroid" drawable="@drawable/frost_icon_anydesk" />
+
+    <!-- AnySoftKeyboard -->
+    <icon package="com.menny.android.anysoftkeyboard" drawable="@drawable/frost_icon_anysoftkeyboard" />
+
+    <!-- Apex Launcher -->
+    <icon package="com.anddoes.launcher" drawable="@drawable/frost_icon_apex" />
+
+    <!-- APKGrabber -->
+    <icon package="de.apkgrabber" drawable="@drawable/frost_icon_apkgrabber" />
+
+    <!-- APK Kit -->
+    <icon package="com.github.ghmxr.apkextractor" drawable="@drawable/frost_icon_apkkit" />
+
+    <!-- ApkTrack -->
+    <icon package="fr.kwiatkowski.ApkTrack" drawable="@drawable/frost_icon_apktrack" />
+
+    <!-- APKUpdater -->
+    <icon package="com.apkupdater" drawable="@drawable/frost_icon_apkupdater" />
+
+    <!-- Apple Flinger -->
+    <icon package="com.gitlab.ardash.appleflinger.android" drawable="@drawable/frost_icon_appleflinger" />
+
+    <!-- Apple Music -->
+    <icon package="com.apple.android.music" drawable="@drawable/frost_icon_applemusic" />
+
+    <!-- Applications Info -->
+    <icon package="com.majeur.applicationsinfo" drawable="@drawable/frost_icon_applicationsinfo" />
+
+    <!-- App Manager -->
+    <icon package="io.github.muntashirakon.AppManager" drawable="@drawable/frost_icon_appmanager" />
+
+    <!-- Apps2Org -->
+    <icon package="com.google.code.apps2org" drawable="@drawable/frost_icon_apps2org" />
+    <icon package="com.google.code.appsorganizer" drawable="@drawable/frost_icon_apps2org" />
+
+    <!-- Apps2SD -->
+    <icon package="in.co.pricealert.apps2sd" drawable="@drawable/frost_icon_apps2sd" />
+
+    <!-- Apps -->
+    <icon package="foundation.e.apps" drawable="@drawable/frost_icon_eapps" />
+
+    <!-- apps_Packages Info -->
+    <icon package="com.oF2pks.applicationsinfo" drawable="@drawable/frost_icon_appspackagesinfo" />
+
+    <!-- Arbeitszeitkonto -->
+    <icon package="askanimus.arbeitszeiterfassung2" drawable="@drawable/frost_icon_arbeitszeitkonto" />
+
+    <!-- Arbetsformedlingen Mina Sidor -->
+    <icon package="se.arbetsformedlingen.minasidor" drawable="@drawable/frost_icon_arbetsfor" />
+
+    <!-- ArchWiki Viewer -->
+    <icon package="com.jtmcn.archwiki.viewer" drawable="@drawable/frost_icon_archwikiviewer" />
+
+    <!-- Arcticons -->
+    <icon package="com.donnnno.arcticons" drawable="@drawable/frost_icon_arcticons" />
+    <icon package="com.donnnno.arcticons.debug" drawable="@drawable/frost_icon_arcticons" />
+
+    <!-- AsteroidOS Sync -->
+    <icon package="org.asteroidos.sync" drawable="@drawable/frost_icon_asteroidossync" />
+
+    <!-- Atomic -->
+    <icon package="indrora.atomic" drawable="@drawable/frost_icon_atomic" />
+
+    <!-- Audible -->
+    <icon package="com.audible.application" drawable="@drawable/frost_icon_audible" />
+
+    <!-- Audinaut -->
+    <icon package="net.nullsum.audinaut" drawable="@drawable/frost_icon_audinaut" />
+
+    <!-- AudioAnchor -->
+    <icon package="com.prangesoftwaresolutions.audioanchor" drawable="@drawable/frost_icon_audioanchor" />
+
+    <!-- AudioFX -->
+    <icon package="org.cyanogenmod.audiofx" drawable="@drawable/frost_icon_audiofx" />
+    <icon package="org.lineageos.audiofx" drawable="@drawable/frost_icon_audiofx" />
+
+    <!-- Audio Recorder -->
+    <icon package="com.github.axet.audiorecorder" drawable="@drawable/frost_icon_soundrecorder" />
+
+    <!-- Audio Technica Connect -->
+    <icon package="jp.co.audiotechnica.connect" drawable="@drawable/frost_icon_audiotechnicaconnect" />
+
+    <!-- Aurora Droid -->
+    <icon package="com.aurora.adroid" drawable="@drawable/frost_icon_auroradroid" />
+
+    <!-- Aurora Firefox -->
+    <icon package="org.mozilla.fennec_aurora" drawable="@drawable/frost_icon_firefox" />
+
+    <!-- Aurora Services -->
+    <icon package="com.aurora.services" drawable="@drawable/frost_icon_auroraservices" />
+
+    <!-- Aurora Store -->
+    <icon package="com.dragons.aurora" drawable="@drawable/frost_icon_aurorastore" />
+    <icon package="com.aurora.store" drawable="@drawable/frost_icon_aurorastore" />
+
+    <!-- Authenticate -->
+    <icon package="secureauth.android.token" drawable="@drawable/frost_icon_authenticate" />
+
+    <!-- Authenticator -->
+    <icon package="com.azure.authenticator" drawable="@drawable/frost_icon_azureauthenticator" />
+
+    <icon package="me.jmh.authenticatorpro" drawable="@drawable/frost_icon_authenticator" />
+
+    <!-- Authenticator (LastPass) -->
+    <icon package="com.lastpass.authenticator" drawable="@drawable/frost_icon_lastpassauthenticator" />
+
+    <!-- AuthPass -->
+    <icon package="design.codeux.authpass.fdroid" drawable="@drawable/frost_icon_authpass" />
+
+    <!-- Authy -->
+    <icon package="com.authy.authy" drawable="@drawable/frost_icon_authy" />
+
+    <!-- Auto Airplane Mode -->
+    <icon package="org.miamplayer.autoairplanemode" drawable="@drawable/frost_icon_autoairplanemode" />
+
+    <!-- AutoTools -->
+    <icon package="com.joaomgcd.autotools" drawable="@drawable/frost_icon_autotools" />
+
+    <!-- Auto Updater for Chromium -->
+    <icon package="com.dosse.chromiumautoupdater" drawable="@drawable/frost_icon_chromiumautoupdater" />
+
+    <!-- Avans One -->
+    <icon package="com.avans.oneapp" drawable="@drawable/frost_icon_avans" />
+
+    <!-- Aves -->
+    <icon package="deckers.thibault.aves" drawable="@drawable/frost_icon_aves" />
+
+    <!-- Aviasales -->
+    <icon package="ru.aviasales" drawable="@drawable/frost_icon_aviasales" />
+
+    <!-- B4UFLY -->
+    <icon package="gov.faa.b4ufly2" drawable="@drawable/frost_icon_b4ufly" />
+
+    <!-- Balance the Ball -->
+    <icon package="com.jeffliu.balancetheball" drawable="@drawable/frost_icon_balancetheball" />
+
+    <!-- Bandcamp -->
+    <icon package="com.bandcamp.android" drawable="@drawable/frost_icon_bandcamp" />
+
+    <!-- Bandsintown -->
+    <icon package="com.bandsintown" drawable="@drawable/frost_icon_bandsintown" />
+
+    <!-- BankID -->
+    <icon package="com.bankid.bus" drawable="@drawable/frost_icon_bankid" />
+
+    <!-- Bankieren -->
+    <icon package="nl.asnbank.asnbankieren" drawable="@drawable/frost_icon_bankieren" />
+
+    <!-- Banking4 -->
+    <icon package="subsembly.banking" drawable="@drawable/frost_icon_banking4" />
+
+    <!-- Banking -->
+    <icon package="com.ing.mobile" drawable="@drawable/frost_icon_banking" />
+
+    <!-- Banque -->
+    <icon package="com.caisseepargne.android.mobilebanking" drawable="@drawable/frost_icon_banque" />
+
+    <!-- Barcode Scanner -->
+    <icon package="com.google.zxing.client.android" drawable="@drawable/frost_icon_barcode" />
+
+    <!-- BatteryCalibration -->
+    <icon package="de.perflyst.batterycalibration" drawable="@drawable/frost_icon_batterycalibration" />
+
+    <!-- Battery Charge Limit -->
+    <icon package="com.slash.batterychargelimit" drawable="@drawable/frost_icon_batterychargelimit" />
+
+    <!-- BBM -->
+    <icon package="com.bbm" drawable="@drawable/frost_icon_bbm" />
+
+    <!-- Beats -->
+    <icon package="com.apple.bnd" drawable="@drawable/frost_icon_beats" />
+
+    <!-- Best Buy -->
+    <icon package="com.bestbuy.android" drawable="@drawable/frost_icon_bestbuy" />
+
+    <!-- Bestiary -->
+    <icon package="com.teamphoenixapps.bestiary.release" drawable="@drawable/frost_icon_bestiary" />
+
+    <!-- BetterBatteryStats -->
+    <icon package="com.asksven.betterbatterystats_xdaedition" drawable="@drawable/frost_icon_battery" />
+
+    <!-- BiglyBT -->
+    <icon package="com.biglybt.android.client" drawable="@drawable/frost_icon_biglybt" />
+
+    <!-- Binance -->
+    <icon package="com.binance.dev" drawable="@drawable/frost_icon_binance" />
+
+    <!-- Binary Eye -->
+    <icon package="de.markusfisch.android.binaryeye" drawable="@drawable/frost_icon_binaryeye" />
+
+    <!-- Bing -->
+    <icon package="com.microsoft.bing" drawable="@drawable/frost_icon_bing" />
+
+    <!-- Birthday Adapter -->
+    <icon package="org.birthdayadapter" drawable="@drawable/frost_icon_birthdayadapter" />
+
+    <!-- BirthDayDroid -->
+    <icon package="com.tmendes.birthdaydroid" drawable="@drawable/frost_icon_birthdaydroid" />
+
+    <!-- Bitcoin -->
+    <icon package="com.btcontract.wallet" drawable="@drawable/frost_icon_bitcoin" />
+    <icon package="de.schildbach.wallet" drawable="@drawable/frost_icon_bitcoin" />
+
+    <!-- Bitwarden -->
+    <icon package="com.x8bit.bitwarden" drawable="@drawable/frost_icon_bitwarden" />
+
+    <!-- BlaBlaCar -->
+    <icon package="com.comuto" drawable="@drawable/frost_icon_blabla" />
+
+    <!-- BlackBerry Launcher -->
+    <icon package="com.blackberry.blackberrylauncher" drawable="@drawable/frost_icon_blackberrylauncher" />
+
+    <!-- Blackboard -->
+    <icon package="com.blackboard.android.bbstudent" drawable="@drawable/frost_icon_blackboard" />
+
+    <!-- Blocker -->
+    <icon package="com.merxury.blocker" drawable="@drawable/frost_icon_blocker" />
+
+    <!-- Blocket -->
+    <icon package="se.appcorn.Blocket" drawable="@drawable/frost_icon_blocket" />
+
+    <!-- Blockinger -->
+    <icon package="org.blockinger.game" drawable="@drawable/frost_icon_blockinger" />
+
+    <!-- Blogger -->
+    <icon package="com.google.android.apps.blogger" drawable="@drawable/frost_icon_blogger" />
+
+    <!-- Blokada -->
+    <icon package="org.blokada.alarm" drawable="@drawable/frost_icon_blokada" />
+    <icon package="org.blokada.origin.alarm" drawable="@drawable/frost_icon_blokada" />
+
+    <!-- Blue Minimal -->
+    <icon package="de.baumann.thema" drawable="@drawable/frost_icon_blueminimal" />
+
+    <!-- Bluetooth Extension -->
+    <icon package="org.codeaurora.bluetooth" drawable="@drawable/frost_icon_bluetooth" />
+
+    <!-- Bluetooth Keyboard & Mouse -->
+    <icon package="io.appground.blek" drawable="@drawable/frost_icon_bluetoothkeyboardmouse" />
+
+    <!-- Bluetooth Share -->
+    <icon package="com.android.bluetooth" drawable="@drawable/frost_icon_bluetooth" />
+
+    <!-- BOINC -->
+    <icon package="edu.berkeley.boinc" drawable="@drawable/frost_icon_boinc" />
+
+    <!-- Booking.com -->
+    <icon package="com.booking" drawable="@drawable/frost_icon_booking" />
+
+    <!-- Book Reader -->
+    <icon package="com.github.axet.bookreader" drawable="@drawable/frost_icon_bookreader" />
+
+    <!-- Boursorama Banque -->
+    <icon package="com.boursorama.android.clients" drawable="@drawable/frost_icon_boursoramabanque" />
+
+    <!-- Boxcryptor -->
+    <icon package="com.boxcryptor2.android" drawable="@drawable/frost_icon_boxcryptor" />
+
+    <!-- Brackeys IDE -->
+    <icon package="com.brackeys.ui" drawable="@drawable/frost_icon_brackeyside" />
+
+    <!-- Brave Browser -->
+    <icon package="com.brave.browser" drawable="@drawable/frost_icon_brave" />
+
+    <!-- Briar -->
+    <icon package="org.briarproject.briar.android" drawable="@drawable/frost_icon_bring" />
+
+    <!-- Bring! -->
+    <icon package="ch.publisheria.bring" drawable="@drawable/frost_icon_bring" />
+
+    <!-- Bromite -->
+    <icon package="org.bromite.bromite" drawable="@drawable/frost_icon_bromite" />
+
+    <!-- Browser -->
+    <icon package="org.lineageos.jelly" drawable="@drawable/frost_icon_jelly" />
+    <icon package="foundation.e.browser" drawable="@drawable/frost_icon_browser" />
+
+    <!-- BSPB -->
+    <icon package="ru.bspb" drawable="@drawable/frost_icon_bspb" />
+
+    <!-- Bubble -->
+    <icon package="com.nkanaev.comics" drawable="@drawable/frost_icon_bubble" />
+
+    <!-- Budget My Life -->
+    <icon package="rsquared226.budget_my_life" drawable="@drawable/frost_icon_budgetmylife" />
+
+    <!-- Budget Watch -->
+    <icon package="protect.budgetwatch" drawable="@drawable/frost_icon_budgetwatch" />
+
+    <!-- Buienradar -->
+    <icon package="com.supportware.Buienradar" drawable="@drawable/frost_icon_buienradar" />
+
+    <!-- Bus 31 -->
+    <icon package="com.thomasgallinari.bus31" drawable="@drawable/frost_icon_bus_circle" />
+
+    <!-- Busybox -->
+    <icon package="ru.meefik.busybox" drawable="@drawable/frost_icon_busybox" />
+
+    <!-- Cabinet Beta -->
+    <icon package="com.afollestad.cabinet" drawable="@drawable/frost_icon_cabinet" />
+
+    <!-- Calculator -->
+    <icon package="com.android.calculator2" drawable="@drawable/frost_icon_calculator" />
+    <icon package="com.xlythe.calculator.material" drawable="@drawable/frost_icon_calculator" />
+    <icon package="com.tct.calculator.bb" drawable="@drawable/frost_icon_calculator" />
+    <icon package="com.oneplus.calculator" drawable="@drawable/frost_icon_calculator" />
+    <icon package="com.miui.calculator" drawable="@drawable/frost_icon_calculator" />
+
+    <icon package="com.sonymobile.exactcalculator" drawable="@drawable/frost_icon_calculator" />
+
+    <!-- Calculator++ -->
+    <icon package="org.solovyev.android.calculator" drawable="@drawable/frost_icon_calculatorplusplus" />
+
+    <!-- Calendar Color -->
+    <icon package="ch.ihdg.calendarcolor" drawable="@drawable/frost_icon_calendarcolor" />
+
+    <!-- Calendar Import-Export -->
+    <icon package="org.sufficientlysecure.ical" drawable="@drawable/frost_icon_calendarimportexport" />
+
+    <!-- Calendar -->
+    <icon package="com.android.calendar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="com.blackberry.calendar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="com.samsung.android.calendar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="org.lineageos.etar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="com.google.android.calendar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="ws.xsoh.etar" drawable="@drawable/frost_icon_calendar31" />
+    <icon package="foundation.e.calendar" drawable="@drawable/frost_icon_calendar31" />
+
+    <!-- Callabike -->
+    <icon package="de.bahn.callabike" drawable="@drawable/frost_icon_callabike" />
+
+    <!-- Call Recorder -->
+    <icon package="com.callrecorder.android" drawable="@drawable/frost_icon_callrecorder" />
+    <icon package="com.github.axet.callrecorder" drawable="@drawable/frost_icon_callrecorder" />
+
+    <!-- Calyx VPN -->
+    <icon package="org.calyxinstitute.vpn" drawable="@drawable/frost_icon_calyxvpn" />
+
+    <!-- Camera -->
+    <icon package="com.android.camera2" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.cyngn.cameranext" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.htc.camera2" drawable="@drawable/frost_icon_camera" />
+    <icon package="org.lineageos.snap" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.sec.android.app.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.amazon.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.blackberry.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.huawei.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.android.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.sonyericsson.android.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.motorola.camera2" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.android.fpcamera3" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.oneplus.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="com.hmdglobal.app.camera" drawable="@drawable/frost_icon_camera" />
+    <icon package="foundation.e.camera" drawable="@drawable/frost_icon_camera" />
+
+    <!-- Camera Remote -->
+    <icon package="com.fujifilm_dsc.app.remoteshooter" drawable="@drawable/frost_icon_cameraremote" />
+
+    <!-- Camera Roll -->
+    <icon package="us.koller.cameraroll" drawable="@drawable/frost_icon_cameraroll" />
+    <icon package="us.koller.cameraroll.debug" drawable="@drawable/frost_icon_cameraroll" />
+
+    <!-- campfire -->
+    <icon package="godau.fynn.bandcampdirect" drawable="@drawable/frost_icon_campfire" />
+
+    <!-- CamScanner -->
+    <icon package="com.intsig.camscanner" drawable="@drawable/frost_icon_camscanner" />
+
+    <!-- Canvas Student -->
+    <icon package="com.instructure.candroid" drawable="@drawable/frost_icon_canvasstudent" />
+
+    <!-- Car Report -->
+    <icon package="me.kuehle.carreport" drawable="@drawable/frost_icon_carreport" />
+
+    <!-- Car Scanner -->
+    <icon package="com.ovz.carscanner" drawable="@drawable/frost_icon_carscanner" />
+
+    <!-- Car Smile -->
+    <icon package="ru.smilemob.carsmile" drawable="@drawable/frost_icon_carsmile" />
+
+    <!-- Cash App -->
+    <icon package="com.squareup.cash" drawable="@drawable/frost_icon_cashapp" />
+
+    <!-- Casper -->
+    <icon package="io.casper.android" drawable="@drawable/frost_icon_casper" />
+
+    <!-- Celsius Wallet -->
+    <icon package="network.celsius.wallet" drawable="@drawable/frost_icon_celsius" />
+
+    <!-- C:Geo -->
+    <icon package="cgeo.geocaching" drawable="@drawable/frost_icon_cgeo" />
+
+    <!-- Change Detection -->
+    <icon package="com.bernaferrari.changedetection" drawable="@drawable/frost_icon_changedetection" />
+
+    <!-- Changelog -->
+    <icon package="com.bytehamster.changelog" drawable="@drawable/frost_icon_changelog" />
+
+    <!-- Chanu -->
+    <icon package="com.chanapps.four.activity" drawable="@drawable/frost_icon_chanu" />
+
+    <!-- Chase -->
+    <icon package="com.chase.sig.android" drawable="@drawable/frost_icon_chase" />
+
+    <!-- Checkey -->
+    <icon package="info.guardianproject.checkey" drawable="@drawable/frost_icon_checkey" />
+
+    <!-- Chefkoch -->
+    <icon package="de.pixelhouse" drawable="@drawable/frost_icon_chefkoch" />
+
+    <!-- Chip8 -->
+    <icon package="com.dkanada.chip" drawable="@drawable/frost_icon_chip" />
+
+    <!-- Chromium -->
+    <icon package="org.ungoogled.chromium.stable" drawable="@drawable/frost_icon_chrome" />
+    <icon package="org.notphenom.swe.browser" drawable="@drawable/frost_icon_chrome" />
+    <icon package="org.chromium.chrome" drawable="@drawable/frost_icon_chrome" />
+
+    <!-- Chubby Click -->
+    <icon package="agrigolo.chubbyclick" drawable="@drawable/frost_icon_chubbyclick" />
+
+    <!-- Cinelog -->
+    <icon package="com.ulicae.cinelog" drawable="@drawable/frost_icon_cinelog" />
+
+    <!-- Circuit Trainer -->
+    <icon package="org.secuso.privacyfriendlycircuittraining" drawable="@drawable/frost_icon_circuittrainer" />
+
+    <!-- Citymapper -->
+    <icon package="com.citymapper.app.release" drawable="@drawable/frost_icon_citymapper" />
+
+    <!-- CityZen -->
+    <icon package="com.cityzen.cityzen" drawable="@drawable/frost_icon_cityzen" />
+
+    <!-- Clash Royale -->
+    <icon package="com.supercell.clashroyale" drawable="@drawable/frost_icon_clashroyale" />
+
+    <!-- Classical KUSC -->
+    <icon package="org.uscradio.kusc" drawable="@drawable/frost_icon_kusc" />
+
+    <!-- ClassySharkexodus -->
+    <icon package="com.oF2pks.classyshark3xodus" drawable="@drawable/frost_icon_classysharkexodus" />
+
+    <!-- Clear Scan -->
+    <icon package="com.indymobileapp.document.scanner" drawable="@drawable/frost_icon_clearscan" />
+
+    <!-- Clima -->
+    <icon package="co.prestosole.clima" drawable="@drawable/frost_icon_clima" />
+
+    <!-- Clock -->
+    <icon package="com.android.deskclock" drawable="@drawable/frost_icon_clock" />
+    <icon package="com.android.deskclock.bb" drawable="@drawable/frost_icon_clock" />
+    <icon package="com.sec.android.app.clockpackage" drawable="@drawable/frost_icon_clock" />
+    <icon package="com.sonyericsson.organizer" drawable="@drawable/frost_icon_clock" />
+    <icon package="com.oneplus.deskclock" drawable="@drawable/frost_icon_clock" />
+
+    <!-- Clock+ -->
+    <icon package="com.philliphsu.clock2" drawable="@drawable/frost_icon_clock2" />
+
+    <!-- Clover -->
+    <icon package="org.floens.clover" drawable="@drawable/frost_icon_clover" />
+    <icon package="org.floens.chan" drawable="@drawable/frost_icon_clover" />
+
+    <!-- Coinbase -->
+    <icon package="com.coinbase.android" drawable="@drawable/frost_icon_coinbase" />
+
+    <!-- Collabora Office -->
+    <icon package="com.collabora.libreoffice" drawable="@drawable/frost_icon_collaboraoffice" />
+
+    <!-- comdirect core -->
+    <icon package="de.comdirect.app" drawable="@drawable/frost_icon_comdirectcore" />
+
+    <!-- comdirect photoTAN -->
+    <icon package="com.comdirect.phototan" drawable="@drawable/frost_icon_comdirectphototan" />
+
+    <!-- comdirect trading -->
+    <icon package="de.comdirect.trading" drawable="@drawable/frost_icon_comdirecttrading" />
+
+    <!-- Comic Screen -->
+    <icon package="com.viewer.comicscreen" drawable="@drawable/frost_icon_comicscreen" />
+
+    <!-- Commons -->
+    <icon component="fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity" drawable="@drawable/frost_icon_commons" />
+
+    <!-- Common Voice -->
+    <icon package="org.commonvoice.saverio" drawable="@drawable/frost_icon_commonvoice" />
+
+    <!-- Community Peers License -->
+    <icon package="community.peers.license" drawable="@drawable/frost_icon_license" />
+
+    <!-- Compass -->
+    <icon package="com.miui.compass" drawable="@drawable/frost_icon_compass" />
+
+    <!-- ConnectBot -->
+    <icon package="org.connectbot" drawable="@drawable/frost_icon_shell" />
+
+    <!-- Connect -->
+    <icon package="com.garmin.android.apps.connectmobile" drawable="@drawable/frost_icon_connect" />
+
+    <!-- Contacts -->
+    <icon package="com.android.contacts" drawable="@drawable/frost_icon_contacts" />
+    <icon package="com.google.android.contacts" drawable="@drawable/frost_icon_contacts" />
+    <icon package="com.blackberry.contacts" drawable="@drawable/frost_icon_contacts" />
+    <icon package="com.samsung.android.contacts" drawable="@drawable/frost_icon_contacts" />
+    <icon package="com.sonyericsson.android.socialphonebook" drawable="@drawable/frost_icon_contacts" />
+
+    <icon package="com.sonymobile.android.contacts" drawable="@drawable/frost_icon_contactscircle" />
+
+    <!-- Contacts Sync -->
+    <icon package="com.lb.contacts_sync" drawable="@drawable/frost_icon_contactssync" />
+
+    <!-- Content Transfer -->
+    <icon package="com.mediamushroom.easymigrate" drawable="@drawable/frost_icon_contenttransfer" />
+
+    <!-- Controlloid -->
+    <icon package="com.controlloid" drawable="@drawable/frost_icon_controlloid" />
+
+    <!-- Conv6ations -->
+    <icon package="eu.sum7.conversations" drawable="@drawable/frost_icon_conv6ations" />
+
+    <!-- Converge Xperience -->
+    <icon package="com.convergeict.android" drawable="@drawable/frost_icon_convergexperience" />
+
+    <!-- Conversations -->
+    <icon package="eu.siacs.conversations" drawable="@drawable/frost_icon_conversations" />
+
+    <!-- Corona Melder -->
+    <icon package="nl.rijksoverheid.en" drawable="@drawable/frost_icon_coronamelder" />
+
+    <!-- Corona Tracing -->
+    <icon package="de.corona.tracing" drawable="@drawable/frost_icon_coronatracing" />
+
+    <!-- Couchsurfing -->
+    <icon package="com.couchsurfing.mobile.android" drawable="@drawable/frost_icon_couchsurfing" />
+
+    <!-- Cozy Drive -->
+    <icon package="io.cozy.drive.mobile" drawable="@drawable/frost_icon_cozydrive" />
+
+    <!-- CPU Stats -->
+    <icon package="jp.takke.cpustats" drawable="@drawable/frost_icon_cpustats" />
+
+    <!-- Cpu-Z -->
+    <icon package="com.cpuid.cpu_z" drawable="@drawable/frost_icon_cpuz" />
+
+    <!-- Creditas -->
+    <icon package="cz.creditas.mb" drawable="@drawable/frost_icon_creditas" />
+
+    <!-- Cronograma -->
+    <icon package="com.asdoi.timetable" drawable="@drawable/frost_icon_cronograma" />
+
+    <!-- CrontoSign Swiss -->
+    <icon package="com.cronto.crontosign.swiss" drawable="@drawable/frost_icon_crontosignswiss" />
+
+    <!-- Cryptomator -->
+    <icon package="org.cryptomator" drawable="@drawable/frost_icon_cryptomator" />
+
+    <!-- Cuberite -->
+    <icon package="org.cuberite.android" drawable="@drawable/frost_icon_cuberite" />
+
+    <!-- CuprumPDF -->
+    <icon package="org.ninthfloor.copperpdf" drawable="@drawable/frost_icon_cuprumpdf" />
+
+    <!-- CuriosityStream -->
+    <icon package="com.curiosity.curiositystream" drawable="@drawable/frost_icon_curiositystream" />
+
+    <!-- Currency -->
+    <icon package="org.billthefarmer.currency" drawable="@drawable/frost_icon_currency" />
+
+    <!-- Curve -->
+    <icon package="com.imaginecurve.curve.prd" drawable="@drawable/frost_icon_curve" />
+
+    <!-- Cyanogenmod Browser -->
+    <icon package="com.android.browser" drawable="@drawable/frost_icon_browser" />
+
+    <!-- CyberGhost -->
+    <icon package="de.mobileconcepts.cyberghost" drawable="@drawable/frost_icon_cyberghost" />
+
+    <!-- Cythara -->
+    <icon package="com.github.cythara" drawable="@drawable/frost_icon_cythara" />
+
+    <!-- Dal -->
+    <icon package="xyz.ivaniskandar.bluemoon" drawable="@drawable/frost_icon_dal" />
+
+    <!-- Dark Sky -->
+    <icon package="net.darksky.darksky" drawable="@drawable/frost_icon_darksky" />
+
+    <!-- DarQ -->
+    <icon package="com.kieronquinn.app.darq" drawable="@drawable/frost_icon_darq" />
+
+    <!-- Das Erste -->
+    <icon package="com.daserste.daserste" drawable="@drawable/frost_icon_daserste" />
+
+    <!-- DAVdroid -->
+    <icon package="at.bitfire.davdroid" drawable="@drawable/frost_icon_davdroid" />
+
+    <!-- Dawn -->
+    <icon package="me.thanel.dank" drawable="@drawable/frost_icon_dawn" />
+
+    <!-- Deck -->
+    <icon package="it.niedermann.nextcloud.deck" drawable="@drawable/frost_icon_deck" />
+
+    <!-- Deco -->
+    <icon package="com.tplink.tpm5" drawable="@drawable/frost_icon_deco" />
+
+    <!-- DecSync CC -->
+    <icon package="org.decsync.cc" drawable="@drawable/frost_icon_decsyncc" />
+
+    <!-- DeepL -->
+    <icon package="com.example.deeplviewer" drawable="@drawable/frost_icon_deepl" />
+
+    <!-- Deezer -->
+    <icon package="deezer.android.app" drawable="@drawable/frost_icon_deezer" />
+
+    <!-- Degiro -->
+    <icon package="nl.degiro.trader" drawable="@drawable/frost_icon_degiro" />
+
+    <!-- Deliveries -->
+    <icon package="de.orrs.deliveries" drawable="@drawable/frost_icon_deliveries" />
+
+    <!-- Dell Mobile Connect -->
+    <icon package="com.screenovate.dell.mobileconnect" drawable="@drawable/frost_icon_dellconnect" />
+
+    <!-- Deluge -->
+    <icon package="org.deluge.trireme" drawable="@drawable/frost_icon_deluge" />
+
+    <!-- Desmos -->
+    <icon package="com.desmos.calculator" drawable="@drawable/frost_icon_desmos" />
+
+    <!-- Detexify -->
+    <icon package="website.marty.detexify" drawable="@drawable/frost_icon_detexify" />
+
+    <!-- DetoxDroid -->
+    <icon package="com.flx_apps.digitaldetox" drawable="@drawable/frost_icon_detoxdroid" />
+
+    <!-- Deutsche Bahn Navigator -->
+    <icon package="de.hafas.android.db" drawable="@drawable/frost_icon_dbnavigator" />
+
+    <!-- Device Search -->
+    <icon package="com.blackberry.universalsearch" drawable="@drawable/frost_icon_devicesearch" />
+
+    <!-- devRant -->
+    <icon package="com.hexicallabs.devrant" drawable="@drawable/frost_icon_devrant" />
+
+    <!-- DHL Express -->
+    <icon package="com.dhl.exp.dhlmobile" drawable="@drawable/frost_icon_dhlexpress" />
+
+    <!-- Diaguard -->
+    <icon package="com.faltenreich.diaguard" drawable="@drawable/frost_icon_diaguard" />
+
+    <!-- Dialer for Pebble -->
+    <icon package="com.matejdro.pebbledialer" drawable="@drawable/frost_icon_pebbledialer" />
+
+    <!-- Diaspora -->
+    <icon package="com.github.dfa.diaspora_android" drawable="@drawable/frost_icon_diaspora" />
+
+    <!-- Dicer -->
+    <icon package="com.platypus.dicer" drawable="@drawable/frost_icon_dicer" />
+
+    <!-- Dimmer -->
+    <icon package="giraffine.dimmer" drawable="@drawable/frost_icon_dimmer" />
+
+    <!-- Diode -->
+    <icon package="in.shick.diode" drawable="@drawable/frost_icon_diode" />
+
+    <!-- Dir -->
+    <icon package="com.veniosg.dir" drawable="@drawable/frost_icon_dir" />
+
+    <!-- Discord -->
+    <icon package="com.discord" drawable="@drawable/frost_icon_discord" />
+
+    <!-- Discourse -->
+    <icon package="com.discourse" drawable="@drawable/frost_icon_discourse" />
+
+    <!-- DiskUsage -->
+    <icon package="com.google.android.diskusage" drawable="@drawable/frost_icon_diskusage" />
+
+    <!-- Disney+ -->
+    <icon package="com.disney.disneyplus" drawable="@drawable/frost_icon_disney" />
+
+    <!-- Disroot -->
+    <icon package="org.disroot.disrootapp" drawable="@drawable/frost_icon_disroot" />
+
+    <!-- Dissembler -->
+    <icon package="com.ianmaclarty.dissembler" drawable="@drawable/frost_icon_dissembler" />
+
+    <!-- DITMM? -->
+    <icon package="dev.corruptedark.diditakemymeds" drawable="@drawable/frost_icon_ditmm" />
+
+    <!-- DKB-Banking -->
+    <icon package="de.dkb.portalapp" drawable="@drawable/frost_icon_dkbbanking" />
+
+    <!-- DLive -->
+    <icon package="io.dlive" drawable="@drawable/frost_icon_dlive" />
+
+    <!-- DNS66 -->
+    <icon package="org.jak_linux.dns66" drawable="@drawable/frost_icon_dns66" />
+
+    <!-- DNSfilter -->
+    <icon package="dnsfilter.android" drawable="@drawable/frost_icon_dnsfilter" />
+
+    <!-- DNS man -->
+    <icon package="io.github.otakuchiyan.dnsman" drawable="@drawable/frost_icon_dnsman" />
+
+    <!-- Documents -->
+    <icon package="com.android.documentsui" drawable="@drawable/frost_icon_files" />
+
+    <icon package="com.onlyoffice.documents" drawable="@drawable/frost_icon_documents" />
+
+    <!-- Document Viewer -->
+    <icon package="org.sufficientlysecure.viewer" drawable="@drawable/frost_icon_book" />
+
+    <!-- Docus -->
+    <icon package="com.bretahajek.docus" drawable="@drawable/frost_icon_docus" />
+
+    <!-- Doodle -->
+    <icon package="com.doodle.android" drawable="@drawable/frost_icon_doodle" />
+
+    <!-- Douban -->
+    <icon package="com.douban.frodo" drawable="@drawable/frost_icon_douban" />
+
+    <!-- Download Navi -->
+    <icon package="com.tachibana.downloader" drawable="@drawable/frost_icon_downloadnavi" />
+
+    <!-- Downloads -->
+    <icon package="com.android.providers.downloads.ui" drawable="@drawable/frost_icon_downloads" />
+
+    <!-- DraStic -->
+    <icon package="com.dsemu.drastic" drawable="@drawable/frost_icon_drastic" />
+
+    <!-- Drinks -->
+    <icon package="fr.masciulli.drinks" drawable="@drawable/frost_icon_drinks" />
+
+    <!-- Drive -->
+    <icon package="com.synology.dsdrive" drawable="@drawable/frost_icon_dsdrive" />
+
+    <!-- DroidCam -->
+    <icon package="com.dev47apps.droidcam" drawable="@drawable/frost_icon_droidcam" />
+
+    <!-- DroidShows -->
+    <icon package="nl.asymmetrics.droidshows" drawable="@drawable/frost_icon_droidshows" />
+
+    <!-- Dronecast -->
+    <icon package="com.droneforecast.app" drawable="@drawable/frost_icon_dronecast" />
+
+    <!-- Dropbox -->
+    <icon package="com.dropbox.android" drawable="@drawable/frost_icon_dropbox" />
+
+    <!-- DropTicket -->
+    <icon package="com.atono.dropticket" drawable="@drawable/frost_icon_dropticket" />
+
+    <!-- DSB -->
+    <icon package="dk.dsb.nda.android" drawable="@drawable/frost_icon_dsb" />
+
+    <!-- DS file -->
+    <icon package="com.synology.DSfile" drawable="@drawable/frost_icon_dsfile" />
+
+    <!-- Dsub -->
+    <icon package="github.daneren2005.dsub" drawable="@drawable/frost_icon_dsub" />
+
+    <!-- DTEK by BlackBerry -->
+    <icon package="com.blackberry.privacydashboard" drawable="@drawable/frost_icon_dtekbyblackberry" />
+
+    <!-- Duck Duck Go -->
+    <icon package="com.duckduckgo.mobile.android" drawable="@drawable/frost_icon_duckduckgo" />
+
+    <!-- Duo -->
+    <icon package="com.google.android.apps.tachyon" drawable="@drawable/frost_icon_duo" />
+
+    <!-- Duolingo -->
+    <icon package="com.duolingo" drawable="@drawable/frost_icon_duolingo" />
+
+    <!-- Duo Mobile -->
+    <icon package="com.duosecurity.duomobile" drawable="@drawable/frost_icon_duomobile" />
+
+    <!-- Earmouse -->
+    <icon package="pk.contender.earmouse" drawable="@drawable/frost_icon_earmouse" />
+
+    <!-- Easer -->
+    <icon package="ryey.easer" drawable="@drawable/frost_icon_easer" />
+    <icon package="ryey.easer.beta" drawable="@drawable/frost_icon_easer" />
+
+    <!-- Easy xkcd -->
+    <icon package="de.tap.easy_xkcd" drawable="@drawable/frost_icon_easyxkcd" />
+
+    <!-- eBay -->
+    <icon package="com.ebay.mobile" drawable="@drawable/frost_icon_ebay" />
+
+    <!-- Ebay Kleinanzeigen -->
+    <icon package="com.ebay.kleinanzeigen" drawable="@drawable/frost_icon_ebaykleinanzeigen" />
+
+    <!-- EBT.art -->
+    <icon package="com.reactiveebt" drawable="@drawable/frost_icon_ebtart" />
+
+    <!-- Echo -->
+    <icon package="eu.mrogalski.saidit" drawable="@drawable/frost_icon_echo" />
+
+    <!-- Editor -->
+    <icon package="org.billthefarmer.editor" drawable="@drawable/frost_icon_editor" />
+
+    <!-- EDS Lite -->
+    <icon package="com.sovworks.edslite" drawable="@drawable/frost_icon_edslite" />
+
+    <!-- Eduroam CAT -->
+    <icon package="uk.ac.swansea.eduroamcat" drawable="@drawable/frost_icon_eduroamcat" />
+
+    <!-- eKonto -->
+    <icon package="cz.rb.app.smartphonebanking" drawable="@drawable/frost_icon_raiffeisenbank" />
+
+    <!-- Elegant Teleprompter -->
+    <icon package="com.ayman.elegantteleprompter" drawable="@drawable/frost_icon_elegantteleprompter" />
+
+    <!-- Elementary -->
+    <icon package="com.ultramegatech.ey" drawable="@drawable/frost_icon_elementary" />
+
+    <!-- Element -->
+    <icon package="im.vector.app" drawable="@drawable/frost_icon_element" />
+    <icon package="im.vector.app.debug" drawable="@drawable/frost_icon_element" />
+
+    <!-- Eleven -->
+    <icon package="com.ymber.eleven" drawable="@drawable/frost_icon_eleven" />
+
+    <!-- Ella -->
+    <icon package="rocks.poopjournal.Ella" drawable="@drawable/frost_icon_ella" />
+
+    <!-- Email -->
+    <icon package="com.android.email" drawable="@drawable/frost_icon_mail" />
+    <icon package="org.dystopia.email" drawable="@drawable/frost_icon_mail" />
+
+    <!-- Emby -->
+    <icon package="com.mb.android" drawable="@drawable/frost_icon_emby" />
+
+    <!-- Emerald Dialer -->
+    <icon package="ru.henridellal.dialer" drawable="@drawable/frost_icon_emeralddialer" />
+
+    <!-- Emerald Launcher -->
+    <icon package="ru.henridellal.emerald" drawable="@drawable/frost_icon_emerald" />
+
+    <!-- Emit -->
+    <icon package="tv.wpn.biokoda.android.emit" drawable="@drawable/frost_icon_emit" />
+
+    <!-- Enki -->
+    <icon package="com.enki.insights" drawable="@drawable/frost_icon_enki" />
+
+    <!-- Episodes -->
+    <icon package="org.jamienicol.episodes" drawable="@drawable/frost_icon_episodes" />
+
+    <!-- Equalizer -->
+    <icon package="com.android.musicfx" drawable="@drawable/frost_icon_equalizer" />
+
+    <!-- Equate -->
+    <icon package="com.llamacorp.equate" drawable="@drawable/frost_icon_equate" />
+
+    <!-- Escapepod -->
+    <icon package="org.y20k.escapepod" drawable="@drawable/frost_icon_escapepod" />
+
+    <!-- ES File Explorer -->
+    <icon package="com.estrongs.android.pop" drawable="@drawable/frost_icon_es" />
+
+    <!-- eSpeak -->
+    <icon package="com.reecedunn.espeak" drawable="@drawable/frost_icon_espeak" />
+
+    <!-- EtchDroid -->
+    <icon package="eu.depau.etchdroid" drawable="@drawable/frost_icon_etchdroid" />
+
+    <!-- EteSync -->
+    <icon package="com.etesync.syncadapter" drawable="@drawable/frost_icon_etesync" />
+
+    <!-- Eventyay Attendee -->
+    <icon package="com.eventyay.attendee" drawable="@drawable/frost_icon_eventyayattendee" />
+
+    <!-- Everdo -->
+    <icon package="net.everdo.everdo" drawable="@drawable/frost_icon_everdo" />
+
+    <!-- Evie -->
+    <icon package="is.shortcut" drawable="@drawable/frost_icon_evie" />
+
+    <!-- Exodus -->
+    <icon package="exodusmovement.exodus" drawable="@drawable/frost_icon_exodus" />
+
+    <!-- Exodus Privacy -->
+    <icon package="org.eu.exodus_privacy.exodusprivacy" drawable="@drawable/frost_icon_exodusprivacy" />
+
+    <!-- Expense Manager -->
+    <icon package="at.markushi.expensemanager" drawable="@drawable/frost_icon_markushiexpensemanager" />
+
+    <!-- Explorer -->
+    <icon package="com.speedsoftware.explorer" drawable="@drawable/frost_icon_files" />
+
+    <!-- Export Contacts -->
+    <icon package="am.ed.exportcontacts" drawable="@drawable/frost_icon_exportcontacts" />
+
+    <!-- Facebook -->
+    <icon package="com.facebook.katana" drawable="@drawable/frost_icon_facebook" />
+
+    <!-- Facebook Lite -->
+    <icon package="com.facebook.lite" drawable="@drawable/frost_icon_facebooklite" />
+
+    <!-- Facebook Messenger -->
+    <icon package="com.facebook.orca" drawable="@drawable/frost_icon_messenger" />
+
+    <!-- Facebook Messenger Lite -->
+    <icon package="com.facebook.mlite" drawable="@drawable/frost_icon_messenger" />
+
+    <!-- Facebook Slim -->
+    <icon package="org.indywidualni.fblite" drawable="@drawable/frost_icon_facebook" />
+
+    <!-- FairEmail -->
+    <icon package="eu.faircode.email" drawable="@drawable/frost_icon_fairemail" />
+
+    <!-- Faketraveller -->
+    <icon package="cl.coders.faketraveller" drawable="@drawable/frost_icon_faketraveller" />
+    <icon package="cl.coders.faketraveler" drawable="@drawable/frost_icon_faketraveler" />
+
+    <!-- Fallout Shelter -->
+    <icon package="com.bethsoft.falloutshelter" drawable="@drawable/frost_icon_falloutshelter" />
+
+    <!-- Family Link -->
+    <icon package="com.google.android.apps.kids.familylink" drawable="@drawable/frost_icon_familylink" />
+
+    <!-- FastHub -->
+    <icon package="com.fastaccess.github" drawable="@drawable/frost_icon_fasthub" />
+
+    <!-- FastHub-Libre -->
+    <icon package="com.fastaccess.github.libre" drawable="@drawable/frost_icon_fasthub" />
+
+    <!-- Fast Reset -->
+    <icon package="au.dja.screenlock.activities" drawable="@drawable/frost_icon_fastreset" />
+
+    <!-- FBReader -->
+    <icon package="org.geometerplus.zlibrary.ui.android" drawable="@drawable/frost_icon_fbreader" />
+
+    <!-- F-Droid Classic -->
+    <icon package="eu.bubu1.fdroidclassic" drawable="@drawable/frost_icon_fdroidclassic" />
+
+    <!-- F-Droid Forum -->
+    <icon package="at.h4x.fdroidforumclient" drawable="@drawable/frost_icon_fdroidforum" />
+
+    <!-- Fdroid -->
+    <icon package="org.fdroid.fdroid" drawable="@drawable/frost_icon_fdroid" />
+    <icon package="org.fdroid.fdroid.debug" drawable="@drawable/frost_icon_fdroid" />
+
+    <!-- Fedilab -->
+    <icon package="fr.gouv.etalab.mastodon" drawable="@drawable/frost_icon_fedilab" />
+
+    <!-- Feedback -->
+    <icon package="com.miui.bugreport" drawable="@drawable/frost_icon_feedback" />
+
+    <!-- Feeder -->
+    <icon package="com.nononsenseapps.feeder" drawable="@drawable/frost_icon_feeder" />
+
+    <!-- Feedly Classic -->
+    <icon package="com.devhd.feedly.classic" drawable="@drawable/frost_icon_feedlyclassic" />
+
+    <!-- Fennec F-Droid -->
+    <icon package="org.mozilla.fennec_fdroid" drawable="@drawable/frost_icon_fennec" />
+
+    <!-- FFUpdater -->
+    <icon package="de.marmaro.krt.ffupdater" drawable="@drawable/frost_icon_ffupdater" />
+
+    <!-- Fidelity -->
+    <icon package="com.fidelity.android" drawable="@drawable/frost_icon_fidelity" />
+
+    <!-- Files -->
+    <icon package="com.cyanogenmod.filemanager" drawable="@drawable/frost_icon_files" />
+    <icon package="com.jrdcom.filemanager.bb" drawable="@drawable/frost_icon_files" />
+    <icon package="com.huawei.hidisk" drawable="@drawable/frost_icon_files" />
+    <icon package="me.zhanghai.android.files" drawable="@drawable/frost_icon_files" />
+    <icon package="com.google.android.apps.nbu.files" drawable="@drawable/frost_icon_files" />
+    <icon package="com.mi.android.globalFileexplorer" drawable="@drawable/frost_icon_files" />
+
+    <!-- Filmstaden -->
+    <icon package="se.sfbio.mobile.android" drawable="@drawable/frost_icon_filmstaden" />
+
+    <!-- Finance Manager -->
+    <icon package="org.secuso.privacyfriendlyfinancemanager" drawable="@drawable/frost_icon_financemanager" />
+
+    <!-- Finanzassistent -->
+    <icon package="de.postbank.finanzassistent" drawable="@drawable/frost_icon_finanzassistent" />
+
+    <!-- Find Device -->
+    <icon package="com.google.android.apps.adm" drawable="@drawable/frost_icon_finddevice" />
+
+    <!-- Firefly III Mobile -->
+    <icon package="xyz.hisname.fireflyiii" drawable="@drawable/frost_icon_fireflyiiimobile" />
+
+    <!-- Firefox Focus -->
+    <icon package="org.mozilla.focus" drawable="@drawable/frost_icon_firefoxfocus" />
+
+    <!-- Firefox -->
+    <icon package="org.mozilla.firefox" drawable="@drawable/frost_icon_firefox" />
+    <icon package="org.mozilla.firefox_beta" drawable="@drawable/frost_icon_firefox" />
+
+    <!-- Firefox Klar -->
+    <icon package="org.mozilla.klar" drawable="@drawable/frost_icon_firefox" />
+
+    <!-- Firefox Lockwise -->
+    <icon package="mozilla.lockbox" drawable="@drawable/frost_icon_firefoxlockwise" />
+
+    <!-- Firefox Notes -->
+    <icon package="org.mozilla.testpilot.notes" drawable="@drawable/frost_icon_firefoxnotes" />
+
+    <!-- Firefox Preview -->
+    <icon package="org.mozilla.fenix" drawable="@drawable/frost_icon_firefoxpreview" />
+    <icon package="org.mozilla.fenix.nightly" drawable="@drawable/frost_icon_firefoxpreview" />
+
+    <!-- Firefox Send -->
+    <icon package="org.mozilla.firefoxsend" drawable="@drawable/frost_icon_firefoxsend" />
+
+    <!-- Firewall -->
+    <icon package="org.calyxos.datura" drawable="@drawable/frost_icon_firewall" />
+
+    <!-- FiSSH -->
+    <icon package="ro.ioanm.fissh" drawable="@drawable/frost_icon_fissh" />
+
+    <!-- Fitbit Coach -->
+    <icon package="com.fitstar.pt" drawable="@drawable/frost_icon_fitbitcoach" />
+
+    <!-- FitoTrack -->
+    <icon package="de.tadris.fitness" drawable="@drawable/frost_icon_fitotrack" />
+
+    <!-- Flashy -->
+    <icon package="rocks.poopjournal.flashy" drawable="@drawable/frost_icon_flashy" />
+
+    <!-- Flatastic -->
+    <icon package="com.flatastic.app" drawable="@drawable/frost_icon_flatastic" />
+
+    <!-- Flickr -->
+    <icon package="com.yahoo.mobile.client.android.flickr" drawable="@drawable/frost_icon_flickr" />
+
+    <!-- Flinkster -->
+    <icon package="de.bahn.flinkster" drawable="@drawable/frost_icon_flinkster" />
+
+    <!-- FlipaClip -->
+    <icon package="com.vblast.flipaclip" drawable="@drawable/frost_icon_flipaclip" />
+
+    <!-- Flipboard -->
+    <icon package="flipboard.app" drawable="@drawable/frost_icon_flipboard" />
+
+    <!-- Floatplane -->
+    <icon package="com.floatplane.floatplane" drawable="@drawable/frost_icon_floatplane" />
+
+    <!-- FlorisBoard -->
+    <icon package="dev.patrickgold.florisboard" drawable="@drawable/frost_icon_florisboard" />
+
+    <!-- Flow Free Bridges -->
+    <icon package="com.bigduckgames.flowbridges" drawable="@drawable/frost_icon_flowfreebridges" />
+
+    <!-- Flow Free Hexes -->
+    <icon package="com.bigduckgames.flowhexes" drawable="@drawable/frost_icon_flowfreehexes" />
+
+    <!-- Flow Free -->
+    <icon package="com.bigduckgames.flow" drawable="@drawable/frost_icon_flowfree" />
+
+    <!-- Flow Free Warps -->
+    <icon package="com.bigduckgames.flowwarps" drawable="@drawable/frost_icon_flowfreewarps" />
+
+    <!-- Flow -->
+    <icon package="com.microsoft.flow" drawable="@drawable/frost_icon_flow" />
+
+    <!-- FL Studio Mobile -->
+    <icon package="com.imageline.FLM" drawable="@drawable/frost_icon_flstudiomobile" />
+
+    <!-- f.lux -->
+    <icon package="com.justgetflux.flux" drawable="@drawable/frost_icon_flux" />
+
+    <!-- Flym -->
+    <icon package="net.frju.flym" drawable="@drawable/frost_icon_flym" />
+
+    <!-- FM Radio -->
+    <icon package="com.android.fmradio" drawable="@drawable/frost_icon_radio" />
+    <icon package="com.caf.fmradio" drawable="@drawable/frost_icon_radio" />
+    <icon package="com.huawei.android.FMRadio" drawable="@drawable/frost_icon_radio" />
+    <icon package="com.motorola.fmplayer" drawable="@drawable/frost_icon_radio" />
+    <icon package="com.miui.fm" drawable="@drawable/frost_icon_radio" />
+
+    <!-- Foobar2000 -->
+    <icon package="com.foobar2000.foobar2000" drawable="@drawable/frost_icon_foobar2000" />
+
+    <!-- Footej Camera -->
+    <icon package="com.footej.camera" drawable="@drawable/frost_icon_footejcamera" />
+
+    <!-- Forecastie -->
+    <icon package="cz.martykan.forecastie" drawable="@drawable/frost_icon_forecastie" />
+
+    <!-- Forest -->
+    <icon package="cc.forestapp" drawable="@drawable/frost_icon_forest" />
+
+    <!-- Forkhub -->
+    <icon package="jp.forkhub" drawable="@drawable/frost_icon_forkhub" />
+
+    <!-- Fortuneo -->
+    <icon package="com.fortuneo.android" drawable="@drawable/frost_icon_fortuneo" />
+
+    <!-- FOSS Browser -->
+    <icon package="de.baumann.browser" drawable="@drawable/frost_icon_fossbrowser" />
+
+    <!-- Fossil Hybrid -->
+    <icon package="com.fossil.wearables.fossil" drawable="@drawable/frost_icon_fossilhybrid" />
+
+    <!-- Foxit PDF -->
+    <icon package="com.foxit.mobile.pdf.lite" drawable="@drawable/frost_icon_foxitpdf" />
+
+    <!-- Foxy Droid -->
+    <icon package="nya.kitsunyan.foxydroid" drawable="@drawable/frost_icon_foxydroid" />
+
+    <!-- Freebox Compagnon -->
+    <icon package="fr.freebox.android.compagnon" drawable="@drawable/frost_icon_freebox" />
+
+    <!-- FreeDCam -->
+    <icon package="troop.com.freedcam" drawable="@drawable/frost_icon_camera" />
+
+    <!-- Free Mobile Netstat -->
+    <icon package="org.pixmob.freemobile.netstat" drawable="@drawable/frost_icon_freemobilenetstat" />
+
+    <!-- FreeOTP -->
+    <icon package="org.fedorahosted.freeotp" drawable="@drawable/frost_icon_freeotp" />
+
+    <!-- FreeOTP+ -->
+    <icon package="org.liberty.android.freeotpplus" drawable="@drawable/frost_icon_freeotpplus" />
+
+    <!-- Freezer -->
+    <icon package="f.f.freezer" drawable="@drawable/frost_icon_freezer" />
+
+    <!-- Freifunk-Karte -->
+    <icon package="de.freifunk_karte.freifunk_karte" drawable="@drawable/frost_icon_freifunk-karte" />
+
+    <!-- Frost Facebook-->
+    <icon package="com.pitchedapps.frost" drawable="@drawable/frost_icon_frostfacebook" />
+
+    <!-- Frost -->
+    <icon package="com.dkanada.icecons" drawable="@drawable/frost_icon_frost" />
+    <icon package="com.dkanada.icecons.debug" drawable="@drawable/frost_icon_frost" />
+
+    <!-- Fruit Radar -->
+    <icon package="eu.quelltext.mundraub" drawable="@drawable/frost_icon_fruitradar" />
+
+    <!-- Fruux -->
+    <icon package="com.fruux.android" drawable="@drawable/frost_icon_fruux" />
+
+    <!-- Fuel Flash -->
+    <icon package="de.mwwebwork.benzinpreisblitz" drawable="@drawable/frost_icon_fuelflash" />
+
+    <!-- GadgetBridge -->
+    <icon package="nodomain.freeyourgadget.gadgetbridge" drawable="@drawable/frost_icon_gadgetbridge" />
+
+    <!-- Gallery -->
+    <icon package="com.android.gallery3d" drawable="@drawable/frost_icon_gallery" />
+    <icon package="com.sec.android.gallery3d" drawable="@drawable/frost_icon_gallery" />
+    <icon package="com.sonyericsson.album" drawable="@drawable/frost_icon_gallery" />
+    <icon package="com.oneplus.gallery" drawable="@drawable/frost_icon_gallery" />
+    <icon package="com.alensw.PicFolder" drawable="@drawable/frost_icon_gallery" />
+    <icon package="com.miui.gallery" drawable="@drawable/frost_icon_gallery" />
+
+    <!-- GApps Browser -->
+    <icon package="com.tobykurien.google_news" drawable="@drawable/frost_icon_browser" />
+
+    <!-- Gardine -->
+    <icon package="by.yauhenl.gardine" drawable="@drawable/frost_icon_gardine" />
+
+    <!-- GasFlow -->
+    <icon package="com.mridang.speedo" drawable="@drawable/frost_icon_gasflow" />
+
+    <!-- Geburtstagskalender -->
+    <icon package="saschpe.contactevents" drawable="@drawable/frost_icon_geburtstagskalender" />
+
+    <!-- Geekttrss -->
+    <icon package="com.geekorum.ttrss.free" drawable="@drawable/frost_icon_geekttrss" />
+
+    <!-- GEICO Mobile -->
+    <icon package="com.geico.mobile" drawable="@drawable/frost_icon_geicomobile" />
+
+    <!-- Gelli -->
+    <icon package="com.dkanada.gramophone" drawable="@drawable/frost_icon_gelli" />
+    <icon package="com.dkanada.gramophone.debug" drawable="@drawable/frost_icon_gelli" />
+
+    <!-- Gello -->
+    <icon package="org.cyanogenmod.gello.browser" drawable="@drawable/frost_icon_browser" />
+
+    <!-- GeoGebra Classic -->
+    <icon package="org.geogebra.android" drawable="@drawable/frost_icon_geogebra" />
+    <icon package="org.geogebra" drawable="@drawable/frost_icon_geogebra" />
+
+    <!-- Geohash Droid -->
+    <icon package="net.exclaimindustries.geohashdroid" drawable="@drawable/frost_icon_geohashdroid" />
+
+    <!-- Geologische Zeitskala -->
+    <icon package="org.tengel.timescale" drawable="@drawable/frost_icon_geologischezeitskala" />
+
+    <!-- Geo++ RINEX Logger -->
+    <icon package="de.geopp.rinexlogger" drawable="@drawable/frost_icon_georinexlogger" />
+
+    <!-- Gestion des Ports -->
+    <icon package="com.aaronjwood.portauthority.free" drawable="@drawable/frost_icon_portauthority" />
+
+    <!-- Ghost Commander -->
+    <icon package="com.ghostsq.commander" drawable="@drawable/frost_icon_ghostcommander" />
+
+    <!-- Ghost -->
+    <icon package="org.ghost.android" drawable="@drawable/frost_icon_ghost" />
+
+    <!-- GitHub -->
+    <icon package="com.github.android" drawable="@drawable/frost_icon_github" />
+
+    <!-- GitNex -->
+    <icon package="org.mian.gitnex" drawable="@drawable/frost_icon_gitnex" />
+
+    <!-- Gitter -->
+    <icon package="im.gitter.gitter" drawable="@drawable/frost_icon_gitter" />
+
+    <!-- GitTouch -->
+    <icon package="io.github.pd4d10.gittouch" drawable="@drawable/frost_icon_gittouch" />
+
+    <!-- GLXY -->
+    <icon package="com.kaeruct.glxy" drawable="@drawable/frost_icon_glxy" />
+
+    <!-- GMX Mail -->
+    <icon package="de.gmx.mobile.android.mail" drawable="@drawable/frost_icon_gmxmail" />
+
+    <!-- Goblim -->
+    <icon package="fr.mobdev.goblim" drawable="@drawable/frost_icon_goblim" />
+
+    <!-- GO -->
+    <icon package="com.tomtom.gplay.navapp" drawable="@drawable/frost_icon_go" />
+
+    <!-- Golden 1 -->
+    <icon package="com.golden1.mobilebanking" drawable="@drawable/frost_icon_goldenone" />
+
+    <!-- Goodtime -->
+    <icon package="com.apps.adrcotfas.goodtime" drawable="@drawable/frost_icon_goodtime" />
+
+    <!-- Good Weather -->
+    <icon package="org.asdtm.goodweather" drawable="@drawable/frost_icon_goodweather" />
+
+    <!-- Google Authenticator -->
+    <icon package="com.google.android.apps.authenticator2" drawable="@drawable/frost_icon_g2step" />
+
+    <!-- Google Calculator -->
+    <icon package="com.google.android.calculator" drawable="@drawable/frost_icon_calculator" />
+
+    <!-- Google Camera -->
+    <icon package="com.google.android.GoogleCamera" drawable="@drawable/frost_icon_gcamera" />
+    <icon package="com.google.android.GoogleCameraEng" drawable="@drawable/frost_icon_gcamera" />
+    <icon package="com.google.android.CameraRedmi5Plus" drawable="@drawable/frost_icon_gcamera" />
+    <icon package="com.google.android.GoogleCamera.Urnyx" drawable="@drawable/frost_icon_camera" />
+    <icon package="org.codeaurora.snapcam" drawable="@drawable/frost_icon_gcamera" />
+
+    <!-- Google Chrome -->
+    <icon package="com.android.chrome" drawable="@drawable/frost_icon_chrome" />
+    <icon package="com.chrome.beta" drawable="@drawable/frost_icon_chrome" />
+    <icon package="com.chrome.dev" drawable="@drawable/frost_icon_chrome" />
+
+    <!-- Google Clock -->
+    <icon package="com.google.android.deskclock" drawable="@drawable/frost_icon_clock" />
+
+    <!-- Google Docs -->
+    <icon package="com.google.android.apps.docs.editors.docs" drawable="@drawable/frost_icon_gdocs" />
+
+    <!-- Google Drive -->
+    <icon package="com.google.android.apps.docs" drawable="@drawable/frost_icon_gdrive" />
+
+    <!-- Google Earth -->
+    <icon package="com.google.earth" drawable="@drawable/frost_icon_earth" />
+
+    <!-- Google Email -->
+    <icon package="com.google.android.email" drawable="@drawable/frost_icon_mail" />
+
+    <!-- Google Fi -->
+    <icon package="com.google.android.apps.tycho" drawable="@drawable/frost_icon_googlefi" />
+
+    <!-- Google Files -->
+    <icon package="com.google.android.documentsui" drawable="@drawable/frost_icon_files" />
+
+    <!-- Google Fit -->
+    <icon package="com.google.android.apps.fitness" drawable="@drawable/frost_icon_hearth" />
+
+    <!-- Google Gmail -->
+    <icon package="com.google.android.gm" drawable="@drawable/frost_icon_gmail" />
+
+    <!-- Google Hangouts -->
+    <icon package="com.google.android.talk" drawable="@drawable/frost_icon_hangouts" />
+
+    <!-- Google -->
+    <icon package="com.google.android.googlequicksearchbox" drawable="@drawable/frost_icon_googleapp" />
+
+    <!-- Google Japanese Input -->
+    <icon package="com.google.android.inputmethod.japanese" drawable="@drawable/frost_icon_gkeyboardjp" />
+
+    <!-- Google Keep -->
+    <icon package="com.google.android.keep" drawable="@drawable/frost_icon_gkeep" />
+
+    <!-- Google Keyboard -->
+    <icon package="com.google.android.inputmethod.latin" drawable="@drawable/frost_icon_gkeyboard" />
+
+    <!-- Google Maps -->
+    <icon package="com.google.android.apps.maps" drawable="@drawable/frost_icon_gmaps" />
+
+    <!-- Google Newsstand -->
+    <icon package="com.google.android.apps.magazines" drawable="@drawable/frost_icon_gnewsstand" />
+
+    <!-- Google News & Weather -->
+    <icon package="com.google.android.apps.genie.geniewidget" drawable="@drawable/frost_icon_gnewsweather" />
+
+    <!-- Google Now Launcher -->
+    <icon package="com.google.android.launcher" drawable="@drawable/frost_icon_google" />
+
+    <!-- Google Photos -->
+    <icon package="com.google.android.apps.photos" drawable="@drawable/frost_icon_gphotos" />
+
+    <!-- Google Play Books -->
+    <icon package="com.google.android.apps.books" drawable="@drawable/frost_icon_book" />
+
+    <!-- Google Play Games -->
+    <icon package="com.google.android.play.games" drawable="@drawable/frost_icon_gplay" />
+
+    <!-- Google Play Movies -->
+    <icon package="com.google.android.videos" drawable="@drawable/frost_icon_gmovies" />
+
+    <!-- Google Play Music -->
+    <icon package="com.google.android.music" drawable="@drawable/frost_icon_gmusic" />
+
+    <!-- Google Play Store -->
+    <icon package="com.android.vending" drawable="@drawable/frost_icon_gplaystore" />
+
+    <!-- Google Settings -->
+    <icon package="com.google.android.gms" drawable="@drawable/frost_icon_googlesettings" />
+
+    <!-- Google Sheets -->
+    <icon package="com.google.android.apps.docs.editors.sheets" drawable="@drawable/frost_icon_gsheets" />
+
+    <!-- Google Slides -->
+    <icon package="com.google.android.apps.docs.editors.slides" drawable="@drawable/frost_icon_gslides" />
+
+    <!-- Google Translate -->
+    <icon package="com.google.android.apps.translate" drawable="@drawable/frost_icon_gtranslate" />
+
+    <!-- Google Wear OS -->
+    <icon package="com.google.android.wearable.app" drawable="@drawable/frost_icon_wearos" />
+
+    <!-- Google Wifi -->
+    <icon package="com.google.android.apps.access.wifi.consumer" drawable="@drawable/frost_icon_googlewifi" />
+
+    <!-- GPS Status -->
+    <icon package="com.eclipsim.gpsstatus2" drawable="@drawable/frost_icon_gpsstatus" />
+
+    <!-- GPSTest -->
+    <icon package="com.android.gpstest.osmdroid" drawable="@drawable/frost_icon_gpstest" />
+
+    <!-- gReader Pro -->
+    <icon package="com.noinnion.android.greader.readerpro" drawable="@drawable/frost_icon_greader" />
+
+    <!-- Great Courses Plus -->
+    <icon package="com.tgc.greatcoursesplus" drawable="@drawable/frost_icon_greatcourses" />
+
+    <!-- GreenBits -->
+    <icon package="com.greenaddress.greenbits_android_wallet" drawable="@drawable/frost_icon_greenbits" />
+
+    <!-- GroupMe -->
+    <icon package="com.groupme.android" drawable="@drawable/frost_icon_groupme" />
+
+    <!-- GrowTracker -->
+    <icon package="me.anon.grow" drawable="@drawable/frost_icon_growtracker" />
+
+    <!-- Guardian -->
+    <icon package="com.altitudeangel.guardian" drawable="@drawable/frost_icon_guardian" />
+
+    <!-- Guide du tri : recycling info-->
+    <icon package="fr.ecoemballage.guidedutri" drawable="@drawable/frost_icon_recyclelocation" />
+
+    <!-- Hacker's Keyboard -->
+    <icon package="org.pocketworkstation.pckeyboard" drawable="@drawable/frost_icon_hackerskb" />
+
+    <!-- Handy News Reader -->
+    <icon package="ru.yanus171.feedexfork" drawable="@drawable/frost_icon_handynewsreader" />
+
+    <!-- Happening -->
+    <icon package="im.happening.android" drawable="@drawable/frost_icon_happening" />
+
+    <!-- Hauk -->
+    <icon package="info.varden.hauk" drawable="@drawable/frost_icon_hauk" />
+
+    <!-- Haven -->
+    <icon package="org.havenapp.main" drawable="@drawable/frost_icon_haven" />
+
+    <!-- HBO Max -->
+    <icon package="com.hbo.hbonow" drawable="@drawable/frost_icon_hbomax" />
+
+    <!-- Headi -->
+    <icon package="com.headi.app" drawable="@drawable/frost_icon_headi" />
+
+    <!-- HeartBeat -->
+    <icon package="eu.berdosi.app.heartbeat" drawable="@drawable/frost_icon_heartbeat" />
+
+    <!-- HelloTalk -->
+    <icon package="com.hellotalk" drawable="@drawable/frost_icon_hellotalk" />
+
+    <!-- Helm -->
+    <icon package="com.thehelm.helm" drawable="@drawable/frost_icon_helm" />
+
+    <!-- Helm Sync -->
+    <icon package="com.thehelm.sync" drawable="@drawable/frost_icon_helmsync" />
+
+    <!-- Hendroid -->
+    <icon package="org.nonononoki.hendroid" drawable="@drawable/frost_icon_hendroid" />
+
+    <!-- Here Comes the Bus -->
+    <icon package="com.synovia.herecomesthebus" drawable="@drawable/frost_icon_herecomesthebus" />
+
+    <!-- HERE WeGo -->
+    <icon package="com.here.app.maps" drawable="@drawable/frost_icon_here" />
+
+    <!-- Holo Launcher -->
+    <icon package="com.mobint.hololauncher" drawable="@drawable/frost_icon_holo" />
+
+    <!-- HP All-in-one Printer Remote -->
+    <icon package="com.hp.printercontrol" drawable="@drawable/frost_icon_hpprinteraio" />
+
+    <!-- Hub -->
+    <icon package="com.blackberry.hub" drawable="@drawable/frost_icon_hub" />
+
+    <!-- Hue -->
+    <icon package="is.zi.huewidgets" drawable="@drawable/frost_icon_hue" />
+
+    <!-- Hulu -->
+    <icon package="com.hulu.plus" drawable="@drawable/frost_icon_hulu" />
+
+    <!-- Humpback -->
+    <icon package="com.humpback" drawable="@drawable/frost_icon_humpback" />
+
+    <!-- Hyperdia -->
+    <icon package="com.hyperdia.android.activity" drawable="@drawable/frost_icon_bus_circle" />
+
+    <!-- Icecat -->
+    <icon package="org.gnu.icecat" drawable="@drawable/frost_icon_icecat" />
+
+    <!-- ICEcons -->
+
+    <!-- ICSdroid -->
+    <icon package="at.bitfire.icsdroid" drawable="@drawable/frost_icon_icsdroid" />
+
+    <!-- Idagio -->
+    <icon package="com.idagio.app" drawable="@drawable/frost_icon_idagio" />
+
+    <!-- Identiconizer -->
+    <icon package="com.germainz.identiconizer" drawable="@drawable/frost_icon_identiconizer" />
+
+    <!-- iFixit -->
+    <icon package="com.dozuki.ifixit" drawable="@drawable/frost_icon_ifixit" />
+
+    <!-- iFood -->
+    <icon package="br.com.brainweb.ifood" drawable="@drawable/frost_icon_ifood" />
+
+    <!-- Il Meteo -->
+    <icon package="com.ilmeteo.android.ilmeteo" drawable="@drawable/frost_icon_meteo" />
+
+    <!-- Imagepipe -->
+    <icon package="de.kaffeemitkoffein.imagepipe" drawable="@drawable/frost_icon_imagepipe" />
+
+    <!-- Image & Video Date Fixer -->
+    <icon package="eu.duong.imagedatefixer" drawable="@drawable/frost_icon_imagevideodatefixer" />
+
+    <!-- Imaging Edge Mobile -->
+    <icon package="com.sony.playmemories.mobile" drawable="@drawable/frost_icon_imagingedgemobile" />
+
+    <!-- Imgur -->
+    <icon package="com.imgur.mobile" drawable="@drawable/frost_icon_imgur" />
+
+    <!-- ImgurViewer -->
+    <icon package="com.ensoft.imgurviewer" drawable="@drawable/frost_icon_imgurviewer" />
+
+    <!-- iNaturalist -->
+    <icon package="org.inaturalist.android" drawable="@drawable/frost_icon_inaturalist" />
+
+    <!-- Infinity -->
+    <icon package="ml.docilealligator.infinityforreddit" drawable="@drawable/frost_icon_infinity" />
+
+    <!-- Informed Delivery -->
+    <icon package="com.usps.myusps_mobile_app_android" drawable="@drawable/frost_icon_informeddelivery" />
+
+    <!-- Instacart -->
+    <icon package="com.instacart.client" drawable="@drawable/frost_icon_instacart" />
+
+    <!-- InstaGrabber -->
+    <icon package="me.austinhuang.instagrabber" drawable="@drawable/frost_icon_instagrabber" />
+
+    <!-- Instagram -->
+    <icon package="com.instagram.android" drawable="@drawable/frost_icon_instagram" />
+
+    <!-- iPrint&Scan -->
+    <icon package="com.brother.mfc.brprint" drawable="@drawable/frost_icon_iprintscan" />
+
+    <!-- Island -->
+    <icon package="com.oasisfeng.island" drawable="@drawable/frost_icon_island" />
+
+    <!-- ISS-Detektor -->
+    <icon package="com.runar.issdetector" drawable="@drawable/frost_icon_issdetektor" />
+
+    <!-- Itaú light -->
+    <icon package="com.itau.applight" drawable="@drawable/frost_icon_itualight" />
+
+    <!-- IVI -->
+    <icon package="ru.ivi.client" drawable="@drawable/frost_icon_ivi" />
+
+    <!-- iWant TFC -->
+    <icon package="com.absi.tfctv" drawable="@drawable/frost_icon_iwanttfc" />
+
+    <!-- Jamendo -->
+    <icon package="com.teleca.jamendo" drawable="@drawable/frost_icon_jamendo" />
+
+    <!-- Jellyfin -->
+    <icon package="org.jellyfin.mobile" drawable="@drawable/frost_icon_jellyfin" />
+    <icon package="org.jellyfin.mobile.debug" drawable="@drawable/frost_icon_jellyfin" />
+
+    <!-- Jitsi Meet -->
+    <icon package="org.jitsi.meet" drawable="@drawable/frost_icon_jitsimeet" />
+
+    <!-- Joplin -->
+    <icon package="net.cozic.joplin" drawable="@drawable/frost_icon_joplin" />
+
+    <!-- Jota Text Editor -->
+    <icon package="jp.sblo.pandora.jota" drawable="@drawable/frost_icon_jotatexteditor" />
+
+    <!-- JuiceSSH -->
+    <icon package="com.sonelli.juicessh" drawable="@drawable/frost_icon_juicessh" />
+
+    <!-- JustChess -->
+    <icon package="com.alaskalinuxuser.justchess" drawable="@drawable/frost_icon_justchess" />
+
+    <!-- Just Eat -->
+    <icon package="com.justeat.app.it" drawable="@drawable/frost_icon_justeat" />
+
+    <!-- K-9 Mail -->
+    <icon package="com.fsck.k9" drawable="@drawable/frost_icon_k9mail" />
+
+    <!-- K9 Material -->
+    <icon package="com.fsck.k9.material" drawable="@drawable/frost_icon_k9mail" />
+
+    <!-- Kaku -->
+    <icon package="ca.fuwafuwa.kaku" drawable="@drawable/frost_icon_kaku" />
+
+    <!-- Kaltura Device Info -->
+    <icon package="com.oF2pks.kalturadeviceinfos" drawable="@drawable/frost_icon_deviceinfo" />
+
+    <!-- Kamusku -->
+    <icon package="com.dridev.kamusku" drawable="@drawable/frost_icon_kamusku" />
+
+    <!-- KanaDrill -->
+    <icon package="com.jorgecastillo.kanadrill" drawable="@drawable/frost_icon_kanadrill" />
+
+    <!-- KaQui -->
+    <icon package="org.kaqui" drawable="@drawable/frost_icon_kaqui" />
+
+    <!-- KDE Connect -->
+    <icon package="org.kdeconnect_tp" drawable="@drawable/frost_icon_kdeconnect" />
+    <icon package="org.kde.kdeconnect_tp" drawable="@drawable/frost_icon_kdeconnect" />
+
+    <!-- Keepa -->
+    <icon package="com.keepa.mobile" drawable="@drawable/frost_icon_keepa" />
+
+    <!-- Keepass2Android -->
+    <icon package="keepass2android.keepass2android" drawable="@drawable/frost_icon_keepass2android" />
+
+    <!-- KeePassDroid -->
+    <icon package="com.android.keepass" drawable="@drawable/frost_icon_keepassdroid" />
+
+    <!-- KeePass DX -->
+    <icon package="com.kunzisoft.keepass.libre" drawable="@drawable/frost_icon_keepassdx" />
+
+    <!-- Keep -->
+    <icon package="com.gotokeep.keep" drawable="@drawable/frost_icon_keep" />
+
+    <!-- KeepOn -->
+    <icon package="fr.twentynine.keepon" drawable="@drawable/frost_icon_keepon" />
+
+    <!-- Kernel Adiutor -->
+    <icon package="com.grarak.kerneladiutor" drawable="@drawable/frost_icon_adiutor" />
+
+    <!-- Keybase -->
+    <icon package="io.keybase.ossifrage" drawable="@drawable/frost_icon_keybase" />
+
+    <!-- Khan Academy -->
+    <icon package="org.khanacademy.android" drawable="@drawable/frost_icon_khanacademy" />
+
+    <!-- KHL -->
+    <icon package="ru.zennex.khl" drawable="@drawable/frost_icon_khl" />
+
+    <!-- Kickstarter -->
+    <icon package="com.kickstarter.kickstarter" drawable="@drawable/frost_icon_kickstarter" />
+
+    <!-- Kid3 -->
+    <icon package="net.sourceforge.kid3" drawable="@drawable/frost_icon_kid3" />
+
+    <!-- Kik -->
+    <icon package="kik.android" drawable="@drawable/frost_icon_kik" />
+
+    <!-- Kinder und Gift -->
+    <icon package="de.berlinchemie.kigi" drawable="@drawable/frost_icon_kinderundgift" />
+
+    <!-- Kindle -->
+    <icon package="com.amazon.kindle" drawable="@drawable/frost_icon_kindle" />
+
+    <!-- KineMaster -->
+    <icon package="com.nexstreaming.app.kinemasterfree" drawable="@drawable/frost_icon_kinemaster" />
+
+    <!-- KinoPoisk -->
+    <icon package="ru.kinopoisk" drawable="@drawable/frost_icon_kinopoisk" />
+
+    <!-- Kinoteatr -->
+    <icon package="ru.rambler.kinoteatr" drawable="@drawable/frost_icon_kinoteatr" />
+
+    <!-- Kiss Launcher -->
+    <icon package="fr.neamar.kiss" drawable="@drawable/frost_icon_kiss" />
+
+    <!-- Kiwi Browser -->
+    <icon package="com.kiwibrowser.browser" drawable="@drawable/frost_icon_kiwibrowser" />
+
+    <!-- Kiwix -->
+    <icon package="org.kiwix.kiwixmobile" drawable="@drawable/frost_icon_kiwix" />
+
+    <!-- Kleine Wettervorschau Deutschland -->
+    <icon package="de.kaffeemitkoffein.tinyweatherforecastgermany" drawable="@drawable/frost_icon_kleinewettervorschaudeutschland" />
+
+    <!-- Knock on Ports -->
+    <icon package="me.impa.knockonports" drawable="@drawable/frost_icon_knockonports" />
+
+    <!-- KoBoCollect -->
+    <icon package="org.koboc.collect.android" drawable="@drawable/frost_icon_kobocollect" />
+
+    <!-- Kodi -->
+    <icon package="org.xbmc.kodi" drawable="@drawable/frost_icon_kodi" />
+
+    <!-- Kodi Remote -->
+    <icon package="ch.berard.xbmcremotebeta" drawable="@drawable/frost_icon_kodiremote" />
+
+    <!-- Koler -->
+    <icon package="com.chooloo.www.callmanager" drawable="@drawable/frost_icon_koler" />
+
+    <!-- komoot -->
+    <icon package="de.komoot.android" drawable="@drawable/frost_icon_komoot" />
+
+    <!-- Kontakt bar -->
+    <icon package="com.premiumbonus.jamm.kontaktbar" drawable="@drawable/frost_icon_kontakt" />
+
+    <!-- Koreader -->
+    <icon package="org.koreader.launcher" drawable="@drawable/frost_icon_koreader" />
+
+    <!-- Kore -->
+    <icon package="org.xbmc.kore" drawable="@drawable/frost_icon_kore" />
+
+    <!-- koyu space -->
+    <icon package="com.Sommerlichter.social" drawable="@drawable/frost_icon_koyuspace" />
+
+    <!-- Kuroba -->
+    <icon package="com.github.adamantcheese.chan" drawable="@drawable/frost_icon_kuroba" />
+
+    <!-- La Banque Postale -->
+    <icon package="com.fullsix.android.labanquepostale.accountaccess" drawable="@drawable/frost_icon_banquepostale" />
+
+    <!-- LabCoat -->
+    <icon package="com.commit451.gitlab" drawable="@drawable/frost_icon_gitlab" />
+
+    <!-- Länsförsäkringar -->
+    <icon package="se.lf.mobile.android" drawable="@drawable/frost_icon_lnsfrskringar" />
+
+    <!-- LastPass -->
+    <icon package="com.lastpass.lpandroid" drawable="@drawable/frost_icon_lastpass" />
+
+    <!-- Lawnchair -->
+    <icon package="ch.deletescape.lawnchair.plah" drawable="@drawable/frost_icon_lawnchair" />
+    <icon package="launcher.libre.dev" drawable="@drawable/frost_icon_lawnchair" />
+
+    <!-- LBRY -->
+    <icon package="io.lbry.browser" drawable="@drawable/frost_icon_lbry" />
+
+    <!-- Leafpic -->
+    <icon package="com.horaapps.leafpic" drawable="@drawable/frost_icon_leafpic" />
+    <icon package="org.horaapps.leafpic" drawable="@drawable/frost_icon_leafpic" />
+
+    <!-- LeafPic Revived -->
+    <icon package="com.alienpants.leafpicrevived" drawable="@drawable/frost_icon_leafpic" />
+
+    <!-- LedMote -->
+    <icon package="net.frozenbit.ledmote" drawable="@drawable/frost_icon_ledmote" />
+
+    <!-- Lens -->
+    <icon package="com.google.ar.lens" drawable="@drawable/frost_icon_lens" />
+
+    <!-- Letterboxd -->
+    <icon package="com.letterboxd.letterboxd" drawable="@drawable/frost_icon_letterboxd" />
+
+    <!-- Lexica -->
+    <icon package="com.serwylo.lexica" drawable="@drawable/frost_icon_lexica" />
+
+    <!-- Libby -->
+    <icon package="com.overdrive.mobile.android.libby" drawable="@drawable/frost_icon_libby" />
+
+    <!-- Libreflix -->
+    <icon package="org.libreflix.app" drawable="@drawable/frost_icon_libreflix" />
+
+    <!-- Librem Chat -->
+    <icon package="one.librem.chat" drawable="@drawable/frost_icon_libremchat" />
+
+    <!-- Librem Mail -->
+    <icon package="one.librem.mail" drawable="@drawable/frost_icon_libremmail" />
+
+    <!-- Librem Social -->
+    <icon package="one.librem.social" drawable="@drawable/frost_icon_libremsocial" />
+
+    <!-- Librem Tunnel -->
+    <icon package="one.librem.tunnel" drawable="@drawable/frost_icon_libremtunnel" />
+
+    <!-- LibreOffice Viewer -->
+    <icon package="org.documentfoundation.libreoffice" drawable="@drawable/frost_icon_libreofficeviewer" />
+
+    <!-- Librera PRO -->
+    <icon package="com.foobnix.pro.pdf.reader" drawable="@drawable/frost_icon_librerapro" />
+
+    <!-- LibreSpeed -->
+    <icon package="com.dosse.speedtest" drawable="@drawable/frost_icon_librespeed" />
+
+    <!-- Libretorrent -->
+    <icon package="org.proninyaroslav.libretorrent" drawable="@drawable/frost_icon_libretorrent" />
+
+    <!-- lichess -->
+    <icon package="org.lichess.mobileapp" drawable="@drawable/frost_icon_lichess" />
+
+    <!-- Light House -->
+    <icon package="com.bananadevelopment.lighthouse" drawable="@drawable/frost_icon_lighthouse" />
+
+    <!-- Lightning -->
+    <icon package="acr.browser.lightning" drawable="@drawable/frost_icon_lightning" />
+
+    <!-- Linebit -->
+    <icon package="com.edzondm.linebit" drawable="@drawable/frost_icon_linebit" />
+
+    <!-- Linebit Light -->
+    <icon package="com.edzondm.linebitlight" drawable="@drawable/frost_icon_linebitlight" />
+
+    <!-- LINE -->
+    <icon package="jp.naver.line.android" drawable="@drawable/frost_icon_line" />
+
+    <!-- LINE Lite -->
+    <icon package="com.linecorp.linelite" drawable="@drawable/frost_icon_line" />
+
+    <!-- LINE Webtoon -->
+    <icon package="com.naver.linewebtoon" drawable="@drawable/frost_icon_line" />
+
+    <!-- Linguee -->
+    <icon package="com.linguee.linguee" drawable="@drawable/frost_icon_linguee" />
+
+    <!-- LinkedIn -->
+    <icon package="com.linkedin.android" drawable="@drawable/frost_icon_linkedin" />
+
+    <!-- Linksys -->
+    <icon package="com.cisco.connect.cloud" drawable="@drawable/frost_icon_linksys" />
+
+    <!-- Linphone -->
+    <icon package="org.linphone" drawable="@drawable/frost_icon_linphone" />
+
+    <!-- Linux Command Library -->
+    <icon package="com.inspiredandroid.linuxcommandbibliotheca" drawable="@drawable/frost_icon_linuxcommandlibrary" />
+
+    <!-- LISTEN.moe -->
+    <icon package="me.echeung.moemoekyun.fdroid" drawable="@drawable/frost_icon_listen" />
+
+    <!-- Lloyds Bank -->
+    <icon package="com.grppl.android.shell.CMBlloydsTSB73" drawable="@drawable/frost_icon_lloydsbank" />
+
+    <!-- LocationPrivacy -->
+    <icon package="info.guardianproject.locationprivacy" drawable="@drawable/frost_icon_locationprivacy" />
+
+    <!-- Locker -->
+    <icon package="com.jrdcom.privatezone" drawable="@drawable/frost_icon_locker" />
+
+    <!-- Logische Selbstverteidigung -->
+    <icon package="za.co.lukestonehm.logicaldefence" drawable="@drawable/frost_icon_logischeselbstverteidigung" />
+
+    <!-- Look4Sat -->
+    <icon package="com.rtbishop.look4sat" drawable="@drawable/frost_icon_look4sat" />
+
+    <!-- Loop Habit Tracker -->
+    <icon package="org.isoron.uhabits" drawable="@drawable/frost_icon_loop" />
+
+    <!-- Loyalty Card Keychain -->
+    <icon package="protect.card_locker" drawable="@drawable/frost_icon_loyaltycardkeychain" />
+
+    <!-- LTE Cleaner -->
+    <icon package="theredspy15.ltecleanerfoss" drawable="@drawable/frost_icon_ltecleaner" />
+
+    <!-- LuisterBieb -->
+    <icon package="nl.bibliotheek.android.luisterboeken" drawable="@drawable/frost_icon_luisterbieb" />
+
+    <!-- Ma Banque: Crédit Agricole -->
+    <icon package="fr.creditagricole.androidapp" drawable="@drawable/frost_icon_creditagricole" />
+
+    <!-- Magic Earth -->
+    <icon package="com.generalmagic.magicearth" drawable="@drawable/frost_icon_magicearth" />
+
+    <!-- Magisk Manager -->
+    <icon package="com.topjohnwu.magisk" drawable="@drawable/frost_icon_magisk" />
+
+    <!-- Mail -->
+    <icon package="foundation.e.mail" drawable="@drawable/frost_icon_mail" />
+
+    <!-- Ma Livebox -->
+    <icon package="com.orange.mylivebox.fr" drawable="@drawable/frost_icon_malivebox" />
+
+    <!-- M.A.L.P. -->
+    <icon package="org.gateshipone.malp" drawable="@drawable/frost_icon_malp" />
+
+    <!-- Mapillary -->
+    <icon package="app.mapillary" drawable="@drawable/frost_icon_mapillary" />
+
+    <!-- Maps -->
+    <icon package="com.github.axet.maps" drawable="@drawable/frost_icon_maps" />
+
+    <!-- MAPS.ME -->
+    <icon package="com.mapswithme.maps.pro" drawable="@drawable/frost_icon_mapsme" />
+
+    <!-- Mapy.cz -->
+    <icon package="cz.seznam.mapy" drawable="@drawable/frost_icon_mapycz" />
+
+    <!-- Markers -->
+    <icon package="org.dsandler.apps.markers" drawable="@drawable/frost_icon_markers" />
+
+    <!-- Markor -->
+    <icon package="net.gsantner.markor" drawable="@drawable/frost_icon_markor" />
+
+    <!-- MasterMindy -->
+    <icon package="eth.matteljay.mastermindy" drawable="@drawable/frost_icon_mastermindy" />
+
+    <!-- Master Password -->
+    <icon package="com.lyndir.masterpassword" drawable="@drawable/frost_icon_masterpassword" />
+
+    <!-- Material Islands -->
+    <icon package="com.hippotech.materialislands" drawable="@drawable/frost_icon_materialislands" />
+
+    <!-- Materialistic -->
+    <icon package="io.github.hidroh.materialistic" drawable="@drawable/frost_icon_materialistic" />
+
+    <!-- Material Notes -->
+    <icon package="com.bijoysingh.quicknote" drawable="@drawable/frost_icon_materialnotes" />
+
+    <!-- Material Player -->
+    <icon package="de.ph1b.audiobook" drawable="@drawable/frost_icon_materialplayer" />
+
+    <!-- Mather -->
+    <icon package="org.icasdri.mather" drawable="@drawable/frost_icon_mather" />
+
+    <!-- Math -->
+    <icon package="com.microsoft.math" drawable="@drawable/frost_icon_math" />
+
+    <!-- MatLog / MatLog Libre -->
+    <icon package="com.pluscubed.matlog" drawable="@drawable/frost_icon_matlog" />
+    <icon package="com.pluscubed.matloglibre" drawable="@drawable/frost_icon_matlog" />
+
+    <!-- Mattermost -->
+    <icon package="com.mattermost.rn" drawable="@drawable/frost_icon_mattermost" />
+    <icon package="com.mattermost.rnbeta" drawable="@drawable/frost_icon_mattermost" />
+    <icon package="com.mattermost.mattermost" drawable="@drawable/frost_icon_mattermost" />
+
+    <!-- Mediafire -->
+    <icon package="com.mediafire.android" drawable="@drawable/frost_icon_mediafire" />
+
+    <!-- Mediapart -->
+    <icon package="com.mediapart.app" drawable="@drawable/frost_icon_mediapart" />
+
+    <!-- Mediaset Play -->
+    <icon package="it.fabbricadigitale.android.videomediaset" drawable="@drawable/frost_icon_mediasetplay" />
+
+    <!-- Meditation Assistant -->
+    <icon package="sh.ftp.rocketninelabs.meditationassistant.opensource" drawable="@drawable/frost_icon_meditationassistant" />
+
+    <!-- Meetup -->
+    <icon package="com.meetup" drawable="@drawable/frost_icon_meetup" />
+
+    <!-- Megafon -->
+    <icon package="ru.megafon.mlk" drawable="@drawable/frost_icon_megafon" />
+
+    <!-- Mega -->
+    <icon package="mega.privacy.android.app" drawable="@drawable/frost_icon_mega" />
+
+    <!-- MeinMagenta -->
+    <icon package="de.telekom.android.customercenter" drawable="@drawable/frost_icon_meinmagenta" />
+
+    <!-- Mein Vodafone -->
+    <icon package="com.appseleration.android.selfcare" drawable="@drawable/frost_icon_meinvodafone" />
+
+    <!-- Merlin -->
+    <icon package="com.labs.merlinbirdid.app" drawable="@drawable/frost_icon_merlin" />
+
+    <!-- Mes Comptes - LCL -->
+    <icon package="fr.lcl.android.customerarea" drawable="@drawable/frost_icon_mescompteslcl" />
+
+    <!-- Meshenger -->
+    <icon package="d.d.meshenger" drawable="@drawable/frost_icon_meshenger" />
+
+    <!-- Meshtastic -->
+    <icon package="com.geeksville.mesh" drawable="@drawable/frost_icon_meshtastic" />
+
+    <!-- Messages -->
+    <icon package="com.android.mms" drawable="@drawable/frost_icon_messages" />
+    <icon package="com.google.android.apps.messaging" drawable="@drawable/frost_icon_messages" />
+    <icon package="com.samsung.android.messaging" drawable="@drawable/frost_icon_messages" />
+    <icon package="com.sonyericsson.conversations" drawable="@drawable/frost_icon_messages" />
+    <icon package="com.oneplus.mms" drawable="@drawable/frost_icon_messages" />
+    <icon package="foundation.e.message" drawable="@drawable/frost_icon_messages" />
+
+    <!-- Messaging -->
+    <icon package="com.android.messaging" drawable="@drawable/frost_icon_messaging" />
+
+    <!-- Metadata Remover -->
+    <icon package="rocks.poopjournal.metadataremover" drawable="@drawable/frost_icon_metadataremover" />
+
+    <!-- MeteoSwiss -->
+    <icon package="ch.admin.meteoswiss" drawable="@drawable/frost_icon_meteoswiss" />
+
+    <!-- Metrodroid -->
+    <icon package="au.id.micolous.farebot" drawable="@drawable/frost_icon_metrodroid" />
+
+    <!-- Metro -->
+    <icon package="ru.yandex.metro" drawable="@drawable/frost_icon_metro" />
+
+    <!-- Metro Music player -->
+    <icon package="io.github.muntashirakon.Music" drawable="@drawable/frost_icon_metroplayer" />
+
+    <!-- MGit -->
+    <icon package="com.manichord.mgit" drawable="@drawable/frost_icon_mgit" />
+
+    <!-- Microchip -->
+    <icon package="com.mridang.throttle" drawable="@drawable/frost_icon_microchip" />
+
+    <!-- Microsoft Excel -->
+    <icon package="com.microsoft.office.excel" drawable="@drawable/frost_icon_excel" />
+
+    <!-- Microsoft Launcher -->
+    <icon package="com.microsoft.launcher" drawable="@drawable/frost_icon_microsoftlauncher" />
+
+    <!-- Microsoft Onedrive -->
+    <icon package="com.microsoft.office.skydrive" drawable="@drawable/frost_icon_onedrive" />
+    <icon package="com.microsoft.skydrive" drawable="@drawable/frost_icon_onedrive" />
+
+    <!-- Microsoft Onenote -->
+    <icon package="com.microsoft.office.onenote" drawable="@drawable/frost_icon_onenote" />
+
+    <!-- Microsoft Outlook -->
+    <icon package="com.microsoft.office.outlook" drawable="@drawable/frost_icon_outlook" />
+
+    <!-- Microsoft PowerPoint -->
+    <icon package="com.microsoft.office.powerpoint" drawable="@drawable/frost_icon_powerpoint" />
+
+    <!-- Microsoft Teams -->
+    <icon package="com.microsoft.teams" drawable="@drawable/frost_icon_teams" />
+
+    <!-- Microsoft Word -->
+    <icon package="com.microsoft.office.word" drawable="@drawable/frost_icon_word" />
+
+    <!-- Microsoft Your Phone Companion -->
+    <icon package="com.microsoft.appmanager" drawable="@drawable/frost_icon_yourphone" />
+
+    <!-- Mi Fit -->
+    <icon package="com.xiaomi.hm.health" drawable="@drawable/frost_icon_mifit" />
+
+    <!-- Mi Music -->
+    <icon package="com.miui.player" drawable="@drawable/frost_icon_mimusic" />
+
+    <!-- Mi Remote -->
+    <icon package="com.duokan.phone.remotecontroller" drawable="@drawable/frost_icon_rokuremote" />
+
+    <!-- Mindustry -->
+    <icon package="io.anuke.mindustry" drawable="@drawable/frost_icon_mindustry" />
+
+    <!-- Minecraft -->
+    <icon package="com.mojang.minecraftpe" drawable="@drawable/frost_icon_minecraft" />
+
+    <!-- Minesweeper -->
+    <icon package="org.secuso.privacyfriendlyminesweeper" drawable="@drawable/frost_icon_minesweeper" />
+
+    <!-- Minetest -->
+    <icon package="net.minetest.minetest" drawable="@drawable/frost_icon_minetest" />
+
+    <!-- Minimal -->
+    <icon package="com.rubenroy.minimaltodo" drawable="@drawable/frost_icon_minimal" />
+
+    <!-- MinMinGuard -->
+    <icon package="tw.fatminmin.xposed.minminguard" drawable="@drawable/frost_icon_minminguard" />
+
+    <!-- Mirry -->
+    <icon package="rocks.poopjournal.mirry" drawable="@drawable/frost_icon_mirry" />
+
+    <!-- Mi Store -->
+    <icon package="com.mi.global.shop" drawable="@drawable/frost_icon_mistore" />
+
+    <!-- Mitch -->
+    <icon package="ua.gardenapple.itchupdater" drawable="@drawable/frost_icon_mitch" />
+
+    <!-- MIUI Security -->
+    <icon package="com.miui.securitycenter" drawable="@drawable/frost_icon_miuisecurity" />
+
+    <!-- MIUI Weather -->
+    <icon package="com.miui.weather2" drawable="@drawable/frost_icon_miuiweather" />
+
+    <!-- Mi Video -->
+    <icon package="com.miui.videoplayer" drawable="@drawable/frost_icon_mivideo" />
+
+    <!-- MiXplorer -->
+    <icon package="com.mixplorer" drawable="@drawable/frost_icon_mixplorer" />
+
+    <!-- MMT-365 -->
+    <icon package="com.mmt.applications.chronometer" drawable="@drawable/frost_icon_mmt365" />
+
+    <!-- MobilePay -->
+    <icon package="dk.danskebank.mobilepay" drawable="@drawable/frost_icon_mobilepay" />
+
+    <!-- MOD Pizza -->
+    <icon package="com.punchh.mod" drawable="@drawable/frost_icon_modpizza" />
+
+    <!-- Money Balance -->
+    <icon package="ivl.android.moneybalance" drawable="@drawable/frost_icon_money" />
+
+    <!-- Money Manager Ex -->
+    <icon package="com.money.manager.ex" drawable="@drawable/frost_icon_moneymanagerex" />
+
+    <!-- MoneyWallet -->
+    <icon package="com.oriondev.moneywallet" drawable="@drawable/frost_icon_moneywallet" />
+
+    <!-- Monochromatic -->
+    <icon package="uk.co.richyhbm.monochromatic" drawable="@drawable/frost_icon_monochromatic" />
+
+    <!-- Monster -->
+    <icon package="com.jobrapp.jobr" drawable="@drawable/frost_icon_monster" />
+
+    <!-- Moonlight -->
+    <icon package="com.limelight" drawable="@drawable/frost_icon_moonlight" />
+
+    <!-- Moon+ Reader Pro -->
+    <icon package="com.flyersoft.moonreaderp" drawable="@drawable/frost_icon_moonreaderpro" />
+
+    <!-- Morse -->
+    <icon package="rocks.poopjournal.morse" drawable="@drawable/frost_icon_morse" />
+
+    <!-- MotionEye -->
+    <icon package="com.developerfromjokela.motioneyeclient" drawable="@drawable/frost_icon_motioneye" />
+
+    <!-- Motion Eye -->
+    <icon package="com.jairaj.janglegmail.motioneye" drawable="@drawable/frost_icon_motioneyeapp" />
+
+    <!-- Moto Help -->
+    <icon package="com.motorola.genie" drawable="@drawable/frost_icon_motohelp" />
+
+    <!-- Moto -->
+    <icon package="com.motorola.moto" drawable="@drawable/frost_icon_moto" />
+
+    <!-- Motorola Notifications -->
+    <icon package="com.motorola.ccc.notification" drawable="@drawable/frost_icon_motonotifications" />
+
+    <!-- Moto Z Market -->
+    <icon package="com.motorola.modstore" drawable="@drawable/frost_icon_motomarket" />
+
+    <!-- Movie DB -->
+    <icon package="org.notabug.lifeuser.moviedb" drawable="@drawable/frost_icon_moviedb" />
+
+    <!-- Mozc for Android -->
+    <icon package="org.mozc.android.inputmethod.japanese" drawable="@drawable/frost_icon_mozcforandroid" />
+
+    <!-- MPD -->
+    <icon package="org.musicpd" drawable="@drawable/frost_icon_mpd" />
+
+    <!-- MPDroid -->
+    <icon package="com.namelessdev.mpdroid" drawable="@drawable/frost_icon_mpdroid" />
+
+    <!-- mpv -->
+    <icon package="is.xyz.mpv" drawable="@drawable/frost_icon_mpv" />
+
+    <!-- Mull -->
+    <icon package="us.spotco.fennec_dos" drawable="@drawable/frost_icon_mull" />
+
+    <!-- Mullvad VPN -->
+    <icon package="net.mullvad.mullvadvpn" drawable="@drawable/frost_icon_mullvadvpn" />
+
+    <!-- MultiVNC -->
+    <icon package="com.coboltforge.dontmind.multivnc" drawable="@drawable/frost_icon_multivnc" />
+
+    <!-- Mumla -->
+    <icon package="se.lublin.mumla" drawable="@drawable/frost_icon_mumla" />
+
+    <!-- MuPDF Mini -->
+    <icon package="com.artifex.mupdf.mini" drawable="@drawable/frost_icon_mupdf" />
+    <icon package="com.artifex.mupdf.mini.app" drawable="@drawable/frost_icon_mupdf" />
+
+    <!-- MuPDF Viewer -->
+    <icon package="com.artifex.mupdfdemo" drawable="@drawable/frost_icon_mupdf" />
+    <icon package="de.baumann.pdfview" drawable="@drawable/frost_icon_mupdf" />
+    <icon package="com.artifex.mupdf.viewer.app" drawable="@drawable/frost_icon_mupdf" />
+
+    <!-- Music -->
+    <icon package="code.name.monkey.retromusic" drawable="@drawable/frost_icon_music" />
+    <icon package="com.cyanogenmod.eleven" drawable="@drawable/frost_icon_music" />
+    <icon package="org.lineageos.eleven" drawable="@drawable/frost_icon_music" />
+    <icon package="com.android.mediacenter" drawable="@drawable/frost_icon_music" />
+    <icon package="com.sonyericsson.music" drawable="@drawable/frost_icon_music" />
+    <icon package="com.crdroid.music" drawable="@drawable/frost_icon_music" />
+    <icon package="io.github.uditkarode.able" drawable="@drawable/frost_icon_music" />
+
+    <!-- Musicolet -->
+    <icon package="in.krosbits.musicolet" drawable="@drawable/frost_icon_musicolet" />
+
+    <!-- MusicPiped -->
+    <icon package="deep.ryd.rydplayer" drawable="@drawable/frost_icon_musicpiped" />
+
+    <!-- Music Player GO -->
+    <icon package="com.iven.musicplayergo" drawable="@drawable/frost_icon_musicplayergo" />
+
+    <!-- Musik -->
+    <icon package="com.maxfour.music" drawable="@drawable/frost_icon_musik" />
+
+    <!-- Muzei -->
+    <icon package="net.nurik.roman.muzei" drawable="@drawable/frost_icon_muzei" />
+
+    <!-- MX Player -->
+    <icon package="com.mxtech.videoplayer.ad" drawable="@drawable/frost_icon_mx" />
+
+    <!-- MX Player Pro -->
+    <icon package="com.mxtech.videoplayer.pro" drawable="@drawable/frost_icon_mx" />
+
+    <!-- MyAndroidTools -->
+    <icon package="cn.wq.myandroidtools" drawable="@drawable/frost_icon_myandroidtools" />
+
+    <!-- My App List -->
+    <icon package="com.projectsexception.myapplist.open" drawable="@drawable/frost_icon_myapplist" />
+
+    <!-- My Avans -->
+    <icon package="nl.brianvdbroek.avansapp" drawable="@drawable/frost_icon_avans" />
+
+    <!-- My Boy! -->
+    <icon package="com.fastemulator.gba" drawable="@drawable/frost_icon_myboy" />
+
+    <!-- myCANAL -->
+    <icon package="com.canal.android.canal" drawable="@drawable/frost_icon_mycanal" />
+
+    <!-- Mycelium -->
+    <icon package="com.mycelium.wallet" drawable="@drawable/frost_icon_mycelium" />
+
+    <!-- My Expenses -->
+    <icon package="org.totschnig.myexpenses" drawable="@drawable/frost_icon_myexpenses" />
+
+    <!-- My Files -->
+    <icon package="com.sec.android.app.myfiles" drawable="@drawable/frost_icon_myfiles" />
+
+    <!-- MyFRITZ! -->
+    <icon package="de.avm.android.myfritz2" drawable="@drawable/frost_icon_myfritz" />
+
+    <!-- myMail -->
+    <icon package="com.my.mail" drawable="@drawable/frost_icon_mymail" />
+
+    <!-- My NEOMA BS -->
+    <icon package="com.appscho.appschov2.neoma" drawable="@drawable/frost_icon_myneomabs" />
+
+    <!-- Mysplash -->
+    <icon package="com.wangdaye.mysplash" drawable="@drawable/frost_icon_mysplash" />
+
+    <!-- MyTargets -->
+    <icon package="de.dreier.mytargets" drawable="@drawable/frost_icon_mytargets" />
+
+    <!-- MyTIM -->
+    <icon package="it.telecomitalia.centodiciannove" drawable="@drawable/frost_icon_mytim" />
+
+    <!-- MyUU -->
+    <icon package="com.stucomm.studentapp" drawable="@drawable/frost_icon_myuu" />
+
+    <!-- N26 -->
+    <icon package="de.number26.android" drawable="@drawable/frost_icon_n26" />
+
+    <!-- Napster -->
+    <icon package="com.rhapsody.napster" drawable="@drawable/frost_icon_napster" />
+
+    <!-- Navigator -->
+    <icon package="com.mapfactor.navigator" drawable="@drawable/frost_icon_navigator" />
+
+    <!-- NCalc+ -->
+    <icon package="com.duy.calculator.free" drawable="@drawable/frost_icon_ncalcplus" />
+
+    <!-- NClientV2 -->
+    <icon package="com.dar.nclientv2" drawable="@drawable/frost_icon_nclientv2" />
+
+    <!-- NC Passwords -->
+    <icon package="de.jbservices.nc_passwords_app" drawable="@drawable/frost_icon_ncpasswords" />
+
+    <!-- Neato -->
+    <icon package="com.neatorobotics.android" drawable="@drawable/frost_icon_neato" />
+
+    <!-- nebenan.de -->
+    <icon package="de.nebenan.app" drawable="@drawable/frost_icon_nebenande" />
+
+    <!-- Nebulo -->
+    <icon package="com.frostnerd.smokescreen" drawable="@drawable/frost_icon_nebulo" />
+
+    <!-- NemID -->
+    <icon package="dk.e_nettet.mobilekey.everyone" drawable="@drawable/frost_icon_nemid" />
+
+    <!-- NEO LMS -->
+    <icon package="com.edu20.NEOLMS" drawable="@drawable/frost_icon_neolms" />
+
+    <!-- Netflix -->
+    <icon package="com.netflix.mediaclient" drawable="@drawable/frost_icon_netflix" />
+
+    <!-- NetGuard -->
+    <icon package="eu.faircode.netguard" drawable="@drawable/frost_icon_netguard" />
+
+    <!-- Net Monitor -->
+    <icon package="org.secuso.privacyfriendlynetmonitor" drawable="@drawable/frost_icon_netmonitor" />
+
+    <!-- NewPipe -->
+    <icon package="org.schabi.newpipe" drawable="@drawable/frost_icon_newpipe" />
+
+    <!-- News -->
+    <icon package="co.appreactor.news" drawable="@drawable/frost_icon_appreactornews" />
+
+    <icon package="com.microsoft.amp.apps.bingnews" drawable="@drawable/frost_icon_msnews" />
+
+    <icon package="de.luhmer.owncloudnewsreader" drawable="@drawable/frost_icon_news" />
+
+    <!-- Nextcloud Bookmarks -->
+    <icon package="org.schabi.nxbookmarks" drawable="@drawable/frost_icon_nextcloudbookmarks" />
+    <icon package="org.schabi.ocbookmarks" drawable="@drawable/frost_icon_nextcloudbookmarks" />
+
+    <!-- Nextcloud Cookbook -->
+    <icon package="de.micmun.android.nextcloudcookbook" drawable="@drawable/frost_icon_nextcloudcookbook" />
+    <icon package="com.nextcloud_cookbook_flutter" drawable="@drawable/frost_icon_nextcloudcookbook" />
+
+    <!-- Nextcloud -->
+    <icon package="com.nextcloud.client" drawable="@drawable/frost_icon_nextcloud" />
+
+    <!-- Nextcloud SMS -->
+    <icon package="fr.unix_experience.owncloud_sms" drawable="@drawable/frost_icon_nextcloudsms" />
+
+    <!-- Nextcloud Talk -->
+    <icon package="com.nextcloud.talk2" drawable="@drawable/frost_icon_nextcloudtalk" />
+
+    <!-- Nfc Tasks -->
+    <icon package="com.wakdev.nfctasks" drawable="@drawable/frost_icon_nfctasks" />
+
+    <!-- Nfc Tools -->
+    <icon package="com.wakdev.wdnfc" drawable="@drawable/frost_icon_nfctools" />
+
+    <!-- NHBooks -->
+    <icon package="moe.feng.nhentai" drawable="@drawable/frost_icon_nhbooks" />
+
+    <!-- Nine -->
+    <icon package="com.ninefolders.hd3" drawable="@drawable/frost_icon_nine" />
+
+    <!-- Noice -->
+    <icon package="com.github.ashutoshgngwr.noice" drawable="@drawable/frost_icon_noice" />
+
+    <!-- Nordnet -->
+    <icon package="com.nordnet" drawable="@drawable/frost_icon_nordnet" />
+
+    <!-- NordVPN -->
+    <icon package="com.nordvpn.android" drawable="@drawable/frost_icon_nordvpn" />
+
+    <!-- NOS -->
+    <icon package="nl.nos.app" drawable="@drawable/frost_icon_nos" />
+
+    <!-- Nosurf for Reddit -->
+    <icon package="com.aaronhalbert.nosurfforreddit" drawable="@drawable/frost_icon_nosurfforreddit" />
+
+    <!-- Notable -->
+    <icon package="com.blackberry.jot" drawable="@drawable/frost_icon_notable" />
+
+    <!-- Notepad -->
+    <icon package="com.farmerbb.notepad" drawable="@drawable/frost_icon_notepad" />
+
+    <!-- Notes -->
+    <icon package="com.blackberry.notes" drawable="@drawable/frost_icon_notes" />
+    <icon package="com.oneplus.note" drawable="@drawable/frost_icon_notes" />
+    <icon package="com.miui.notes" drawable="@drawable/frost_icon_notes" />
+    <icon package="foundation.e.notes" drawable="@drawable/frost_icon_notes" />
+
+    <icon package="com.potatoproject.notes" drawable="@drawable/frost_icon_potatoprojectnotes" />
+
+    <!-- Notification Cron -->
+    <icon package="com.github.fi3te.notificationcron" drawable="@drawable/frost_icon_notificationcron" />
+
+    <!-- Notification Notes -->
+    <icon package="com.khuttun.notificationnotes" drawable="@drawable/frost_icon_notificationnotes" />
+
+    <!-- Notizen -->
+    <icon package="it.niedermann.owncloud.notes" drawable="@drawable/frost_icon_nextcloudnotes" />
+
+    <!-- Nova Launcher -->
+    <icon package="com.teslacoilsw.launcher" drawable="@drawable/frost_icon_nova" />
+
+    <!-- NPR News -->
+    <icon package="org.npr.android.news" drawable="@drawable/frost_icon_nprnews" />
+
+    <!-- NPR One -->
+    <icon package="org.npr.one" drawable="@drawable/frost_icon_nprone" />
+
+    <!-- NRC -->
+    <icon package="com.twipemobile.nrc" drawable="@drawable/frost_icon_nrc" />
+
+    <!-- NS -->
+    <icon package="nl.ns.android.activity" drawable="@drawable/frost_icon_ns" />
+
+    <!-- Nubank -->
+    <icon package="com.nu.production" drawable="@drawable/frost_icon_nubank" />
+
+    <!-- nzb360 -->
+    <icon package="com.kevinforeman.nzb360" drawable="@drawable/frost_icon_nzb360" />
+
+    <!-- oandbackup -->
+    <icon package="dk.jens.backup" drawable="@drawable/frost_icon_oandbackup" />
+
+    <!-- OAndBackupX -->
+    <icon package="com.machiav3lli.backup" drawable="@drawable/frost_icon_oandbackupx" />
+
+    <!-- OctoDroid -->
+    <icon package="com.gh4a" drawable="@drawable/frost_icon_octodroid" />
+
+    <!-- OctoRemote -->
+    <icon package="com.kabacon.octoremote" drawable="@drawable/frost_icon_octoremote" />
+
+    <!-- ODK Collect -->
+    <icon package="org.odk.collect.android" drawable="@drawable/frost_icon_odkcollect" />
+
+    <!-- Odyssey -->
+    <icon package="org.gateshipone.odyssey" drawable="@drawable/frost_icon_odyssey" />
+
+    <!-- Oeffi Directions -->
+    <icon package="de.schildbach.oeffi" drawable="@drawable/frost_icon_oeffidirections" />
+
+    <!-- Office -->
+    <icon package="com.microsoft.office.officehubrow" drawable="@drawable/frost_icon_office" />
+
+    <!-- Offline Calendar -->
+    <icon package="org.sufficientlysecure.localcalendar" drawable="@drawable/frost_icon_offlinecalendar" />
+
+    <!-- OkcAgent -->
+    <icon package="org.ddosolitary.okcagent" drawable="@drawable/frost_icon_okcagent" />
+
+    <!-- OKO Light Meter -->
+    <icon package="com.okacat.lightmeter" drawable="@drawable/frost_icon_okolightmeter" />
+
+    <!-- Om -->
+    <icon package="com.enjoyingfoss.om" drawable="@drawable/frost_icon_om" />
+
+    <!-- Omlet Arcade -->
+    <icon package="mobisocial.arcade" drawable="@drawable/frost_icon_omletarcade" />
+
+    <!-- Omni Notes FOSS -->
+    <icon package="it.feio.android.omninotes.foss" drawable="@drawable/frost_icon_omninotes" />
+
+    <!-- one -->
+    <icon package="ch.viseca.visecaone" drawable="@drawable/frost_icon_visecaone" />
+
+    <!-- OONI Probe -->
+    <icon package="org.openobservatory.ooniprobe" drawable="@drawable/frost_icon_ooniprobe" />
+
+    <!-- OpenAPK -->
+    <icon package="com.dkanada.openapk" drawable="@drawable/frost_icon_openapk" />
+
+    <!-- OpenBeautyFacts -->
+    <icon package="openfoodfacts.github.scrachx.openbeauty" drawable="@drawable/frost_icon_openbeautyfacts" />
+
+    <!-- OpenBoard -->
+    <icon package="org.dslul.openboard.inputmethod.latin" drawable="@drawable/frost_icon_openboard" />
+
+    <!-- Open Camera -->
+    <icon package="net.sourceforge.opencamera" drawable="@drawable/frost_icon_opencamera" />
+
+    <!-- Open Connect -->
+    <icon package="app.openconnect" drawable="@drawable/frost_icon_openconnect" />
+
+    <!-- Open Contacts -->
+    <icon package="opencontacts.open.com.opencontacts" drawable="@drawable/frost_icon_opencontacts" />
+
+    <!-- OpenCV Manager -->
+    <icon package="org.opencv.engine" drawable="@drawable/frost_icon_opencvmanager" />
+
+    <!-- Open Food Facts -->
+    <icon package="openfoodfacts.github.scrachx.openfood" drawable="@drawable/frost_icon_openfoodfacts" />
+    <icon package="org.openfoodfacts.scanner" drawable="@drawable/frost_icon_openfoodfacts" />
+
+    <!-- Open Keychain -->
+    <icon package="org.sufficientlysecure.keychain" drawable="@drawable/frost_icon_keychain" />
+
+    <!-- OpenLauncher -->
+    <icon package="com.benny.openlauncher" drawable="@drawable/frost_icon_openlauncher" />
+    <icon package="com.benny.openlauncher.debug" drawable="@drawable/frost_icon_openlauncher" />
+
+    <!-- OpenMaps -->
+    <icon package="app.fedilab.openmaps" drawable="@drawable/frost_icon_openmaps" />
+
+    <!-- Open Mensa -->
+    <icon package="de.uni_potsdam.hpi.openmensa" drawable="@drawable/frost_icon_openmensa" />
+
+    <!-- Open Note Scanner -->
+    <icon package="com.todobom.opennotescanner" drawable="@drawable/frost_icon_opennotescanner" />
+
+    <!-- OpenPetFoodFacts -->
+    <icon package="org.openpetfoodfacts.scanner" drawable="@drawable/frost_icon_openpetfoodfacts" />
+
+    <!-- openScale -->
+    <icon package="com.health.openscale" drawable="@drawable/frost_icon_openscale" />
+
+    <!-- Open Sudoku -->
+    <icon package="org.moire.opensudoku" drawable="@drawable/frost_icon_opensudoku" />
+
+    <!-- Open Tasks -->
+    <icon package="org.dmfs.tasks" drawable="@drawable/frost_icon_opentasks" />
+
+    <!-- OpenTodoList -->
+    <icon package="net.rpdev.opentodolist" drawable="@drawable/frost_icon_opentodolist" />
+
+    <!-- OpenTracks -->
+    <icon package="de.dennisguse.opentracks" drawable="@drawable/frost_icon_opentracks" />
+
+    <!-- OpenVPN Connect -->
+    <icon package="net.openvpn.openvpn" drawable="@drawable/frost_icon_openvpnconnect" />
+
+    <!-- OpenVPN -->
+    <icon package="de.blinkt.openvpn" drawable="@drawable/frost_icon_openvpn" />
+
+    <!-- Opera -->
+    <icon package="com.opera.browser" drawable="@drawable/frost_icon_opera" />
+    <icon package="com.opera.mini.native" drawable="@drawable/frost_icon_opera" />
+
+    <!-- Orbot -->
+    <icon package="org.torproject.android" drawable="@drawable/frost_icon_orbot" />
+
+    <!-- Orfox -->
+    <icon package="info.guardianproject.orfox" drawable="@drawable/frost_icon_orfox" />
+
+    <!-- Organic Maps -->
+    <icon package="app.organicmaps" drawable="@drawable/frost_icon_organicmaps" />
+
+    <!-- Organ Trail: Director's Cut -->
+    <icon package="com.hatsproductions.OrganTrail" drawable="@drawable/frost_icon_organtrail" />
+
+    <!-- Orgzly -->
+    <icon package="com.orgzly" drawable="@drawable/frost_icon_orgzly" />
+
+    <!-- Oscilloscope -->
+    <icon package="org.billthefarmer.scope" drawable="@drawable/frost_icon_oscilloscope" />
+
+    <!-- OsmAnd -->
+    <icon package="net.osmand.plus" drawable="@drawable/frost_icon_osmand" />
+    <icon package="net.osmand" drawable="@drawable/frost_icon_osmand" />
+
+    <!-- Osmand Telegram -->
+    <icon package="net.osmand.telegram" drawable="@drawable/frost_icon_osmandtelegram" />
+
+    <!-- OS Monitor -->
+    <icon package="com.eolwral.osmonitor" drawable="@drawable/frost_icon_osmonitor" />
+
+    <!-- Oto Music -->
+    <icon package="com.piyush.music" drawable="@drawable/frost_icon_otomusic" />
+
+    <!-- Otter -->
+    <icon package="com.github.apognu.otter" drawable="@drawable/frost_icon_otter" />
+
+    <!-- OUI.sncf -->
+    <icon package="com.vsct.vsc.mobile.horaireetresa.android" drawable="@drawable/frost_icon_ouisncf" />
+
+    <!-- OurHome -->
+    <icon package="com.getfairshare.ourhome" drawable="@drawable/frost_icon_ourhome" />
+
+    <!-- Overchan -->
+    <icon package="nya.miku.wishmaster" drawable="@drawable/frost_icon_overchan" />
+    <icon package="bus.chio.wishmaster" drawable="@drawable/frost_icon_overchan" />
+
+    <!-- OverDrive -->
+    <icon package="com.overdrive.mobile.android.mediaconsole" drawable="@drawable/frost_icon_overdrive" />
+
+    <!-- Owncloud -->
+    <icon package="com.owncloud.android" drawable="@drawable/frost_icon_owncloud" />
+    <icon package="com.owncloud.android.beta" drawable="@drawable/frost_icon_owncloud" />
+
+    <!-- Owncloud Notes -->
+
+    <!-- OX Drive -->
+    <icon package="com.openexchange.drive.vanilla" drawable="@drawable/frost_icon_oxdrive" />
+
+    <!-- Packlist -->
+    <icon package="com.nbossard.packlist" drawable="@drawable/frost_icon_packlist" />
+
+    <!-- Pády -->
+    <icon package="com.pascalheitz.pady" drawable="@drawable/frost_icon_pady" />
+
+    <!-- Pairs -->
+    <icon package="jp.eure.android.pairs" drawable="@drawable/frost_icon_simplethankyou" />
+
+    <!-- Pairz -->
+    <icon package="com.solverdigital.pairz" drawable="@drawable/frost_icon_pairz" />
+
+    <!-- PalmCalc 2019+ -->
+    <icon package="com.github.palmcalc2019.palmcalc" drawable="@drawable/frost_icon_palmcalc2019" />
+
+    <!-- PassAndroid -->
+    <icon package="org.ligi.passandroid" drawable="@drawable/frost_icon_passandroid" />
+
+    <!-- Password Keeper -->
+    <icon package="com.blackberry.passwordkeeper" drawable="@drawable/frost_icon_passwordkeeper" />
+
+    <!-- Password Store -->
+    <icon package="com.zeapo.pwdstore" drawable="@drawable/frost_icon_password" />
+
+    <!-- Pastebin -->
+    <icon package="pzy64.pastebinpro" drawable="@drawable/frost_icon_pastebin" />
+
+    <!-- PayPal -->
+    <icon package="com.paypal.android.p2pmobile" drawable="@drawable/frost_icon_paypal" />
+
+    <!-- pCloud -->
+    <icon package="com.pcloud.pcloud" drawable="@drawable/frost_icon_pcloud" />
+
+    <!-- Pdf Viewer Plus -->
+    <icon package="com.gsnathan.pdfviewer" drawable="@drawable/frost_icon_pdfviewerplus" />
+
+    <!-- Pebble -->
+    <icon package="com.getpebble.android.basalt" drawable="@drawable/frost_icon_pebble" />
+
+    <!-- Pedometer -->
+    <icon package="de.j4velin.pedometer" drawable="@drawable/frost_icon_pedometer" />
+
+    <!-- Peertube -->
+    <icon package="net.schueller.peertube" drawable="@drawable/frost_icon_peertube" />
+
+    <!-- Pegasus -->
+    <icon package="org.pegasus_frontend.android" drawable="@drawable/frost_icon_pegasus" />
+
+    <!-- People -->
+    <icon package="com.htc.contacts" drawable="@drawable/frost_icon_contacts" />
+
+    <!-- pep -->
+    <icon package="security.pEp" drawable="@drawable/frost_icon_pep" />
+
+    <!-- Periodical -->
+    <icon package="de.arnowelzel.android.periodical" drawable="@drawable/frost_icon_periodical" />
+
+    <!-- Personal stickers for Whatsapp -->
+    <icon package="com.dstukalov.walocalstoragestickers" drawable="@drawable/frost_icon_stickermaker" />
+
+    <!-- Phone -->
+    <icon package="com.android.incallui" drawable="@drawable/frost_icon_phone" />
+    <icon package="com.samsung.android.dialer" drawable="@drawable/frost_icon_phone" />
+    <icon package="com.android.dialer" drawable="@drawable/frost_icon_phone" />
+    <icon package="com.google.android.dialer" drawable="@drawable/frost_icon_phone" />
+    <icon package="org.dnaq.dialer2" drawable="@drawable/frost_icon_phone" />
+
+    <icon package="com.sonymobile.android.dialer" drawable="@drawable/frost_icon_phonedial" />
+
+    <!-- Phone Manager -->
+    <icon package="com.huawei.systemmanager" drawable="@drawable/frost_icon_huaweisystemmanager" />
+
+    <!-- Phone Saver -->
+    <icon package="link.standen.michael.phonesaver" drawable="@drawable/frost_icon_phonesaver" />
+
+    <!-- PhoneTrack -->
+    <icon package="net.eneiluj.nextcloud.phonetrack" drawable="@drawable/frost_icon_phonetrack" />
+
+    <!-- Phonograph -->
+    <icon package="com.kabouzeid.gramophone" drawable="@drawable/frost_icon_phonograph" />
+
+    <!-- Photo Editor -->
+    <icon package="com.iudesk.android.photo.editor" drawable="@drawable/frost_icon_photoeditor" />
+
+    <!-- Piano Partner 2 -->
+    <icon package="jp.co.roland.PianoPartner2" drawable="@drawable/frost_icon_pianopartner2" />
+
+    <!-- PicSay Pro -->
+    <icon package="com.shinycore.picsaypro" drawable="@drawable/frost_icon_picsay" />
+
+    <!-- PID Lítačka -->
+    <icon package="cz.dpp.praguepublictransport" drawable="@drawable/frost_icon_pidlitacka" />
+
+    <!-- Pi-hole Droid -->
+    <icon package="friimaind.piholedroid" drawable="@drawable/frost_icon_piholedroid" />
+
+    <!-- Pimple_Popper -->
+    <icon package="rocks.poopjournal.pimplepopper" drawable="@drawable/frost_icon_pimple_popper" />
+
+    <!-- Pin -->
+    <icon package="de.nproth.pin" drawable="@drawable/frost_icon_pin" />
+
+    <!-- Pinterest -->
+    <icon package="com.pinterest" drawable="@drawable/frost_icon_pinterest" />
+
+    <!-- Piwigo -->
+    <icon package="org.piwigo.android" drawable="@drawable/frost_icon_piwigo" />
+
+    <!-- Pixel Dungeon -->
+    <icon package="com.watabou.pixeldungeon" drawable="@drawable/frost_icon_pixeldungeon" />
+
+    <!-- PixelLab-->
+    <icon package="com.imaginstudio.imagetools.pixellab" drawable="@drawable/frost_icon_pixellab" />
+
+    <!-- Pixiv -->
+    <icon package="jp.pxv.android" drawable="@drawable/frost_icon_pixiv" />
+
+    <!-- Pixlr -->
+    <icon package="com.pixlr.express" drawable="@drawable/frost_icon_pixlr" />
+
+    <!-- PlantNet -->
+    <icon package="org.plantnet" drawable="@drawable/frost_icon_plantnet" />
+
+    <!-- Plees Tracker -->
+    <icon package="hu.vmiklos.plees_tracker" drawable="@drawable/frost_icon_pleestracker" />
+
+    <!-- Plex -->
+    <icon package="com.plexapp.android" drawable="@drawable/frost_icon_plex" />
+
+    <!-- Plumble -->
+    <icon package="com.morlunk.mumbleclient" drawable="@drawable/frost_icon_plumble" />
+
+    <!-- pMetro -->
+    <icon package="com.utyf.pmetro" drawable="@drawable/frost_icon_pmetro" />
+
+    <!-- Pocket Casts -->
+    <icon package="au.com.shiftyjelly.pocketcasts" drawable="@drawable/frost_icon_pocketcasts" />
+
+    <!-- Pocket -->
+    <icon package="com.ideashower.readitlater.pro" drawable="@drawable/frost_icon_pocket" />
+
+    <!-- Pocket Paint [aka Paintroid] -->
+    <icon package="org.catrobat.paintroid" drawable="@drawable/frost_icon_pocketpaint" />
+
+    <!-- Podcast Addict -->
+    <icon package="com.bambuna.podcastaddict" drawable="@drawable/frost_icon_podcastaddict" />
+
+    <!-- Pokémon GO -->
+    <icon package="com.nianticlabs.pokemongo" drawable="@drawable/frost_icon_pokemongo" />
+
+    <!-- Port Authority -->
+    <icon package="com.aaronjwood.portauthority" drawable="@drawable/frost_icon_portauthority" />
+
+    <!-- Posidon Launcher -->
+    <icon package="posidon.launcher" drawable="@drawable/frost_icon_posidonlauncher" />
+
+    <!-- Post & DHL -->
+    <icon package="de.dhl.paket" drawable="@drawable/frost_icon_postdhl" />
+
+    <!-- Power Ampache -->
+    <icon package="com.antoniotari.reactiveampacheapp" drawable="@drawable/frost_icon_powerampache" />
+
+    <!-- PPSSPP -->
+    <icon package="org.ppsspp.ppsspp" drawable="@drawable/frost_icon_ppsspp" />
+
+    <!-- Practice Hub -->
+    <icon package="com.proch.practicehub" drawable="@drawable/frost_icon_practicehub" />
+
+    <!-- Prayer Times -->
+    <icon package="com.metinkale.prayer" drawable="@drawable/frost_icon_prayertimes" />
+
+    <!-- PredictWind -->
+    <icon package="com.predictwind.mobile.android" drawable="@drawable/frost_icon_predictwind" />
+
+    <!-- Prepaid-Guthaben -->
+    <icon package="com.github.muellerma.prepaidbalance" drawable="@drawable/frost_icon_prepaidguthaben" />
+
+    <!-- Presence Publisher -->
+    <icon package="org.ostrya.presencepublisher" drawable="@drawable/frost_icon_presencepublisher" />
+
+    <!-- Preview -->
+    <icon package="com.blackberrymobile.aota" drawable="@drawable/frost_icon_preview" />
+
+    <!-- Prey -->
+    <icon package="com.prey" drawable="@drawable/frost_icon_prey" />
+
+    <!-- Prezzi Benzina -->
+    <icon package="org.vernazza.androidfuel" drawable="@drawable/frost_icon_pb" />
+
+    <!-- primitive ftpd -->
+    <icon package="org.primftpd" drawable="@drawable/frost_icon_primitiveftpd" />
+
+    <!-- Privacy Browser -->
+    <icon package="com.stoutner.privacybrowser.standard" drawable="@drawable/frost_icon_privacybrowser" />
+
+    <!-- Privacy -->
+    <icon package="com.privacy.pay" drawable="@drawable/frost_icon_privacy" />
+
+    <!-- Privacy Shade -->
+    <icon package="com.blackberry.privacyfilter" drawable="@drawable/frost_icon_privacyshade" />
+
+    <!-- Private Location -->
+    <icon package="com.wesaphzt.privatelocation" drawable="@drawable/frost_icon_privatelocation" />
+
+    <!-- Pro Expense -->
+    <icon package="com.arduia.expense" drawable="@drawable/frost_icon_proexpense" />
+
+    <!-- ProtonMail -->
+    <icon package="ch.protonmail.android" drawable="@drawable/frost_icon_protonmail" />
+
+    <!-- ProtonVPN -->
+    <icon package="com.protonvpn.android" drawable="@drawable/frost_icon_protonvpn" />
+    <icon package="ch.protonvpn.android" drawable="@drawable/frost_icon_protonvpn" />
+
+    <!-- PSLab -->
+    <icon package="io.pslab" drawable="@drawable/frost_icon_pslab" />
+
+    <!-- Public Services Portal of the Russian Federation -->
+    <icon package="ru.rostel" drawable="@drawable/frost_icon_gosuslugi" />
+
+    <!-- Puzzles -->
+    <icon package="name.boyle.chris.sgtpuzzles" drawable="@drawable/frost_icon_puzzles" />
+
+    <!-- QField -->
+    <icon package="ch.opengis.qfield" drawable="@drawable/frost_icon_qfield" />
+
+    <!-- QGroundControl -->
+    <icon package="org.mavlink.qgroundcontrol" drawable="@drawable/frost_icon_qgroundcontrol" />
+
+    <!-- QKSMS -->
+    <icon package="com.moez.QKSMS" drawable="@drawable/frost_icon_qksms" />
+
+    <!-- QR & Barcode Scanner -->
+    <icon package="com.example.barcodescanner" drawable="@drawable/frost_icon_qrcode" />
+
+    <!-- QR Code -->
+    <icon package="com.mauriciogior.openqrcode" drawable="@drawable/frost_icon_qrscanner" />
+
+    <!-- QR Plugin for Keepass2android -->
+    <icon package="keepass2android.plugin.qr" drawable="@drawable/frost_icon_qrforkeepass" />
+
+    <!-- QR Scanner -->
+    <icon package="com.secuso.privacyFriendlyCodeScanner" drawable="@drawable/frost_icon_qrscanner" />
+
+    <!-- Quick Bible -->
+    <icon package="yuku.alkitab.kjv" drawable="@drawable/frost_icon_quickbible" />
+
+    <!-- QuickDic -->
+    <icon package="de.reimardoeffinger.quickdic" drawable="@drawable/frost_icon_quickdic" />
+
+    <!-- Quickly quit -->
+    <icon package="quickly.quit" drawable="@drawable/frost_icon_quicklyquit" />
+
+    <!-- QuickSupport -->
+    <icon package="com.teamviewer.quicksupport.market" drawable="@drawable/frost_icon_quicksupport" />
+
+    <!-- Quizlet -->
+    <icon package="com.quizlet.quizletandroid" drawable="@drawable/frost_icon_quizlet" />
+
+    <!-- Quran For My Android -->
+    <icon package="com.frrahat.quransimple" drawable="@drawable/frost_icon_quranformyandroid" />
+
+    <!-- Quran -->
+    <icon package="com.quran.labs.androidquran" drawable="@drawable/frost_icon_quran" />
+
+    <!-- Radiodroid -->
+    <icon package="net.programmierecke.radiodroid2" drawable="@drawable/frost_icon_radiodroid" />
+
+    <!-- Radio France -->
+    <icon package="com.radiofrance.radio.radiofrance.android" drawable="@drawable/frost_icon_radiofrance" />
+
+    <!-- Radio -->
+    <icon package="com.tct.fmradio.bb" drawable="@drawable/frost_icon_radio" />
+
+    <!-- Rail planner -->
+    <icon package="org.eurail.railplanner" drawable="@drawable/frost_icon_railplanner" />
+
+    <!-- Railway station photos -->
+    <icon package="de.bahnhoefe.deutschlands.bahnhofsfotos" drawable="@drawable/frost_icon_railwaystationphotos" />
+
+    <!-- Rainy Mood -->
+    <icon package="com.TailoredMusic.RainyMoodFree" drawable="@drawable/frost_icon_rainymood" />
+
+    <!-- RaspController -->
+    <icon package="it.Ettore.raspcontroller" drawable="@drawable/frost_icon_raspcontroller" />
+
+    <!-- RB Key -->
+    <icon package="cz.rb.app.mtoken" drawable="@drawable/frost_icon_rbkey" />
+
+    <!-- React -->
+    <icon package="io.github.engsergiu.react" drawable="@drawable/frost_icon_react" />
+
+    <!-- ReadEra -->
+    <icon package="org.readera" drawable="@drawable/frost_icon_readera" />
+
+    <!-- Reader for Selfoss -->
+    <icon package="apps.amine.bou.readerforselfoss" drawable="@drawable/frost_icon_readerforselfoss" />
+
+    <!-- Reckoning Skills -->
+    <icon package="org.secuso.privacyfriendlyrecknoningskills" drawable="@drawable/frost_icon_reckoningskills" />
+
+    <!-- Recorder -->
+    <icon package="org.calyxos.recorder" drawable="@drawable/frost_icon_calyxosrecorder" />
+
+    <icon package="org.lineageos.recorder" drawable="@drawable/frost_icon_lineagerec" />
+
+    <!-- Recurrence -->
+    <icon package="com.bleyl.recurrence" drawable="@drawable/frost_icon_recurrence" />
+
+    <!-- Reddit -->
+    <icon package="com.reddit.frontpage" drawable="@drawable/frost_icon_reddit" />
+
+    <!-- Reddit Sync -->
+    <icon package="com.laurencedawson.reddit_sync" drawable="@drawable/frost_icon_redditsync" />
+
+    <!-- Red Moon -->
+    <icon package="com.jmstudios.redmoon" drawable="@drawable/frost_icon_redmoon" />
+
+    <!-- RedReader -->
+    <icon package="org.quantumbadger.redreader" drawable="@drawable/frost_icon_redreader" />
+
+    <!-- ReGeX -->
+    <icon package="com.phikal.regex" drawable="@drawable/frost_icon_regex" />
+
+    <!-- Rejseplanen -->
+    <icon package="de.hafas.android.rejseplanen" drawable="@drawable/frost_icon_rejseplanen" />
+
+    <!-- Remixed Dungeon -->
+    <icon package="com.nyrds.pixeldungeon.ml" drawable="@drawable/frost_icon_remixeddungeon" />
+
+    <!-- Remote Desktop -->
+    <icon package="com.microsoft.rdc.android" drawable="@drawable/frost_icon_remotedesktop" />
+
+    <!-- Reroll -->
+    <icon package="com.givola.reroll" drawable="@drawable/frost_icon_reroll" />
+
+    <!-- Retrica -->
+    <icon package="com.venticake.retrica" drawable="@drawable/frost_icon_retrica" />
+
+    <!-- RetroArch -->
+    <icon package="com.retroarch" drawable="@drawable/frost_icon_retroarch" />
+
+    <!-- Revolution -->
+    <icon package="io.mrarm.irc" drawable="@drawable/frost_icon_revolution" />
+
+    <!-- Revolut -->
+    <icon package="com.revolut.revolut" drawable="@drawable/frost_icon_revolut" />
+
+    <!-- Rewards -->
+    <icon package="com.google.android.apps.paidtasks" drawable="@drawable/frost_icon_rewards" />
+
+    <!-- rinex ON -->
+    <icon package="com.eu.nsl.rinexON" drawable="@drawable/frost_icon_rinexon" />
+
+    <!-- Ring -->
+    <icon package="cx.ring" drawable="@drawable/frost_icon_ring" />
+
+    <!-- Riot -->
+    <icon package="im.vector.alpha" drawable="@drawable/frost_icon_riot" />
+
+    <!-- Ripple -->
+    <icon package="info.guardianproject.ripple" drawable="@drawable/frost_icon_ripple" />
+
+    <!-- Riseup VPN -->
+    <icon package="se.leap.riseupvpn" drawable="@drawable/frost_icon_riseupvpn" />
+
+    <!-- Rocket.Chat -->
+    <icon package="chat.rocket.android" drawable="@drawable/frost_icon_rocketchat" />
+
+    <!-- Rocks 'n' Diamonds -->
+    <icon package="org.artsoft.rocksndiamonds" drawable="@drawable/frost_icon_rocksndiamonds" />
+
+    <!-- Roku -->
+    <icon package="com.roku.remote" drawable="@drawable/frost_icon_roku" />
+
+    <!-- Roku Remote -->
+    <icon package="roid.spikesroid.roku_tv_remote" drawable="@drawable/frost_icon_rokuremote" />
+
+    <!-- RoomMate -->
+    <icon package="com.roommate.android" drawable="@drawable/frost_icon_roommate" />
+
+    <!-- Root Explorer -->
+    <icon package="com.speedsoftware.rootexplorer" drawable="@drawable/frost_icon_rootexplorer" />
+
+    <!-- RTS Info -->
+    <icon package="ch.rts.rtsinfo" drawable="@drawable/frost_icon_rtsinfo" />
+
+    <!-- Ruler -->
+    <icon package="org.secuso.privacyfriendlyruler" drawable="@drawable/frost_icon_ruler" />
+
+    <!-- RunnerUp -->
+    <icon package="org.runnerup" drawable="@drawable/frost_icon_runnerup" />
+    <icon package="org.runnerup.free" drawable="@drawable/frost_icon_runnerup" />
+
+    <!-- SAI -->
+    <icon package="com.aefyr.sai.fdroid" drawable="@drawable/frost_icon_sai" />
+
+    <!-- Samsung Health -->
+    <icon package="com.sec.android.app.shealth" drawable="@drawable/frost_icon_samsunghealth" />
+
+    <!-- SatOrbit -->
+    <icon package="sil.satorbit" drawable="@drawable/frost_icon_satorbit" />
+
+    <!-- SatStat -->
+    <icon package="com.vonglasow.michael.satstat" drawable="@drawable/frost_icon_satstat" />
+
+    <!-- SBB Mobile -->
+    <icon package="ch.sbb.mobile.android.b2c" drawable="@drawable/frost_icon_sbbmobile" />
+
+    <!-- Sberbank -->
+    <icon package="ru.sberbankmobile" drawable="@drawable/frost_icon_sberbank" />
+
+    <!-- Scanbot -->
+    <icon package="net.doo.snap" drawable="@drawable/frost_icon_scanbot" />
+
+    <!-- Scanner -->
+    <icon package="com.xiaomi.scanner" drawable="@drawable/frost_icon_scanner" />
+
+    <!-- Scrambled Exif -->
+    <icon package="com.jarsilio.android.scrambledeggsif" drawable="@drawable/frost_icon_scrambledexif" />
+
+    <!-- ScreenCam -->
+    <icon package="com.orpheusdroid.screenrecorder" drawable="@drawable/frost_icon_screencam" />
+
+    <!-- Screencast -->
+    <icon package="org.cyanogenmod.screencast" drawable="@drawable/frost_icon_screencast" />
+
+    <!-- Screen Recorder -->
+    <icon package="com.miui.screenrecorder" drawable="@drawable/frost_icon_screenrecorder" />
+
+    <!-- Screeps -->
+    <icon package="eu.ryuu.screeps" drawable="@drawable/frost_icon_screeps" />
+
+    <!-- ScummVM -->
+    <icon package="org.scummvm.scummvm" drawable="@drawable/frost_icon_scummvm" />
+
+    <!-- SD Maid -->
+    <icon package="eu.thedarken.sdm" drawable="@drawable/frost_icon_sdmaid" />
+
+    <!-- Seafile -->
+    <icon package="com.seafile.seadroid2" drawable="@drawable/frost_icon_seafile" />
+
+    <!-- SealNote -->
+    <icon package="com.twistedplane.sealnote" drawable="@drawable/frost_icon_sealnote" />
+
+    <!-- Seasoncalendar -->
+    <icon package="flunzmas.seasoncalendar" drawable="@drawable/frost_icon_seasoncalendar" />
+
+    <!-- SecScanQR -->
+    <icon package="de.t_dankworth.secscanqr" drawable="@drawable/frost_icon_qr" />
+
+    <!-- SecureGo -->
+    <icon package="de.fiducia.smartphone.android.securego.wl" drawable="@drawable/frost_icon_securego" />
+
+    <!-- Secuso Foodtracker -->
+    <icon package="org.secuso.privacyfriendlyfoodtracker" drawable="@drawable/frost_icon_foodtracker" />
+
+    <!-- Secuso Pedometer -->
+    <icon package="org.secuso.privacyfriendlyactivitytracker" drawable="@drawable/frost_icon_pedometer" />
+
+    <!-- Secuso Solitaire -->
+    <icon package="org.secuso.privacyfriendlysolitaire" drawable="@drawable/frost_icon_solitaire" />
+
+    <!-- Secuso Weather -->
+    <icon package="org.secuso.privacyfriendlyweather" drawable="@drawable/frost_icon_weather" />
+
+    <!-- Semitone -->
+    <icon package="mn.tck.semitone" drawable="@drawable/frost_icon_semitone" />
+
+    <!-- Send Reduced Free -->
+    <icon package="mobi.omegacentauri.SendReduced" drawable="@drawable/frost_icon_sendreducedfree" />
+
+    <!-- SensorLab -->
+    <icon package="com.lpellis.sensorlab" drawable="@drawable/frost_icon_sensorlab" />
+
+    <!-- Sensor Readout -->
+    <icon package="de.onyxbits.sensorreadout" drawable="@drawable/frost_icon_sensorreadout" />
+
+    <!-- SeriesGuide -->
+    <icon package="com.battlelancer.seriesguide" drawable="@drawable/frost_icon_seriesguide" />
+
+    <!-- Session -->
+    <icon package="network.loki.messenger" drawable="@drawable/frost_icon_session" />
+
+    <!-- Settings -->
+    <icon package="com.android.settings" drawable="@drawable/frost_icon_settings" />
+
+    <!-- Seven Time -->
+    <icon package="com.codescape.seventime" drawable="@drawable/frost_icon_seventime" />
+
+    <!-- Sgit -->
+    <icon package="me.sheimi.sgit" drawable="@drawable/frost_icon_sgit" />
+
+    <!-- Shader Editor -->
+    <icon package="de.markusfisch.android.shadereditor" drawable="@drawable/frost_icon_shadereditor" />
+
+    <!-- Shadowsocks -->
+    <icon package="com.github.shadowsocks" drawable="@drawable/frost_icon_shadowsocks" />
+
+    <!-- ShareMe -->
+    <icon package="com.xiaomi.midrop" drawable="@drawable/frost_icon_shareme" />
+
+    <!-- Share to Clipboard -->
+    <icon package="com.tengu.sharetoclipboard" drawable="@drawable/frost_icon_sharetoclipboard" />
+
+    <!-- Share to Computer -->
+    <icon package="com.jim.sharetocomputer" drawable="@drawable/frost_icon_sharetocomputer" />
+
+    <!-- Shattered Pixel Dungeon -->
+    <icon package="com.shatteredpixel.shatteredpixeldungeon" drawable="@drawable/frost_icon_shatteredpixeldungeon" />
+
+    <!-- Shazam -->
+    <icon package="com.shazam.android" drawable="@drawable/frost_icon_shazam" />
+
+    <!-- Shelter -->
+    <icon package="net.typeblog.shelter" drawable="@drawable/frost_icon_shelter" />
+
+    <!-- SHIELD TV -->
+    <icon package="com.nvidia.shield.remote" drawable="@drawable/frost_icon_nvidia" />
+
+    <!-- Shopping List -->
+    <icon package="com.woefe.shoppinglist" drawable="@drawable/frost_icon_shoppinglist" />
+
+    <icon package="privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist" drawable="@drawable/frost_icon_secusoshoppinglist" />
+
+    <!-- Showly 2.0 -->
+    <icon package="com.michaldrabik.showly2" drawable="@drawable/frost_icon_showly20" />
+
+    <!-- Shrug ¯\_(ツ)_/¯ -->
+    <icon package="com.codebutler.shrug" drawable="@drawable/frost_icon_shrug" />
+
+    <!-- Shuttle+ -->
+    <icon package="com.simplecity.amp_pro" drawable="@drawable/frost_icon_shuttle" />
+
+    <!-- Sieben -->
+    <icon package="de.baumann.sieben" drawable="@drawable/frost_icon_sieben" />
+
+    <!-- Signal -->
+    <icon package="org.libresignal" drawable="@drawable/frost_icon_signal" />
+    <icon package="org.thoughtcrime.securesms" drawable="@drawable/frost_icon_signal" />
+
+    <!-- Silence -->
+    <icon package="org.smssecure.smssecure" drawable="@drawable/frost_icon_silence" />
+
+    <!-- Simple Accounting -->
+    <icon package="com.emmanuelmess.simpleaccounting" drawable="@drawable/frost_icon_simpleaccounting" />
+
+    <!-- Simple Calculator -->
+    <icon package="com.simplemobiletools.calculator" drawable="@drawable/frost_icon_simplecalculator" />
+
+    <!-- Simple Calculator Pro -->
+    <icon package="com.simplemobiletools.calculcator.pro" drawable="@drawable/frost_icon_simplecalculator" />
+
+    <!-- Simple Calendar -->
+    <icon package="com.simplemobiletools.calendar" drawable="@drawable/frost_icon_simplecalendar" />
+
+    <!-- Simple Calendar Pro -->
+    <icon package="com.simplemobiletools.calendar.pro" drawable="@drawable/frost_icon_simplecalendar" />
+
+    <!-- Simple Camera -->
+    <icon package="com.simplemobiletools.camera" drawable="@drawable/frost_icon_simplecamera" />
+
+    <!-- Simple Camera Pro -->
+    <icon package="com.simplemobiletools.camera.pro" drawable="@drawable/frost_icon_simplecamera" />
+
+    <!-- Simple Clock -->
+    <icon package="com.simplemobiletools.clock" drawable="@drawable/frost_icon_simpleclock" />
+
+    <!-- Simple Clock Pro -->
+    <icon package="com.simplemobiletools.clock.pro" drawable="@drawable/frost_icon_simpleclock" />
+
+    <!-- Simple Contacts -->
+    <icon package="com.simplemobiletools.contacts" drawable="@drawable/frost_icon_simplecontacts" />
+
+    <!-- Simple Contacts Pro -->
+    <icon package="com.simplemobiletools.contacts.pro" drawable="@drawable/frost_icon_simplecontacts" />
+
+    <!-- Simple Dialer -->
+    <icon package="com.simplemobiletools.dialer" drawable="@drawable/frost_icon_phone" />
+
+    <!-- Simple Draw -->
+    <icon package="com.simplemobiletools.draw" drawable="@drawable/frost_icon_simpledraw" />
+
+    <!-- Simple Draw Pro -->
+    <icon package="com.simplemobiletools.draw.pro" drawable="@drawable/frost_icon_simpledraw" />
+
+    <!-- Simple Explorer -->
+    <icon package="com.dnielfe.manager" drawable="@drawable/frost_icon_simexplorer" />
+
+    <!-- Simple File Manager -->
+    <icon package="com.simplemobiletools.filemanager" drawable="@drawable/frost_icon_simplefilemanager" />
+
+    <!-- Simple File Manager Pro -->
+    <icon package="com.simplemobiletools.filemanager.pro" drawable="@drawable/frost_icon_simplefilemanager" />
+
+    <!-- Simple Flashlight -->
+    <icon package="com.simplemobiletools.flashlight" drawable="@drawable/frost_icon_simpleflashlight" />
+
+    <!-- Simple Flashlight Pro -->
+    <icon package="com.simplemobiletools.flashlight.pro" drawable="@drawable/frost_icon_simpleflashlight" />
+
+    <!-- Simple Gallery -->
+    <icon package="com.simplemobiletools.gallery" drawable="@drawable/frost_icon_simplegallery" />
+
+    <!-- Simple Gallery Pro -->
+    <icon package="com.simplemobiletools.gallery.pro" drawable="@drawable/frost_icon_simplegallery" />
+
+    <!-- Simple Keyboard -->
+    <icon package="rkr.simplekeyboard.inputmethod" drawable="@drawable/frost_icon_simplekeyboard" />
+
+    <!-- Simple Last.fm Scrobbler -->
+    <icon package="com.adam.aslfms" drawable="@drawable/frost_icon_lastfmscrobbler" />
+
+    <!-- Simple Launcher -->
+    <icon package="com.simplemobiletools.applauncher" drawable="@drawable/frost_icon_simpleapplauncher" />
+
+    <!-- Simple Launcher Pro -->
+    <icon package="com.simplemobiletools.applauncher.pro" drawable="@drawable/frost_icon_simpleapplauncher" />
+
+    <!-- SimpleLogin -->
+    <icon package="io.simplelogin.android.fdroid" drawable="@drawable/frost_icon_simplelogin" />
+
+    <!-- Simple Music Player -->
+    <icon package="com.simplemobiletools.musicplayer" drawable="@drawable/frost_icon_simplemusicplayer" />
+
+    <!-- Simple Music Player Pro -->
+    <icon package="com.simplemobiletools.musicplayer.pro" drawable="@drawable/frost_icon_simplemusicplayer" />
+
+    <!-- Simplenote -->
+    <icon package="com.automattic.simplenote" drawable="@drawable/frost_icon_simplenote" />
+
+    <!-- Simple Notes -->
+    <icon package="com.simplemobiletools.notes" drawable="@drawable/frost_icon_simplenotes" />
+
+    <!-- Simple Notes Pro -->
+    <icon package="com.simplemobiletools.notes.pro" drawable="@drawable/frost_icon_simplenotes" />
+
+    <!-- Simple Search -->
+    <icon package="de.tobiasbielefeld.searchbar" drawable="@drawable/frost_icon_simplesearch" />
+
+    <!-- Simple SMS Messenger -->
+    <icon package="com.simplemobiletools.smsmessenger" drawable="@drawable/frost_icon_messages" />
+
+    <!-- Simple Solitaire Collection -->
+    <icon package="de.tobiasbielefeld.solitaire" drawable="@drawable/frost_icon_solitaire" />
+
+    <!-- Simpletask -->
+    <icon package="nl.mpcjanssen.simpletask" drawable="@drawable/frost_icon_simpletask" />
+
+    <!-- Simple Thank You -->
+    <icon package="com.simplemobiletools.thankyou" drawable="@drawable/frost_icon_simplethankyou" />
+
+    <!-- Simple Voicerecorder -->
+    <icon package="com.simplemobiletools.voicerecorder" drawable="@drawable/frost_icon_simplevoicerecorder" />
+
+    <!-- Simple Voicerecorder Pro -->
+    <icon package="com.simplemobiletools.voicerecorder.pro" drawable="@drawable/frost_icon_simplevoicerecorder" />
+
+    <!-- Simple Weather -->
+    <icon package="com.a5corp.weather" drawable="@drawable/frost_icon_simpleweather" />
+
+    <!-- Sim Toolkit -->
+    <icon package="com.android.stk" drawable="@drawable/frost_icon_sim" />
+
+    <!-- Skånetrafiken -->
+    <icon package="se.skanetrafiken.washington" drawable="@drawable/frost_icon_sknetrafiken" />
+
+    <!-- Skolschema -->
+    <icon package="com.potatiz.skolschema" drawable="@drawable/frost_icon_skolschema" />
+
+    <!-- Sky Map -->
+    <icon package="com.google.android.stardroid" drawable="@drawable/frost_icon_skymap" />
+
+    <!-- Skype -->
+    <icon package="com.skype.raider" drawable="@drawable/frost_icon_skype" />
+
+    <!-- SkyTube -->
+    <icon package="free.rm.skytube.oss" drawable="@drawable/frost_icon_skytube" />
+
+    <!-- Slack -->
+    <icon package="com.Slack" drawable="@drawable/frost_icon_slack" />
+
+    <!-- Sleep Cycle -->
+    <icon package="com.northcube.sleepcycle" drawable="@drawable/frost_icon_sleepcycle" />
+
+    <!-- Slide -->
+    <icon package="me.ccrama.redditslide" drawable="@drawable/frost_icon_slidereddit" />
+
+    <icon package="trikita.slide" drawable="@drawable/frost_icon_slide" />
+
+    <!-- SlimSocial -->
+    <icon package="it.rignanese.leo.slimfacebook" drawable="@drawable/frost_icon_slimsocial" />
+
+    <!-- SmartPack -->
+    <icon package="com.smartpack.kernelmanager" drawable="@drawable/frost_icon_smartpack" />
+
+    <!-- Snapchat -->
+    <icon package="com.snapchat.android" drawable="@drawable/frost_icon_snapchat" />
+
+    <!-- Snap -->
+    <icon package="org.cyanogenmod.snap" drawable="@drawable/frost_icon_camera" />
+
+    <!-- Snapseed -->
+    <icon package="com.niksoftware.snapseed" drawable="@drawable/frost_icon_snapseed" />
+
+    <!-- Snippet -->
+    <icon package="uk.co.barbuzz.snippet" drawable="@drawable/frost_icon_snippet" />
+
+    <!-- SnooperStopper -->
+    <icon package="cz.eutopia.snooperstopper" drawable="@drawable/frost_icon_snooperstopper" />
+
+    <!-- SofaScore -->
+    <icon package="com.sofascore.results" drawable="@drawable/frost_icon_sofascore" />
+
+    <!-- Sokoban -->
+    <icon package="com.mobilepearls.sokoban" drawable="@drawable/frost_icon_sokoban" />
+
+    <!-- Solex -->
+    <icon package="com.fognl.solex" drawable="@drawable/frost_icon_solex" />
+
+    <!-- Solid Explorer -->
+    <icon package="pl.solidexplorer2" drawable="@drawable/frost_icon_solidexplorer" />
+
+    <!-- SolitaireCG -->
+    <icon package="net.sourceforge.solitaire_cg" drawable="@drawable/frost_icon_solitairecg" />
+
+    <!-- SomaFM -->
+    <icon package="com.dgmltn.radiomg.somafm" drawable="@drawable/frost_icon_somafm" />
+
+    <!-- Sonos -->
+    <icon package="com.sonos.acr" drawable="@drawable/frost_icon_sonos" />
+    <icon package="com.sonos.acr2" drawable="@drawable/frost_icon_sonos" />
+
+    <!-- SOS Alarm -->
+    <icon package="se.sos.soslive" drawable="@drawable/frost_icon_sosalarm" />
+
+    <!-- Soundcloud - TODO: Add a better icon -->
+    <icon package="com.soundcloud.android" drawable="@drawable/frost_icon_soundcloud" />
+
+    <!-- SoundHound -->
+    <icon package="com.melodis.midomiMusicIdentifier.freemium" drawable="@drawable/frost_icon_soundhound" />
+
+    <!-- Sound+ -->
+    <icon package="com.jabra.moments" drawable="@drawable/frost_icon_sound" />
+
+    <!-- Sound Recorder -->
+    <icon package="com.android.soundrecorder" drawable="@drawable/frost_icon_recorder" />
+    <icon package="com.danielkim.soundrecorder" drawable="@drawable/frost_icon_soundrecorder" />
+    <icon package="com.tct.soundrecorder.bb" drawable="@drawable/frost_icon_soundrecorder" />
+    <icon package="com.oneplus.soundrecorder" drawable="@drawable/frost_icon_recorder" />
+
+    <!-- Sovcombank -->
+    <icon package="ru.diftechsvc" drawable="@drawable/frost_icon_sovcombank" />
+
+    <!-- Space Launch Now -->
+    <icon package="me.calebjones.spacelaunchnow" drawable="@drawable/frost_icon_spacelaunchnow" />
+
+    <!-- Sparkasse -->
+    <icon package="com.starfinanz.smob.android.sfinanzstatus" drawable="@drawable/frost_icon_sparkasse" />
+
+    <!-- SpaRSS -->
+    <icon package="net.etuldan.sparss.floss" drawable="@drawable/frost_icon_sparss" />
+
+    <!-- Spectroid -->
+    <icon package="org.intoorbit.spectrum" drawable="@drawable/frost_icon_spectroid" />
+
+    <!-- Speedmeter -->
+    <icon package="fly.speedmeter.grub" drawable="@drawable/frost_icon_speedmeter" />
+
+    <!-- Speedtest -->
+    <icon package="org.zwanoo.android.speedtest" drawable="@drawable/frost_icon_speedtest" />
+
+    <!-- Spotify -->
+    <icon package="com.spotify.music" drawable="@drawable/frost_icon_spotify" />
+
+    <!-- Spritpreise -->
+    <icon package="com.ptvag.android.adacgasprices" drawable="@drawable/frost_icon_spritpreise" />
+
+    <!-- Sprouted Pixel Dungeon -->
+    <icon package="com.github.dachhack.sprout" drawable="@drawable/frost_icon_sproutedpixeldungeon" />
+
+    <!-- stadtmobil -->
+    <icon package="de.cantamen.stadtmobil" drawable="@drawable/frost_icon_stadtmobil" />
+
+    <!-- Standard Notes -->
+    <icon package="com.standardnotes" drawable="@drawable/frost_icon_standardnotes" />
+
+    <!-- Starbucks -->
+    <icon package="com.starbucks.mobilecard" drawable="@drawable/frost_icon_starbucks" />
+
+    <!-- Starke Verben -->
+    <icon package="org.sw24softwares.starkeverben" drawable="@drawable/frost_icon_starkeverben" />
+
+    <!-- Steam Chat -->
+    <icon package="com.valvesoftware.android.steam.friendsui" drawable="@drawable/frost_icon_steamchat" />
+
+    <!-- Steam -->
+    <icon package="com.valvesoftware.android.steam.community" drawable="@drawable/frost_icon_steam" />
+
+    <!-- Stellarium -->
+    <icon package="com.noctuasoftware.stellarium_free" drawable="@drawable/frost_icon_stellarium" />
+
+    <!-- StepStone -->
+    <icon package="com.stepstone.borowf01" drawable="@drawable/frost_icon_stepstone" />
+
+    <!-- Stocard -->
+    <icon package="de.stocard.stocard" drawable="@drawable/frost_icon_stocard" />
+
+    <!-- Stocks Widget -->
+    <icon package="com.github.premnirmal.tickerwidget" drawable="@drawable/frost_icon_stockswidget" />
+
+    <!-- Storm Radar -->
+    <icon package="com.twc.radar" drawable="@drawable/frost_icon_stormradar" />
+
+    <!-- Strava -->
+    <icon package="com.strava" drawable="@drawable/frost_icon_strava" />
+
+    <!-- Streaming -->
+    <icon package="com.microsoft.xcloud" drawable="@drawable/frost_icon_streaming" />
+
+    <!-- Street­Complete -->
+    <icon package="de.westnordost.streetcomplete" drawable="@drawable/frost_icon_streetcomplete" />
+
+    <!-- STUDIUM.UniCT -->
+    <icon package="unict.cea.studium" drawable="@drawable/frost_icon_studiumunict" />
+
+    <!-- Stumbler -->
+    <icon component="org.mozilla.mozstumbler" drawable="@drawable/frost_icon_stumbler" />
+
+    <!-- Subsonic -->
+    <icon package="net.sourceforge.subsonic.androidapp" drawable="@drawable/frost_icon_dsub" />
+
+    <!-- Sudoku -->
+    <icon package="org.secuso.privacyfriendlysudoku" drawable="@drawable/frost_icon_sudoku" />
+
+    <!-- SulAmérica Saúde -->
+    <icon package="br.com.sulamerica.sam.saude" drawable="@drawable/frost_icon_sulamericasaude" />
+
+    <!-- Suntimes Calendars -->
+    <icon package="com.forrestguice.suntimescalendars" drawable="@drawable/frost_icon_suntimescalendars" />
+
+    <!-- Suntimes -->
+    <icon package="com.forrestguice.suntimeswidget" drawable="@drawable/frost_icon_suntimes" />
+
+    <!-- SuperFreezZ -->
+    <icon package="superfreeze.tool.android" drawable="@drawable/frost_icon_superfreezz" />
+
+    <!-- Supersu -->
+    <icon package="eu.chainfire.supersu" drawable="@drawable/frost_icon_su" />
+
+    <!-- SuperTuxKart -->
+    <icon package="org.supertuxkart.stk" drawable="@drawable/frost_icon_supertuxkart" />
+
+    <!-- Superuser -->
+    <icon package="me.phh.superuser" drawable="@drawable/frost_icon_superuser" />
+
+    <!-- Support Center -->
+    <icon package="com.tcl.usercare.bb" drawable="@drawable/frost_icon_supportcenter" />
+
+    <!-- Surfshark -->
+    <icon package="com.surfshark.vpnclient.android" drawable="@drawable/frost_icon_surfshark" />
+
+    <!-- Survival Manual -->
+    <icon package="org.ligi.survivalmanual" drawable="@drawable/frost_icon_survivalmanual" />
+
+    <!-- SWeb -->
+    <icon package="landau.sweb" drawable="@drawable/frost_icon_sweb" />
+
+    <!-- Swedbank -->
+    <icon package="se.swedbank.mobil" drawable="@drawable/frost_icon_swedbank" />
+
+    <!-- SwiftKey -->
+    <icon package="com.touchtype.swiftkey" drawable="@drawable/frost_icon_swiftkey" />
+
+    <!-- Swiftnotes -->
+    <icon package="com.moonpi.swiftnotes" drawable="@drawable/frost_icon_notes" />
+
+    <!-- Swish Payments -->
+    <icon package="se.bankgirot.swish" drawable="@drawable/frost_icon_swish" />
+
+    <!-- Sygic -->
+    <icon package="com.sygic.aura" drawable="@drawable/frost_icon_sygic" />
+
+    <!-- Syncopoli -->
+    <icon package="org.amoradi.syncopoli" drawable="@drawable/frost_icon_syncopoli" />
+
+    <!-- Syncthing-Fork -->
+    <icon package="com.github.catfriend1.syncthingandroid" drawable="@drawable/frost_icon_syncthing" />
+
+    <!-- Syncthing -->
+    <icon package="com.nutomic.syncthingandroid" drawable="@drawable/frost_icon_syncthing" />
+    <icon package="net.syncthing.lite" drawable="@drawable/frost_icon_syncthing" />
+
+    <!-- Syphon -->
+    <icon package="org.tether.tether" drawable="@drawable/frost_icon_syphon" />
+
+    <!-- /system/ App Mover -->
+    <icon package="de.j4velin.systemappmover" drawable="@drawable/frost_icon_systemappmover" />
+
+    <!-- SystemUI Tuner -->
+    <icon package="com.zacharee1.systemuituner" drawable="@drawable/frost_icon_systemuituner" />
+
+    <!-- System usage stats -->
+    <icon package="godau.fynn.usagedirect.system" drawable="@drawable/frost_icon_usagedirect" />
+
+    <!-- Tachiyomi -->
+    <icon package="eu.kanade.tachiyomi" drawable="@drawable/frost_icon_tachiyomi" />
+
+    <!-- Talalarmo -->
+    <icon package="trikita.talalarmo" drawable="@drawable/frost_icon_talalarmo" />
+
+    <!-- TAN2go -->
+    <icon package="com.starfinanz.mobile.android.dkbpushtan" drawable="@drawable/frost_icon_tan2go" />
+
+    <!-- Tape Measure -->
+    <icon package="org.secuso.privacyfriendlytapemeasure" drawable="@drawable/frost_icon_tapemeasure" />
+
+    <!-- Tap 'n' Turn -->
+    <icon package="com.gabm.screenrotationcontrol" drawable="@drawable/frost_icon_tapnturn" />
+
+    <!-- Tasker -->
+    <icon package="net.dinglisch.android.taskerm" drawable="@drawable/frost_icon_tasker" />
+
+    <!-- Tasks -->
+    <icon package="com.blackberry.tasks" drawable="@drawable/frost_icon_tasks" />
+    <icon package="org.tasks" drawable="@drawable/frost_icon_tasks" />
+    <icon package="foundation.e.tasks" drawable="@drawable/frost_icon_tasks" />
+
+    <icon package="com.google.android.apps.tasks" drawable="@drawable/frost_icon_gtasks" />
+
+    <!-- Taskwarrior -->
+    <icon package="kvj.taskw" drawable="@drawable/frost_icon_taskwarrior" />
+
+    <!-- TeamViewer -->
+    <icon package="com.teamviewer.teamviewer.market.mobile" drawable="@drawable/frost_icon_teamviewer" />
+
+    <!-- Telegram -->
+    <icon package="org.telegram.messenger" drawable="@drawable/frost_icon_telegram" />
+
+    <!-- Terminal Emulator -->
+    <icon package="com.termoneplus" drawable="@drawable/frost_icon_terminalemulator" />
+
+    <icon package="jackpal.androidterm" drawable="@drawable/frost_icon_androidterm" />
+
+    <!-- Terminal -->
+    <icon package="com.android.terminal" drawable="@drawable/frost_icon_terminal" />
+
+    <!-- Termius -->
+    <icon package="com.server.auditor.ssh.client" drawable="@drawable/frost_icon_termius" />
+
+    <!-- Termux:Boot -->
+    <icon package="com.termux.boot" drawable="@drawable/frost_icon_termux" />
+
+    <!-- Termux:Float -->
+    <icon package="com.termux.window" drawable="@drawable/frost_icon_termux" />
+
+    <!-- Termux -->
+    <icon package="com.termux" drawable="@drawable/frost_icon_termux" />
+
+    <!-- TerraGenesis -->
+    <icon package="com.alexanderwinn.TerraGenesis" drawable="@drawable/frost_icon_terragenesis" />
+
+    <!-- Tether -->
+    <icon package="com.tplink.tether" drawable="@drawable/frost_icon_tether" />
+
+    <!-- Themes -->
+    <icon package="org.cyanogenmod.theme.chooser" drawable="@drawable/frost_icon_themes" />
+    <icon package="com.huawei.android.thememanager" drawable="@drawable/frost_icon_themes" />
+    <icon package="com.android.thememanager" drawable="@drawable/frost_icon_themes" />
+
+    <!-- Thinkfree Office viewer -->
+    <icon package="com.tf.thinkdroid.viewer.global" drawable="@drawable/frost_icon_thinkfree" />
+
+    <!-- Threema -->
+    <icon package="ch.threema.app" drawable="@drawable/frost_icon_threema" />
+
+    <!-- TicketSwap -->
+    <icon package="com.ticketswap.ticketswap" drawable="@drawable/frost_icon_ticketswap" />
+
+    <!-- Tickmate -->
+    <icon package="de.smasi.tickmate" drawable="@drawable/frost_icon_tickmate" />
+
+    <!-- TIDAL -->
+    <icon package="com.aspiro.tidal" drawable="@drawable/frost_icon_tidal" />
+
+    <!-- TikTok -->
+    <icon package="com.zhiliaoapp.musically" drawable="@drawable/frost_icon_tiktok" />
+
+    <!-- Timber -->
+    <icon package="naman14.timber" drawable="@drawable/frost_icon_timber" />
+    <icon package="it.fossoft.timberfoss" drawable="@drawable/frost_icon_timber" />
+
+    <!-- TimeLimit -->
+    <icon package="io.timelimit.android.open" drawable="@drawable/frost_icon_timelimit" />
+    <icon package="io.timelimit.android.aosp.direct" drawable="@drawable/frost_icon_timelimit" />
+
+    <!-- Tinc -->
+    <icon package="org.pacien.tincapp" drawable="@drawable/frost_icon_tinc" />
+
+    <!-- Tinder -->
+    <icon package="com.tinder" drawable="@drawable/frost_icon_tinder" />
+
+    <!-- Tinkoff Business -->
+    <icon package="ru.tinkoff.sme" drawable="@drawable/frost_icon_tinkoffbiz" />
+
+    <!-- Tinkoff -->
+    <icon package="com.idamob.tinkoff.android" drawable="@drawable/frost_icon_tinkoff" />
+
+    <!-- TinyKeePass -->
+    <icon package="org.sorz.lab.tinykeepass" drawable="@drawable/frost_icon_tinykeepass" />
+
+    <!-- Tiny Scanner -->
+    <icon package="com.appxy.tinyscanner" drawable="@drawable/frost_icon_tinyscanner" />
+
+    <!-- Tiny Tiny RSS -->
+    <icon package="org.fox.tttrss" drawable="@drawable/frost_icon_tinytinyrss" />
+
+    <!-- Tiny Travel Tracker -->
+    <icon package="com.rareventure.gps2" drawable="@drawable/frost_icon_tinytraveltracker" />
+
+    <!-- Tisséo -->
+    <icon package="fr.tisseo.android" drawable="@drawable/frost_icon_tisseo" />
+
+    <!-- TK -->
+    <icon package="de.tk.tkapp" drawable="@drawable/frost_icon_tk" />
+
+    <!-- Todo Agenda -->
+    <icon package="org.andstatus.todoagenda" drawable="@drawable/frost_icon_todoagenda" />
+    <icon package="com.plusonelabs.calendar" drawable="@drawable/frost_icon_todoagenda" />
+
+    <!-- To Do -->
+    <icon package="com.microsoft.todos" drawable="@drawable/frost_icon_todo" />
+
+    <!-- TooGoodToGo -->
+    <icon package="com.app.tgtg" drawable="@drawable/frost_icon_toogoodtogo" />
+
+    <!-- Tor Browser -->
+    <icon package="org.torproject.torbrowser" drawable="@drawable/frost_icon_torbrowser" />
+    <icon package="org.torproject.torbrowser_alpha" drawable="@drawable/frost_icon_torbrowser" />
+
+    <!-- Torchie -->
+    <icon package="in.blogspot.anselmbros.torchie" drawable="@drawable/frost_icon_torchie" />
+
+    <!-- Torch -->
+    <icon package="com.doomy.torch" drawable="@drawable/frost_icon_torch" />
+    <icon package="com.android.systemui" drawable="@drawable/frost_icon_torch" />
+
+    <!-- Torrent Client -->
+    <icon package="com.github.axet.torrentclient" drawable="@drawable/frost_icon_torrentclient" />
+
+    <!-- Total Commander -->
+    <icon package="com.ghisler.android.TotalCommander" drawable="@drawable/frost_icon_totalcommander" />
+
+    <!-- Toulouse VélôToulouse (bikes rental) -->
+    <icon package="com.michgauz.velotoulouse.view" drawable="@drawable/frost_icon_bikelocation" />
+
+    <!-- Tower Collector -->
+    <icon package="info.zamojski.soft.towercollector" drawable="@drawable/frost_icon_towercollector" />
+
+    <!-- TowerJumper -->
+    <icon package="org.pipoypipagames.towerjumper" drawable="@drawable/frost_icon_towerjumper" />
+
+    <!-- Trackbook -->
+    <icon package="org.y20k.trackbook" drawable="@drawable/frost_icon_trackbook" />
+
+    <!-- TrackerControl -->
+    <icon package="net.kollnig.missioncontrol.fdroid" drawable="@drawable/frost_icon_trackercontrol" />
+    <icon package="net.kollnig.missioncontrol" drawable="@drawable/frost_icon_trackercontrol" />
+
+    <!-- Track Work Time -->
+    <icon package="org.zephyrsoft.trackworktime" drawable="@drawable/frost_icon_trackworktime" />
+
+    <!-- Trafic transports parisiens -->
+    <icon package="fr.corenting.traficparis" drawable="@drawable/frost_icon_trafictransportsparisiens" />
+
+    <!-- Trail Sense -->
+    <icon package="com.kylecorry.trail_sense" drawable="@drawable/frost_icon_trailsense" />
+
+    <!-- Trainline -->
+    <icon package="com.capitainetrain.android" drawable="@drawable/frost_icon_trainline" />
+    <icon package="com.thetrainline" drawable="@drawable/frost_icon_trainline" />
+
+    <!-- Transdroid -->
+    <icon package="org.transdroid.search" drawable="@drawable/frost_icon_transdroid" />
+    <icon package="org.transdroid.full" drawable="@drawable/frost_icon_transdroid" />
+
+    <!-- Transdrone -->
+    <icon package="org.transdroid.lite" drawable="@drawable/frost_icon_transdrone" />
+
+    <!-- Transistor -->
+    <icon package="org.y20k.transistor" drawable="@drawable/frost_icon_transistor" />
+
+    <!-- Transmission Remote -->
+    <icon package="net.yupol.transmissionremote.app" drawable="@drawable/frost_icon_transmissionremote" />
+
+    <!-- Transport -->
+    <icon package="ru.yandex.yandexbus" drawable="@drawable/frost_icon_transport" />
+
+    <!-- Transportr -->
+    <icon package="de.grobox.liberario" drawable="@drawable/frost_icon_transportr" />
+
+    <!-- Treble Info -->
+    <icon package="tk.hack5.treblecheck" drawable="@drawable/frost_icon_trebleinfo" />
+
+    <!-- TrebleShot -->
+    <icon package="com.genonbeta.TrebleShot" drawable="@drawable/frost_icon_trebleshot" />
+
+    <!-- Trello -->
+    <icon package="com.trello" drawable="@drawable/frost_icon_trello" />
+
+    <!-- Trenord -->
+    <icon package="it.nordcom.app" drawable="@drawable/frost_icon_trenord" />
+
+    <!-- Trex Runner -->
+    <icon package="com.nellyfish.trexrunner" drawable="@drawable/frost_icon_trexrunner" />
+
+    <!-- Tricount -->
+    <icon package="com.tribab.tricount.android" drawable="@drawable/frost_icon_tricount" />
+
+    <!-- Trigger -->
+    <icon package="com.example.trigger" drawable="@drawable/frost_icon_trigger" />
+
+    <!-- Tumblr -->
+    <icon package="com.tumblr" drawable="@drawable/frost_icon_tumblr" />
+
+    <!-- Tuner -->
+    <icon package="org.billthefarmer.tuner" drawable="@drawable/frost_icon_tuner" />
+
+    <!-- Turtl -->
+    <icon package="org.xphnx.iconsubmit" drawable="@drawable/frost_icon_turtl" />
+
+    <!-- Turtl Sync -->
+    <icon package="com.lyonbros.turtl" drawable="@drawable/frost_icon_turtlsync" />
+
+    <!-- Tusky -->
+    <icon package="com.keylesspalace.tusky" drawable="@drawable/frost_icon_tusky" />
+    <icon package="com.keylesspalace.tusky.test" drawable="@drawable/frost_icon_tusky" />
+
+    <!-- Tutanota -->
+    <icon package="de.tutao.tutanota" drawable="@drawable/frost_icon_tutanota" />
+
+    <!--tv kill -->
+    <icon package="com.redirectapps.tvkill" drawable="@drawable/frost_icon_tvkill" />
+
+    <!-- Twidere -->
+    <icon package="org.mariotaku.twidere" drawable="@drawable/frost_icon_twidere" />
+
+    <!-- Twire -->
+    <icon package="com.perflyst.twire" drawable="@drawable/frost_icon_twire" />
+
+    <!-- Twitch -->
+    <icon package="tv.twitch.android.app" drawable="@drawable/frost_icon_twitch" />
+
+    <!-- twitlatte -->
+    <icon package="com.github.moko256.twitlatte" drawable="@drawable/frost_icon_twitlatte" />
+
+    <!-- Twitter -->
+    <icon package="com.twitter.android" drawable="@drawable/frost_icon_twitter" />
+
+    <!-- TWRP -->
+    <icon package="me.twrp.twrpapp" drawable="@drawable/frost_icon_twrp" />
+
+    <!-- Uber -->
+    <icon package="com.ubercab" drawable="@drawable/frost_icon_uber" />
+
+    <!-- Ultrasonic -->
+    <icon package="org.moire.ultrasonic" drawable="@drawable/frost_icon_ultrasonic" />
+
+    <!-- UnCiv -->
+    <icon package="com.unciv.app" drawable="@drawable/frost_icon_unciv" />
+
+    <!-- Underlords -->
+    <icon package="com.valvesoftware.underlords" drawable="@drawable/frost_icon_underlords" />
+
+    <!-- Unified Nlp -->
+    <icon package="com.google.android.gms" drawable="@drawable/frost_icon_unifiednlp" />
+    <icon package="org.microg.nlp" drawable="@drawable/frost_icon_unifiednlp" />
+
+    <!-- Uni Mainz -->
+    <icon package="net.jgu.android.app" drawable="@drawable/frost_icon_unimainz" />
+
+    <!-- Unit Converter Ultimate -->
+    <icon package="com.physphil.android.unitconverterultimate" drawable="@drawable/frost_icon_unitconverterultimate" />
+
+    <!-- Units -->
+    <icon package="info.staticfree.android.units" drawable="@drawable/frost_icon_units" />
+
+    <!-- Uno Calc -->
+    <icon package="uno.platform.calculator" drawable="@drawable/frost_icon_unocalc" />
+
+    <!-- UntrackMe -->
+    <icon package="app.fedilab.nitterizeme" drawable="@drawable/frost_icon_untrackme" />
+    <icon package="app.fedilab.nitterizemelite" drawable="@drawable/frost_icon_untrackme" />
+
+    <!-- UPS -->
+    <icon package="com.ups.mobile.android" drawable="@drawable/frost_icon_ups" />
+
+    <!-- Urbandroid Sleep -->
+    <icon package="com.urbandroid.sleep" drawable="@drawable/frost_icon_urbandroid" />
+
+    <!-- usageDirect -->
+    <icon package="godau.fynn.usagedirect" drawable="@drawable/frost_icon_usagedirect" />
+
+    <!-- user js updater -->
+    <icon package="de.reckendrees.systems.userjsupdater" drawable="@drawable/frost_icon_jsupdater" />
+
+    <!-- USPS Mobile -->
+    <icon package="com.usps" drawable="@drawable/frost_icon_uspsmobile" />
+
+    <!-- Vanced Manager -->
+    <icon package="com.vanced.manager" drawable="@drawable/frost_icon_vancedmanager" />
+
+    <!-- Vanilla Music -->
+    <icon package="ch.blinkenlights.android.vanilla" drawable="@drawable/frost_icon_vanillamusic" />
+
+    <!-- Vasttrafik To Go -->
+    <icon package="com.vaesttrafik.vaesttrafik" drawable="@drawable/frost_icon_vasttrafik" />
+
+    <!-- Vector Pinball -->
+    <icon package="com.dozingcatsoftware.bouncy" drawable="@drawable/frost_icon_vectorpinball" />
+
+    <!-- Venmo -->
+    <icon package="com.venmo" drawable="@drawable/frost_icon_venmo" />
+
+    <!-- Via -->
+    <icon package="mark.via.gp" drawable="@drawable/frost_icon_via" />
+
+    <!-- Viber -->
+    <icon package="com.viber.voip" drawable="@drawable/frost_icon_viber" />
+
+    <!-- Video -->
+    <icon package="com.sony.tvsideview.videoph" drawable="@drawable/frost_icon_video" />
+
+    <!-- Video Transcoder -->
+    <icon package="protect.videoeditor" drawable="@drawable/frost_icon_videotranscoder" />
+
+    <!-- Vigilante -->
+    <icon package="com.crazylegend.vigilante" drawable="@drawable/frost_icon_vigilante" />
+
+    <!-- Vine -->
+    <icon package="co.vine.android" drawable="@drawable/frost_icon_vine" />
+
+    <!-- Vinyl Music Player -->
+    <icon package="com.poupa.vinylmusicplayer" drawable="@drawable/frost_icon_vinyl" />
+
+    <!-- Viper -->
+    <icon package="com.vipercn.viper4android_v2" drawable="@drawable/frost_icon_viper" />
+    <icon package="com.pittvandewitt.viperfx" drawable="@drawable/frost_icon_viper" />
+
+    <!-- Vivaldi -->
+    <icon package="com.vivaldi.browser" drawable="@drawable/frost_icon_vivaldi" />
+
+    <!-- VK -->
+    <icon package="com.vkontakte.android" drawable="@drawable/frost_icon_vk" />
+
+    <!-- VLC -->
+    <icon package="org.videolan.vlc" drawable="@drawable/frost_icon_vlc" />
+
+    <!-- VNC Viewer -->
+    <icon package="com.realvnc.viewer.android" drawable="@drawable/frost_icon_vncviewer" />
+
+    <!-- VR Media Player -->
+    <icon package="com.xojot.vrplayer" drawable="@drawable/frost_icon_vrmediaplayer" />
+
+    <!-- VRN eTarif -->
+    <icon package="com.sevenre.linear" drawable="@drawable/frost_icon_vrnetarif" />
+
+    <!-- VSCO -->
+    <icon package="com.vsco.cam" drawable="@drawable/frost_icon_vsco" />
+
+    <!-- Waistline -->
+    <icon package="com.waist.line" drawable="@drawable/frost_icon_waistline" />
+
+    <!-- Wallabag -->
+    <icon package="fr.gaulupeau.apps.InThePoche" drawable="@drawable/frost_icon_wallabagger" />
+
+    <!-- Wallpapers -->
+    <icon package="com.google.android.apps.wallpaper" drawable="@drawable/frost_icon_wallpapers" />
+
+    <!-- Wand -->
+    <icon package="com.prounlimited.wand" drawable="@drawable/frost_icon_wand" />
+
+    <!-- Warden -->
+    <icon package="com.aurora.warden" drawable="@drawable/frost_icon_warden" />
+
+    <!-- Wash & Go -->
+    <icon package="com.laundryrestart.wgls" drawable="@drawable/frost_icon_washandgo" />
+
+    <!-- Watomatic -->
+    <icon package="com.parishod.watomatic" drawable="@drawable/frost_icon_watomatic" />
+
+    <!-- Wave Lines Wallpaper -->
+    <icon package="de.markusfisch.android.wavelines" drawable="@drawable/frost_icon_waves" />
+
+    <!-- Waze -->
+    <icon package="com.waze" drawable="@drawable/frost_icon_waze" />
+
+    <!-- wdbible -->
+    <icon package="com.aquila.bible" drawable="@drawable/frost_icon_wdbible" />
+
+    <!-- Weather -->
+    <icon package="de.baumann.weather" drawable="@drawable/frost_icon_weather" />
+
+    <icon package="nl.implode.weer" drawable="@drawable/frost_icon_weatherwidget" />
+
+    <!-- WebApps -->
+    <icon package="com.tobykurien.webapps" drawable="@drawable/frost_icon_webapps" />
+
+    <!-- WebOPAC -->
+    <icon package="de.geeksfactory.opacclient" drawable="@drawable/frost_icon_webopac" />
+
+    <!-- Website Monitor -->
+    <icon package="com.manimarank.websitemonitor" drawable="@drawable/frost_icon_websitemonitor" />
+
+    <!-- WebTube -->
+    <icon package="cz.martykan.webtube" drawable="@drawable/frost_icon_youtube" />
+
+    <!-- Web Video Caster -->
+    <icon package="com.instantbits.cast.webvideo" drawable="@drawable/frost_icon_webvideocaster" />
+
+    <!-- WeChat -->
+    <icon package="com.tencent.mm" drawable="@drawable/frost_icon_wechat" />
+
+    <!-- Wells Fargo -->
+    <icon package="com.wf.wellsfargomobile" drawable="@drawable/frost_icon_wellsfargo" />
+
+    <!-- Whatsapp -->
+    <icon package="com.whatsapp" drawable="@drawable/frost_icon_whatsapp" />
+
+    <!-- WhatsApp Web To Go -->
+    <icon package="io.kuenzler.whatsappwebtogo" drawable="@drawable/frost_icon_whatsappwebtogo" />
+
+    <!-- WhatsDeleted -->
+    <icon package="com.gmail.anubhavdas54.whatsdeleted" drawable="@drawable/frost_icon_whatsdeleted" />
+
+    <!-- Wiebetaaltwat -->
+    <icon package="nl.wiebetaaltwat.webapp" drawable="@drawable/frost_icon_wiebetaaltwat" />
+
+    <!-- Wi-Fi Analyzer -->
+    <icon package="com.vrem.wifianalyzer" drawable="@drawable/frost_icon_wifianalyzer" />
+
+    <!-- WiFi Automatic -->
+    <icon package="de.j4velin.wifiAutoOff" drawable="@drawable/frost_icon_wifiautomatic" />
+
+    <!-- WiFiKeyShare -->
+    <icon package="be.brunoparmentier.wifikeyshare" drawable="@drawable/frost_icon_wifikeyshare" />
+
+    <!-- Wifi Key View -->
+    <icon package="wkv.android.evait.com.wifikeyview" drawable="@drawable/frost_icon_wifikeyview" />
+
+    <!-- Wi-Fi Privacy Police -->
+    <icon package="be.uhasselt.privacypolice" drawable="@drawable/frost_icon_wifiprivacy" />
+
+    <!-- Wikipedia -->
+    <icon package="org.wikipedia" drawable="@drawable/frost_icon_wikipedia" />
+
+    <!-- Windscribe VPN -->
+    <icon package="com.windscribe.vpn" drawable="@drawable/frost_icon_windscribevpn" />
+
+    <!-- WireGuard -->
+    <icon package="com.wireguard.android" drawable="@drawable/frost_icon_wireguard" />
+
+    <!-- Wire -->
+    <icon package="com.wire" drawable="@drawable/frost_icon_wire" />
+
+    <!-- Wolfram Alpha -->
+    <icon package="com.wolfram.android.alpha" drawable="@drawable/frost_icon_wolframalpha" />
+
+    <!-- Wookiee -->
+    <icon package="com.sharkhead.android.wookiee" drawable="@drawable/frost_icon_wookiee" />
+
+    <!-- WordReference -->
+    <icon package="com.wordreference" drawable="@drawable/frost_icon_wordreference" />
+
+    <!-- Workplace -->
+    <icon package="com.xerox.mobileprint" drawable="@drawable/frost_icon_workplace" />
+
+    <!-- WPS Office -->
+    <icon package="cn.wps.moffice_eng" drawable="@drawable/frost_icon_wpsoffice" />
+
+    <!-- Writeily Pro -->
+    <icon package="me.writeily" drawable="@drawable/frost_icon_writeilypro" />
+
+    <!-- Wrong PIN Shutdown -->
+    <icon package="org.nuntius35.wrongpinshutdown" drawable="@drawable/frost_icon_wrongpinshutdown" />
+
+    <!-- Wunderlist -->
+    <icon package="com.wunderkinder.wunderlistandroid" drawable="@drawable/frost_icon_wunderlist" />
+
+    <!-- wX -->
+    <icon package="joshuatee.wx" drawable="@drawable/frost_icon_wx" />
+
+    <!-- Xabber -->
+    <icon package="com.xabber.androiddev" drawable="@drawable/frost_icon_xabber" />
+    <icon package="com.xabber.android" drawable="@drawable/frost_icon_xabber" />
+
+    <!-- Xbox -->
+    <icon package="com.microsoft.xboxone.smartglass" drawable="@drawable/frost_icon_xbox" />
+
+    <!-- XDA Developers -->
+    <icon package="com.xda.labs.play" drawable="@drawable/frost_icon_xdadevelopers" />
+
+    <!-- XDA Labs -->
+    <icon package="com.xda.labs" drawable="@drawable/frost_icon_xdalabs" />
+
+    <!-- Xposed Installer -->
+    <icon package="de.robv.android.xposed.installer" drawable="@drawable/frost_icon_xposedinstaller" />
+
+    <!-- XPrivacy -->
+    <icon package="biz.bokhorst.xprivacy" drawable="@drawable/frost_icon_xprivacy" />
+
+    <!-- YAAB -->
+    <icon package="biz.gyrus.yaab" drawable="@drawable/frost_icon_torch" />
+
+    <!-- Yaga -->
+    <icon package="com.github.vauvenal5.yaga" drawable="@drawable/frost_icon_yaga" />
+
+    <!-- Yalp Store -->
+    <icon package="com.github.yeriomin.yalpstore" drawable="@drawable/frost_icon_yalp" />
+
+    <!-- Yandex Auto -->
+    <icon package="yandex.auto.mobile" drawable="@drawable/frost_icon_yaauto" />
+
+    <!-- Yandex Drive -->
+    <icon package="com.yandex.mobile.drive" drawable="@drawable/frost_icon_yadrive" />
+
+    <!-- Yandex Eda -->
+    <icon package="ru.foodfox.client" drawable="@drawable/frost_icon_yaeda" />
+
+    <!-- Yandex Maps -->
+    <icon package="ru.yandex.yandexmaps" drawable="@drawable/frost_icon_yamaps" />
+
+    <!-- Yandex Music -->
+    <icon package="ru.yandex.music" drawable="@drawable/frost_icon_yamusic" />
+
+    <!-- Yandex Navigator -->
+    <icon package="ru.yandex.yandexnavi" drawable="@drawable/frost_icon_yanavi" />
+
+    <!-- Yandex Weather -->
+    <icon package="ru.yandex.weatherplugin" drawable="@drawable/frost_icon_yaweather" />
+
+    <!-- YAPD / Yet Another Pixel Dungeon -->
+    <icon package="com.consideredhamster.yetanotherpixeldungeon" drawable="@drawable/frost_icon_yapd" />
+
+    <!-- Yatse -->
+    <icon package="org.leetzone.android.yatsewidgetfree" drawable="@drawable/frost_icon_yatse" />
+
+    <!-- Yet Another Call Blocker -->
+    <icon package="dummydomain.yetanothercallblocker" drawable="@drawable/frost_icon_yetanothercallblocker" />
+
+    <!-- YetAnotherVideoPlayer -->
+    <icon package="de.shadow578.yetanothervideoplayer" drawable="@drawable/frost_icon_yetanothervideoplayer" />
+
+    <!-- YNAB -->
+    <icon package="com.youneedabudget.evergreen.app" drawable="@drawable/frost_icon_ynab" />
+
+    <!-- Yoroi -->
+    <icon package="com.emurgo" drawable="@drawable/frost_icon_yoroi" />
+
+    <!-- YouMail -->
+    <icon package="com.youmail.android.vvm" drawable="@drawable/frost_icon_youmail" />
+
+    <!-- YouTube -->
+    <icon package="com.google.android.youtube" drawable="@drawable/frost_icon_youtube" />
+
+    <!-- YouTube Vanced -->
+    <icon package="com.vanced.android.youtube" drawable="@drawable/frost_icon_youtube" />
+
+    <!-- Y.Taxi -->
+    <icon package="ru.yandex.taxi" drawable="@drawable/frost_icon_ytaxi" />
+
+    <!-- YT Music -->
+    <icon package="com.google.android.apps.youtube.music" drawable="@drawable/frost_icon_ytmusic" />
+    <icon package="com.vanced.android.apps.youtube.music" drawable="@drawable/frost_icon_ytmusic" />
+
+    <!-- YT Studio -->
+    <icon package="com.google.android.apps.youtube.creator" drawable="@drawable/frost_icon_ytstudio" />
+
+    <!-- Yubico Authenticator -->
+    <icon package="com.yubico.yubioath" drawable="@drawable/frost_icon_yubicoauthenticator" />
+
+    <!-- Yuzu Browser -->
+    <icon package="jp.hazuki.yuzubrowser" drawable="@drawable/frost_icon_yuzubrowser" />
+
+    <!-- Zapp -->
+    <icon package="de.christinecoenen.code.zapp" drawable="@drawable/frost_icon_zapp" />
+
+    <!-- ZArchiver -->
+    <icon package="ru.zdevs.zarchiver" drawable="@drawable/frost_icon_zarchiver" />
+
+    <!-- ZeroNet -->
+    <icon package="net.mkg20001.zeronet" drawable="@drawable/frost_icon_zeronet" />
+
+    <!-- zmNinja -->
+    <icon package="com.pliablepixels.zmninja_pro" drawable="@drawable/frost_icon_zmninja" />
+
+    <!-- Zonky -->
+    <icon package="cz.zonky" drawable="@drawable/frost_icon_zonky" />
+
+    <!-- Zoo for Zotero -->
+    <icon package="com.mickstarify.zooforzotero" drawable="@drawable/frost_icon_zooforzotero" />
+
+    <!-- Zoysii -->
+    <icon package="xyz.deepdaikon.zoysii" drawable="@drawable/frost_icon_zoysii" />
+
+    <!-- μlogger -->
+    <icon package="net.fabiszewski.ulogger" drawable="@drawable/frost_icon_ulogger" />
+
+</icons>
+</resources>

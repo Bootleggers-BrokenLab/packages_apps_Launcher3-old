@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/theme_icon_size"
+    android:height="@dimen/theme_icon_size"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M14.5 4c-1.662 0-3 1.338-3 3v34c0 1.662 1.338 3 3 3h19c1.662 0 3-1.338
+3-3v-34c0-1.662-1.338-3-3-3h-19zm5.5 9h8c1.662 0 3 1.338 3 3v16c0 1.662-1.338
+3-3 3h-8c-1.662 0-3-1.338-3-3v-16c0-1.662 1.338-3 3-3z" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M 23 17 L 25 17 Q 28 17 28 20 L 28 28 Q 28 31 25 31 L 23 31 Q 20 31 20 28 L 20 20 Q 20 17 23 17 Z" />
+</vector>
